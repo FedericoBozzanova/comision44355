@@ -1,0 +1,914 @@
+00:41:33	Felipe Murga:	Buenassssssssssssss
+00:41:36	Gustavo Damian Castañares:	creo que odio grids
+00:41:37	conrado veloz:	pero no quitaron la luz otras zonas se les explotaron los tranformadores
+00:41:41	Matias Barbalase:	mañana se practica
+00:41:44	[Tutor] Matias Larsson:	Hola chicos!! 💪🏻😀 Vamos con todo hoy
+00:41:51	Tomas Lopez Rivas:	practicando igual estoy renegando
+00:41:52	Federico Bozzano:	Gabi estas semanas escuche mas tu voz que a toda mi familia y mi novia y todo jaja
+00:42:05	Federico Bozzano:	jajaj si  claro claro
+00:42:14	Sebastian Gomez:	las clases al fin de semana de nuevo
+00:42:15	Valentina:	Buenas
+00:42:31	Federico Bozzano:	por suerte su voz es calida y pausada jajaja
+00:42:42	Matias Barbalase:	mmm ese tranqui gabii
+00:42:42	Joaquin Gourriet:	el nombre parece divertido
+00:42:55	conrado veloz:	si salgo derrepente no se preocupe
+00:42:55	Felipe Murga:	nadie los quiere recordar igual
+00:43:22	conrado veloz:	eso sinifica que me fui a la verga
+00:43:26	Felipe Murga:	cada vez somos menos en el curso
+00:43:32	Federico Bozzano:	🤣
+00:43:55	Franco Escalante:	creo que Valentina no tiene el nombre completo
+00:44:07	Matias Barbalase:	q bajon q se baje gente
+00:44:08	Joaquin Gourriet:	grids exploto varias cabezas
+00:44:09	Leidymar Delgado:	Holaa buenas noches!!
+00:44:12	Catriel Drago:	como en la facu
+00:44:20	Matias Barbalase:	igual si grids en mi caso me mato
+00:44:25	Edson Pareja:	Es hermoso esto como no les gusta jajjaja
+00:44:32	Franco Escalante:	había clases de prueba no ?
+00:44:37	conrado veloz:	profe
+00:44:46	Felipe Murga:	vamosss alfin algo chill
+00:45:07	conrado veloz:	si me va la luz me ponen la asistencia
+00:45:07	Fernando Gimenez:	genial
+00:46:00	conrado veloz:	es imprecion mia o veo poca jente
+00:46:32	Federico Bozzano:	hubo varios eliminados en primera ronda conra al parecer ;_;
+00:46:35	[Tutor] Manuel Sanchez:	Siempre van bajando a medida que hay entregas de desafios
+00:46:57	conrado veloz:	😱
+00:46:58	[Tutor] Manuel Sanchez:	Presten atención a la clase que es muy importante
+00:48:16	Gonzalo Rojas:	color
+00:48:17	Luis Pitre:	color degradado?
+00:48:17	Federico Bozzano:	colores
+00:48:17	Gonzalo Rojas:	?
+00:48:18	Freddy  Martinez Osteicoechea:	desgradacione
+00:48:19	Catriel Drago:	degradado
+00:48:21	Federico Bozzano:	transparencia
+00:48:22	Santiago Amarilla:	matematicas
+00:48:26	Lucas Palacios:	yo tengo un concepto matematico
+00:48:33	Gonzalo Rojas:	ohno
+00:49:26	Joaquin Gourriet:	usted paso una web que lo genera
+00:50:17	[Profe] Gabriel López:	https://cssgradient.io/
+00:51:21	Felipe Murga:	para hacer un cromado
+00:51:26	Gonzalo Rojas:	bieeen
+00:51:27	Gonzalo Rojas:	genialll
+00:52:09	Edson Pareja:	también puede ser de arriba para abajo?
+00:52:50	Felipe Murga:	facherito
+00:53:17	Joaquin Gourriet:	vintag
+00:53:24	Luis Pitre:	Para un botón quedaría filete.
+00:54:03	Emiliano Romero:	Profe tengo una para pasarles por si les sirvehttps://webgradients.com/
+00:54:11	Matias Barbalase:	🥺
+00:54:18	Nataniel Kreimer:	Tal vez para un fondito
+00:54:23	Miguel Garcia:	Aqui una mas para gradientes
+00:54:24	Miguel Garcia:	https://uigradients.com/#JShine
+00:54:48	Jarod Calderon:	ahí se ve con gradiente en la página de coderhouse
+00:55:04	Lucas Palacios:	difuminado?
+00:55:13	Catriel Drago:	yo lo use para eso
+00:55:14	Lucas Palacios:	ahh si
+00:55:22	[Tutor] Manuel Sanchez:	Claro Jarod, son detalles que esta bueno implementar
+00:55:32	[Tutor] Manuel Sanchez:	pero no abusar
+00:55:48	Emiliano Romero:	Claro es para que se entiendan los textos
+00:55:57	Valentina:	Claro
+00:55:59	Luis Pitre:	Gabriel, ¿Podrias explicar con ejemplos desde cero por favor? Como los GRIDS, porque cuando explicas sobre tu proyecto no cacho mucho.
+00:56:00	[Tutor] Manuel Sanchez:	A que sea un frankenstein
+00:56:01	[Tutor] Manuel Sanchez:	jajajjaj
+00:56:02	Gonzalo Rojas:	Todo bien epileptico
+00:56:43	[Tutor] Manuel Sanchez:	Luis, si no se llega a entender lo de grids esta clase, hay un after solo de eso, que seguramente se vea desde 0 y bien en detalle
+00:57:07	Luis Pitre:	Manuel, no dije que tenia dudas sobre GRIDS, dije que si es posible explicar estos temas con ejemplos desde cero.
+00:57:29	Luis Pitre:	Es mas fácil ver un ejemplo desde cero y aplicarlo a nuestro proyecto, a que sean aplicados en proyectos en curso.
+00:57:32	Gonzalo Rojas:	aparece todo negro
+00:57:34	MartÍn Alba:	Queda negro
+00:57:35	Andrea Barreiro:	se oscurece
+00:57:37	Emiliano Romero:	se va tapar la imagen
+00:57:37	Federico Bozzano:	todo negro
+00:57:38	MartÍn Alba:	Falta la transparencia
+00:57:39	Felipe Murga:	se va a ver mas opaco
+00:57:39	Federico Bozzano:	no hay gradiente xD
+00:57:41	Matias Barbalase:	negro
+00:57:51	Gonzalo Rojas:	no hay transparencia
+00:57:52	Lucas Palacios:	porque no tiene transición?
+00:57:54	Fernando Gimenez:	rgba?
+00:57:56	MartÍn Alba:	Falta la transparencia
+00:57:59	Emiliano Romero:	porque esta el negro al %100
+00:58:00	Felipe Murga:	pq el negro es mas fuerte??
+00:58:02	Joaquin Gourriet:	igual la imagen esta comentada
+00:58:02	Catriel Drago:	tampoco le dio transparencia
+00:58:03	Lucas Palacios:	o sea va de negro a negro
+00:58:05	Tomas Lopez Rivas:	porque pones el color arriba de la imagen?
+00:58:11	Fernando Gimenez:	0.90
+00:58:40	Felipe Murga:	esa class es solo de la imagen no??
+00:58:44	Joaquin Gourriet:	cheto
+00:58:55	Franco Escalante:	es como bajarle el brillo a la imagen
+00:58:56	[Tutor] Manuel Sanchez:	Si Felipe
+00:58:59	MartÍn Alba:	Porque si el color va atrás de la imagen, no ves el RGB
+00:59:05	Gonzalo Rojas:	Preguntita como quedaría si solo le asignas transparencia a solo un color allí???
+00:59:05	Tomas Lopez Rivas:	tremendo
+00:59:11	Gaston Jongewaard de Boer:	es un montón xd
+00:59:11	Tomas Lopez Rivas:	queda mas fino asi
+00:59:15	Martin Lamacchia:	por que se ponen dos rgba?
+00:59:16	Facundo Lanaro:	le da un lindo filtro
+00:59:17	Fernando Gimenez:	ahorro bateria
+00:59:19	Fernando Gimenez:	genial
+00:59:20	juan bernacchi:	oooh
+00:59:20	Federico Bozzano:	lo manda pal fondo
+00:59:27	Santiago Amarilla:	en el linear entonces empieza de arriba a abajo ?
+00:59:37	Gaston Jongewaard de Boer:	se puede hacer una transición sobre el tiempo? onda carga la pag y pasa de negro a opaco con la imagen?
+00:59:37	Santiago Amarilla:	para eso usas dos black entonces
+00:59:38	[Tutor] Matias Larsson:	Santi en la dirección que quieras
+00:59:39	Catriel Drago:	esta mal ponerlo en el background-img?
+00:59:43	Freddy  Martinez Osteicoechea:	y cuando queda como borroso es con lo mismo ?
+00:59:43	[Tutor] Matias Larsson:	Pero siempre lineaal
+00:59:44	Santiago Amarilla:	genial
+00:59:48	Federico Bozzano:	esta empañado el espejo ahora
+00:59:52	[Tutor] Manuel Sanchez:	Si se puede Gaston
+01:00:00	Santiago Amarilla:	entendido
+01:00:01	Joaquin Gourriet:	se puede usar para el fonde de un texto también?
+01:00:01	Federico Bozzano:	bloody bogui
+01:00:02	[Tutor] Manuel Sanchez:	No Freddy
+01:00:10	Freddy  Martinez Osteicoechea:	mmm ok
+01:00:12	[Tutor] Manuel Sanchez:	se usa otro efecto, que también lo vamos a ver
+01:00:17	[Tutor] Manuel Sanchez:	con blur
+01:00:19	Freddy  Martinez Osteicoechea:	okok ty
+01:00:19	Erick Osuna Saavedra:	Podrías poner el css=
+01:00:20	Erick Osuna Saavedra:	??
+01:00:21	Gaston Jongewaard de Boer:	gracias Manu
+01:00:23	Gaston Jongewaard de Boer:	quiero ver eso xd
+01:00:27	Joaquin Gourriet:	ok
+01:00:42	[Tutor] Manuel Sanchez:	Cuando veamos animaciones vas a poder hacer eso Gaston
+01:01:15	Matias Barbalase:	😶‍🌫️
+01:01:24	conrado veloz:	prefe usted dijo en una clase pasada que nos iva a enseñar las anteriores entregas finales
+01:02:16	Joaquin Gourriet:	hover?
+01:02:38	[Tutor] Manuel Sanchez:	Ahora Joaquin, no nos adelantemos
+01:03:36	Delfina Fonti:	donde esta el link de esa pagina
+01:03:41	Delfina Fonti:	'?
+01:04:07	Felipe Murga:	el hoover es para que brille un botón por ejemplo
+01:04:07	Rodrigo Nuñez:	src="./images/hero_banner.jpeg"
+01:04:08	Edson Pareja:	https://cssgradient.io/
+01:04:18	Rodrigo Nuñez:	perdo , me equivoque
+01:04:24	Fernando Gimenez:	cambia el puntero ?
+01:04:29	Delfina Fonti:	graciass
+01:04:53	[Tutor] Manuel Sanchez:	Eso es otra cosa Fernando, es una propiedad que se llama cursor
+01:04:53	Felipe Murga:	se ilumina por ejemplo
+01:04:54	Fernando Gimenez:	aaah okok
+01:04:59	Joaquin Fernandez:	yo lo aplique en mi proyecto al hoover, me adelante perdon
+01:05:02	Luciano Diotallevi:	en el GTA pasaba eso
+01:05:03	Fernando Gimenez:	cambia el elemento
+01:05:11	[Tutor] Matias Larsson:	El navegador detecta cuando el puntero se posa encima de una etiqueta html
+01:06:15	Joaquin Gourriet:	cambio
+01:06:17	Felipe Murga:	movimiento
+01:06:28	Joaquin Gourriet:	tiempo
+01:06:33	Emiliano Romero:	pasar de una cosa a otra
+01:06:33	Miguel Garcia:	pasar de un color a otro
+01:06:36	Leonel Eguren:	cambio de estado
+01:06:37	Piero Giuseppe Peralta Napoli:	algo similar a un hover?
+01:06:38	Amina Sleiman:	proceso
+01:06:58	Catriel Drago:	va cambiando en un determinado tiempo
+01:07:03	Federico Bozzano:	no me había dado cuenta que cambiaba el color hasta ahora .. super sutil
+01:07:22	Tomas Lopez Rivas:	como el lationamerica de la pagina de coder? que va cambiando de color solo?
+01:07:30	[Profe] Gabriel López:	:hover
+01:07:33	Luciano Ippolito:	la palabra Latinoamerica tiene transicion de color
+01:07:33	[Tutor] Manuel Sanchez:	Son detallesd que bien hechos quedan super profesionales
+01:07:55	Catriel Drago:	si
+01:07:57	Gonzalo Rojas:	yepp
+01:08:00	Joaquin Gourriet:	si
+01:08:00	Luciano González:	chi
+01:08:02	federico russo:	si
+01:08:12	Felipe Murga:	yo en mi proyecto le puse un fondo negro y cuando lo tocabas con el puntero se ponía blanco
+01:08:18	Felipe Murga:	queda re bien
+01:08:46	Facundo Lanaro:	se puede agrandar una imagen pasándole el cursor por encima?
+01:08:52	Federico Bozzano:	ra
+01:08:54	[Tutor] Manuel Sanchez:	Si facu
+01:08:54	Federico Bozzano:	ea*
+01:09:00	[Tutor] Manuel Sanchez:	Es casi lo mismo que esta haciendo
+01:09:02	Fernando Gimenez:	ideal para las fotos
+01:09:04	Catriel Drago:	el cambio es brusco
+01:09:07	Fernando Gimenez:	no
+01:09:08	Gaston Jongewaard de Boer:	no
+01:09:08	Facundo Luna:	nope
+01:09:09	Edson Pareja:	no
+01:09:11	Gabriel Frattesi:	no
+01:09:12	Lucas Palacios:	eso desplaza items o se superpone?
+01:09:12	Federico Bozzano:	es mas bien una reaccion
+01:09:22	Gonzalo Rojas:	una animación owo
+01:09:38	[Tutor] Manuel Sanchez:	depende el tipo de position que tengas Lucas, pero podría hacer las dos cosas
+01:09:41	Gaston Jongewaard de Boer:	cuánta psicología y estudios hay detrás de un diseño front end? XDD
+01:10:00	Gaston Jongewaard de Boer:	interesante
+01:10:03	Gaston Jongewaard de Boer:	cómo se escribe?
+01:10:09	[Profe] Gabriel López:	ui ux
+01:10:10	Felipe Murga:	UX UI
+01:10:15	Gaston Jongewaard de Boer:	ahh hay cursos de esos en coder
+01:10:20	Gaston Jongewaard de Boer:	humm
+01:10:22	[Tutor] Manuel Sanchez:	Por eso son dos personas distintas los que hacen UX/UI y los programadores solo copian la interfaz
+01:10:29	Piero Giuseppe Peralta Napoli:	UX User ExperienceUI User Interface
+01:10:33	Facundo Luna:	user interface, user experience
+01:10:36	Erick Osuna Saavedra:	Momento de Publicidad
+01:10:36	Gonzalo Rojas:	El rojo me transmite ira
+01:10:37	Gonzalo Rojas:	ej
+01:10:38	Erick Osuna Saavedra:	Jajaja
+01:10:38	Santiago Amarilla:	mercado libre un gran ejemplo
+01:10:56	Jarod Calderon:	de hecho alguien dijo que no notaba que cambiaba de color la etiqueta en la página de coder
+01:11:02	Jarod Calderon:	es porque estás acostumbrado
+01:11:07	Gaston Jongewaard de Boer:	y vos por qué estudias psicología? porque soy front end dev ¿?
+01:11:12	Jarod Calderon:	y no notas la diferencia, pero si no estuviera si lo notaría
+01:11:30	Felipe Murga:	no satisfactorios
+01:11:38	Federico Bozzano:	Hola Jarod, lo dije yo. la verdad que tienes razón. no me había dao cuenta
+01:11:49	Matias Barbalase:	un screamer
+01:12:17	Gonzalo Rojas:	Gracias matias por la idea >:3c
+01:12:22	Josue Belmonte:	Esto afecta de igual manera en version mobile por ejemplo?
+01:12:25	Matias Barbalase:	jajaja denada :P
+01:13:38	Gonzalo Rojas:	Profe al final de la clase puede pasar esto?
+01:14:20	Franco Escalante:	delay para retrasar el tiempo
+01:14:24	Joaquin Gourriet:	.5s
+01:14:38	Franco Escalante:	si
+01:14:54	Gonzalo Rojas:	aaaaaaaa
+01:14:54	Federico Bozzano:	wooo
+01:14:55	Gonzalo Rojas:	ooh
+01:14:56	Matias Barbalase:	apa
+01:14:57	Facundo Lanaro:	facherito
+01:14:57	Gonzalo Rojas:	*w*
+01:14:58	Catriel Drago:	sip
+01:14:58	Felipe Murga:	seee
+01:14:58	Joaquin Gourriet:	yea
+01:15:22	Luciano González:	sii
+01:15:22	Catriel Drago:	si
+01:15:23	Edson Pareja:	si
+01:15:23	Martin Lamacchia:	si
+01:15:23	Matias Barbalase:	yes
+01:15:24	Freddy  Martinez Osteicoechea:	sii
+01:15:25	Freddy  Martinez Osteicoechea:	hemroso
+01:15:36	conrado veloz:	mañana no duermo
+01:16:00	Jonathan Perrone:	Podemos hacer una transición automática? Sin necesidad de pasar el cursor por encima?
+01:16:13	Jonathan Medina:	Se puede poner que vuelva en 2 s para que se note una pequeña diferencia?
+01:16:26	Andrea Barreiro:	si
+01:16:27	Matias Barbalase:	mas lento?
+01:16:28	Gonzalo Rojas:	mas lento?
+01:16:30	[Tutor] Manuel Sanchez:	SI Jonathan, se puede hacer si no pones todo esto dentro de hover
+01:16:31	Tomas Lopez Rivas:	lo hace mas lentoi?
+01:16:39	Franco Escalante:	entonces con esto podemos usar para que aparezca un banner en determinado tiempo?
+01:16:48	Felipe Murga:	se puede poner un texto o algo mientras se mueve? nose si se entiende la pregunta
+01:17:07	[Tutor] Manuel Sanchez:	Exacto Franco
+01:17:11	Gaston Jongewaard de Boer:	ese es mas delicado xd
+01:17:22	Gonzalo Rojas:	Ese lo tiene coder
+01:17:23	Gonzalo Rojas:	no?
+01:17:29	Franco Escalante:	gracias Manu
+01:17:35	Gabriel Villafañe:	me dan sensación a qué la página está andando mal
+01:17:44	Catriel Drago:	como era la anterior?
+01:17:51	[Tutor] Manuel Sanchez:	Seguro que es por la velocidad Gabriel, si es mas rápido es mas natural
+01:17:55	Fernando Gimenez:	debe ser el zoom
+01:17:56	[Tutor] Manuel Sanchez:	tan lento genera ansiedad
+01:18:03	Erick Osuna Saavedra:	ease-in-out
+01:18:08	Catriel Drago:	gracias
+01:18:51	Andrea Barreiro:	jjajaa
+01:18:53	Luciano Diotallevi:	AJAJAJJ
+01:18:53	Felipe Murga:	jajaja
+01:18:54	Matias Barbalase:	me dormi
+01:18:59	Gonzalo Rojas:	zzzzz
+01:19:01	Luciano Diotallevi:	asi cargaba los sims en mi primer pc (?
+01:19:07	Federico Bozzano:	ping 500
+01:19:09	Fernando Gimenez:	jajaja
+01:19:30	Franco Marini:	también tarda en volver digamos?
+01:19:37	Felipe Murga:	esto sirve mucho para la facha de la pagina
+01:19:40	Leonel Eguren:	estas funciones hacen funcionar mas lento la web?
+01:19:50	[Tutor] Manuel Sanchez:	Asi es franco
+01:19:53	Franco Marini:	osea el delay seria antes de apoyar el cursor y luego de sacarlo?
+01:20:03	Franco Marini:	perfecto, gracias manu
+01:20:15	[Tutor] Manuel Sanchez:	Por lo general no Leonel, tendría que ser una animación muy pesada, o tendira que haber muchisimas
+01:20:26	Leonel Eguren:	joya
+01:20:53	Federico Bozzano:	se puede especificar que al quitar el mnouse no quiro animación?
+01:21:04	Federico Bozzano:	que al quitar el mouse no quiero animación* ?
+01:21:12	Luis Pitre:	Al quitar el mouse, se cancela por defecto.
+01:21:20	Federico Bozzano:	oki
+01:21:20	Gonzalo Rojas:	mas rapidoo
+01:21:22	Leonel Eguren:	aah muy fachero
+01:21:35	Federico Bozzano:	gracias
+01:22:03	Federico Bozzano:	Crei que se le aplicabas un efecto, también se aplicaba al retirarse el mouse
+01:22:14	Federico Bozzano:	bien
+01:22:39	Felipe Murga:	dura una eternidad
+01:22:52	Federico Bozzano:	ease out me cae bien
+01:22:58	Luciano González:	esto se puede usar para cuando nos posicionamos en un submenú? así aparecen las opciones
+01:23:04	[Tutor] Manuel Sanchez:	Por lo general, para animaciones, suelo usar entre .3 y .5 segundos, dato curioso
+01:23:04	Catriel Drago:	no hace falta ponerle hover?
+01:23:12	[Tutor] Matias Larsson:	Si Lau
+01:23:25	[Tutor] Matias Larsson:	*Lu
+01:23:32	Felipe Murga:	horrible el steps
+01:23:32	Leonel Eguren:	onda mario con el hongo
+01:23:34	Gonzalo Rojas:	mas retro
+01:23:40	Luciano González:	gracias!!
+01:23:43	Lucas Rodriguez Alvarez:	no hace falta ponerle el hover??
+01:23:45	Edson Pareja:	si tiene hover catriel
+01:23:45	[Tutor] Manuel Sanchez:	Catriel, depende para que, el hover lo que te dice es cuando le pases el mouse, va ahcer esa animacion
+01:24:10	Joaquin Gourriet:	ya lo aplico al div al hover
+01:24:11	[Tutor] Manuel Sanchez:	Si no le pones el hover, lo va a hacer apenas abras la pagina
+01:24:25	Gonzalo Rojas:	ponga 1000 aber
+01:24:27	Felipe Murga:	ah ahí esta mejor
+01:24:29	Franco Escalante:	si ponemos mas cantidad de pasos y unos segundos mas casi creamos un efecto parecido a lienar?
+01:24:33	David Echeverri:	como se aplica a una imagen? igual?
+01:24:33	Catriel Drago:	ah pero en los recuadros esos no le puso y se agrandan a eso me refiero
+01:24:49	[Tutor] Manuel Sanchez:	Exactro David, de la misma manera
+01:24:52	Catriel Drago:	cuando le pone el maus por ensima
+01:24:58	Gabriel Villafañe:	y se le puede agregar en la expansión algún efecto difuminado?
+01:25:35	[Tutor] Manuel Sanchez:	Si Gabi, se pueden agregar un montón de cosas, cuando veamos keyframes lo vemos
+01:25:44	Felipe Murga:	soy hover lover
+01:25:44	Gabriel Villafañe:	creo que si
+01:26:05	Maximiliano Vergara Dominguez:	esto viene de la mano con un sub menu?
+01:26:12	[Tutor] Manuel Sanchez:	Si le puso Catriel, si no no funcionaria cuando pones el mouse encima
+01:26:22	Edson Pareja:	el hover esta aplicado a los div noo?
+01:26:26	Catriel Drago:	ah por que le puso a todos los divs
+01:26:26	[Tutor] Matias Larsson:	A no pasarse con los hovers que mucho molesta! Todo en su justa medida 😅
+01:26:28	[Tutor] Manuel Sanchez:	Podria ser maxi, pero va a ser mas fácil eso con bootstrap
+01:26:41	Catriel Drago:	ahora me di cuenta
+01:26:42	[Tutor] Manuel Sanchez:	Si Edson
+01:27:05	Edson Pareja:	gracias manu
+01:27:17	[Tutor] Manuel Sanchez:	Como dice Mati, muchos hover pueden molestar, y después para la vista del celu tienen que sacar todos porque molestan mas todavia
+01:27:20	Edson Pareja:	me hisiste dudar Catriel jajaja
+01:27:52	Gonzalo Rojas:	jajajaj
+01:27:55	Felipe Murga:	jajajaaja
+01:27:58	Gonzalo Rojas:	Existe creo la paginal realmente
+01:28:02	Santiago Amarilla:	el rey de la internet
+01:28:05	Catriel Drago:	yo tambien quede confundido
+01:28:05	Luciano Diotallevi:	link
+01:28:05	conrado veloz:	pasa la
+01:28:07	Gustavo Damian Castañares:	la intente hacer xd
+01:28:16	Erick Osuna Saavedra:	Liiiiiiiiiiiiiiiiiink
+01:28:21	Erick Osuna Saavedra:	xD
+01:28:24	Gonzalo Rojas:	http://www.homerswebpage.com
+01:28:46	Franco Marini:	podrías mostrar de vuelta el html para ver donde agregaste el hover Gabi?
+01:28:48	Federico Bozzano:	JAJAJ esa pagina jaja
+01:28:50	Santiago Amarilla:	f12 a la pagina
+01:28:51	conrado veloz:	🤣🤣
+01:29:42	Jarod Calderon:	here we go again
+01:29:45	Nicolas Marset:	Conrado te amo
+01:29:53	Luciano Diotallevi:	Conrado Lover
+01:29:54	Federico Bozzano:	es un avión XD
+01:30:05	Valentina:	Se me había cortado el internet, ya estoy de nuevo
+01:30:13	Jarod Calderon:	un capo
+01:30:22	Jarod Calderon:	un semidiós
+01:30:34	conrado veloz:	🤣
+01:30:35	Felipe Murga:	pensé que se llamaba franco Armani jaja
+01:30:39	conrado veloz:	tengo fans
+01:30:45	Luis Pitre:	Gabriel, como hago para que un botón se amplie de manera unifmre? Porque tengo un botón de contactar y cuando utilizo el width, crecen los bordes no mas y no todo el botón.
+01:30:48	Joaquin Gourriet:	al div contenedor
+01:30:53	conrado veloz:	soy uan celebridad o que
+01:31:18	[Tutor] Manuel Sanchez:	Luis, hay una función que se llama scale()
+01:31:37	[Tutor] Manuel Sanchez:	Investiga un poco sobre esa, porque es muy interesante
+01:31:40	Catriel Drago:	hay shorcut?
+01:31:54	[Tutor] Manuel Sanchez:	https://developer.mozilla.org/es/docs/Web/CSS/transform-function/scale#:~:text=La%20funci%C3%B3n%20CSS%20scale(),y%20vertical%20a%20diferentes%20escalas.
+01:31:58	[Tutor] Manuel Sanchez:	Luis ^^^^^^
+01:32:04	Luis Pitre:	Me funciono Manuel.
+01:32:16	Edson Pareja:	herencia
+01:32:23	Catriel Drago:	a todos los div dentro del section con la class .transition
+01:32:38	[Tutor] Matias Larsson:	Exacto Catriel
+01:33:17	[Tutor] Manuel Sanchez:	Fijate que lo pase por aca al linkl
+01:33:20	Jarod Calderon:	un semidios
+01:33:26	Franco Marini:	🤣
+01:33:37	Edson Pareja:	Presidente de la comisión
+01:33:48	conrado veloz:	🤣
+01:33:53	federico russo:	Conrado corazon
+01:33:53	Josue Belmonte:	A manejar la ansiedad Conrado 😂
+01:34:02	Luis Pitre:	el tamaño por defecto es el 100%, por ende, ulitiza un 120% para que crezca un poco. Conrado.
+01:34:27	conrado veloz:	si por que se aruina
+01:34:38	conrado veloz:	mejor un 30 o 90
+01:34:53	Catriel Drago:	xD
+01:35:06	Felipe Murga:	tengo hambre...
+01:35:10	Gonzalo Rojas:	yupi
+01:35:12	Leonel Eguren:	mi tu
+01:35:16	Catriel Drago:	joya
+01:35:17	Gabriel Frattesi:	Dale
+01:35:18	Leonel Eguren:	okas1
+01:35:19	Gonzalo Rojas:	chi uwu
+01:35:20	Felipe Murga:	daleee
+01:35:22	Luciano Diotallevi:	Varvarco
+01:35:33	[Tutor] Matias Larsson:	Atentos a mis ausentes a ver si hay alguno x aca:
+01:35:34	[Tutor] Matias Larsson:	Julieta Scala Laureano GonzalezLucas Fraccaro Marcos Tomas IrañetaMariano Ardohain Melina SandovalNicolás SanguinettiSofía Cornaló
+01:35:38	conrado veloz:	pon música epica
+01:35:40	Freddy  Martinez Osteicoechea:	para el transition  hay q aplicar un hover primero ?
+01:35:42	[Tutor] Manuel Sanchez:	Mi Lista de ausentes!Andrea GonzalezCeleste ArrietaDiana GuarinEmanuel MassaErika Morales
+01:35:47	conrado veloz:	🤣
+01:35:53	conrado veloz:	musica epica
+01:35:55	Diana Guarin:	no yo estoy
+01:35:56	Joaquin Gourriet:	que Conrado elija el tema
+01:36:04	Gonzalo Rojas:	ponga música de free fire
+01:36:04	Gonzalo Rojas:	xd
+01:36:07	conrado veloz:	para recordar a mis ante pasados
+01:36:07	Jonathan Medina:	Rock nacional !
+01:36:12	conrado veloz:	😊
+01:36:13	Franco Marini:	un poco de Freddie Mercury!
+01:36:17	Luciano González:	la banda sonora de la casa del dragón (?
+01:36:20	Catriel Drago:	airbag
+01:36:22	Luciano Diotallevi:	siiiiiiiiiiiiiiiiiii
+01:36:24	Luciano Diotallevi:	Freddy
+01:36:25	Piero Giuseppe Peralta Napoli:	Jhon Legend :v
+01:36:25	conrado veloz:	o ghosname
+01:36:30	Luciano Diotallevi:	Freddy lover
+01:36:31	Luciano González:	Babasonicos?
+01:36:41	Franco Marini:	4ever queen
+01:36:41	Luciano Diotallevi:	Mi dios Conrado, mi mesias FReddy
+01:36:43	Fernando Gimenez:	obvio gabi
+01:36:46	Fernando Gimenez:	no se pregunta eso
+01:36:50	Nataniel Kreimer:	red hot chilli peppers
+01:36:51	conrado veloz:	🤣
+01:37:06	conrado veloz:	cuanto fans tengo
+01:37:14	Luciano Diotallevi:	🤘🏼
+01:37:30	Joaquin Gourriet:	Conrado house
+01:37:34	Matias Barbalase:	temon
+01:37:46	conrado veloz:	digan yo
+01:37:49	Jarod Calderon:	alguien se recuerda el dato que dio el profe para sobreponer algo a todos los elementos en pantalla?
+01:37:51	Jarod Calderon:	en el html
+01:37:53	conrado veloz:	para saber 🤣
+01:37:55	Jarod Calderon:	era una sola propiedad
+01:38:35	conrado veloz:	el profe fantasma te lo presenta jarod
+01:38:40	Andrés Botía:	zindex
+01:39:23	Lucas Alejandro Peer:	z-index
+01:40:01	Jarod Calderon:	con valor 1 cierto?
+01:41:31	Catriel Drago:	si
+01:42:10	[Profe] Gabriel López:	https://developer.mozilla.org/es/docs/Web/CSS/z-index
+01:42:45	[Profe] Gabriel López:	Developer Mozilla es la Biblia de los Desarrolladores, cualquier cosa que necesiten seguro lo podrán conseguir en esa pagina
+01:44:24	Felipe Murga:	esta canción pega mucho con la clase
+01:44:52	Gaston Jongewaard de Boer:	a mi me gusta esa camisatengo una igual pero tiene flamencos xd
+01:45:23	[Tutor] Manuel Sanchez:	stack overflow también es una biblia
+01:45:27	[Tutor] Manuel Sanchez:	W3School
+01:46:04	conrado veloz:	tengo problemas
+01:46:23	Diana Guarin:	si
+01:46:25	Debora Robles:	sii
+01:46:26	Luciano González:	sip
+01:46:27	conrado veloz:	si
+01:46:30	Felipe Murga:	tamos
+01:46:33	Javier Herrero:	siii
+01:46:33	Matias Barbalase:	otro break
+01:46:38	Oscar Manuel Solís Chávez:	arre arre
+01:46:39	Gonzalo Rojas:	pq
+01:46:39	Rodrigo Nuñez:	sisisis estamoss
+01:46:40	Felipe Murga:	quiero mas brujerias
+01:46:40	Matias Barbalase:	😶‍🌫️
+01:46:42	[Tutor] Matias Larsson:	Stack overflow sirve mucho para cuando tenemos un error y estamos cansados de dar vueltas y vueltas... seguro en stack hay alguien que ya le paso y allí esta la solución...
+01:49:47	Joaquin Gourriet:	matrix profe
+01:49:59	Matias Barbalase:	20
+01:50:02	Martin Lamacchia:	200px
+01:50:02	Felipe Murga:	7
+01:50:03	Catriel Drago:	50%
+01:50:05	Federico Gomez Beret:	150px
+01:50:13	Matias Barbalase:	:c
+01:50:18	conrado veloz:	100
+01:50:29	Erick Osuna Saavedra:	50% del contenedor?
+01:50:41	Joaquin Gourriet:	tiempo
+01:50:41	Catriel Drago:	transition
+01:50:41	Gabriel Frattesi:	transition
+01:50:42	Federico Gomez Beret:	transition
+01:50:43	Franco Escalante:	transition
+01:50:45	Edson Pareja:	transition
+01:50:46	Erick Osuna Saavedra:	Cuando es porcentaje es sobre el contenedor?
+01:50:57	[Tutor] Manuel Sanchez:	En este caso si Erick
+01:51:09	Erick Osuna Saavedra:	Ok ok, Gracias!
+01:51:37	Luis Pitre:	Gabriel, si se le agrega la transition al hover , ¿no se aplica?
+01:51:55	Catriel Drago:	no importa el orden?
+01:52:02	Josue Belmonte:	Se lo apliqué a un h2 y me cambió la font 🥲
+01:52:17	Matias Barbalase:	lo mismo xd
+01:52:19	Matias Barbalase:	ah no
+01:52:21	[Tutor] Manuel Sanchez:	En ese caso Luis funcionaria medio raro, porque te tomaría la primera aprte de la transición y después volvería de manera brusca, sin transicion
+01:52:25	Luis Pitre:	No la vi, pensé que era lo mismo.
+01:52:28	Andrea Barreiro:	Vuelve de golpe
+01:52:29	Federico Gomez Beret:	tenes q sacar el mouse
+01:52:32	Matias Barbalase:	vuelve al mismo lugar
+01:52:36	Matias Barbalase:	en el otro caso no
+01:52:43	MartÍn Alba:	El hover solo funciona cuando tenes el mouse arriba
+01:52:53	[Tutor] Manuel Sanchez:	Exacto como dice martin
+01:53:05	Catriel Drago:	ahhh
+01:53:06	Luis Pitre:	Ya, entiendo.
+01:53:07	Luis Pitre:	Gracias
+01:53:08	Matias Barbalase:	tremendo
+01:53:09	Joaquin Gourriet:	ahhh
+01:53:09	Felipe Murga:	perfecto
+01:53:16	Felipe Murga:	Necesitas hacerlo en los 2
+01:53:27	Joaquin Gourriet:	eso me estaba pasando
+01:53:29	[Tutor] Manuel Sanchez:	No a los dos Felipe, al elemento
+01:53:34	Valentin Capello Ramil:	aaaa me pasaba eso
+01:53:36	Fernando Gimenez:	solo al elemento
+01:53:37	Joaquin Gourriet:	estaba aplicando al hover
+01:53:39	Luis Pitre:	Bien, ya lo acomde el mi proyecto, se me devolvía de golpe, bien ahi
+01:53:42	Fernando Gimenez:	te conviene
+01:54:09	Jarod Calderon:	si quiero que cambie de color con una transition de 2s
+01:54:09	Gaston Jongewaard de Boer:	y poner un transition en ambos? con distintos tiempos?
+01:54:09	Jarod Calderon:	?
+01:54:19	Catriel Drago:	no importa el orden de los valores en el short cut?
+01:54:27	MartÍn Alba:	Le tomaría el ultimo en la cascada ¿No?
+01:54:30	Gaston Jongewaard de Boer:	yyy pensaba en que primero tarde menos y dsp más
+01:54:45	[Tutor] Manuel Sanchez:	Jarod, también se puede, en vez de poner translate pones el color al que queres cambiar
+01:54:59	[Tutor] Manuel Sanchez:	Si Catriel, si importa
+01:55:16	Joaquin Gourriet:	al hover solo se le aplica la que queres que haga? y los "estilos" al contenedor?
+01:55:30	Joaquin Gourriet:	bien
+01:55:34	Joaquin Gourriet:	a eso iba
+01:55:42	Jarod Calderon:	si, el color ya lo puse, pero quiero que tarde 2s en cambiar de color, cómo se haría en ese caso?
+01:55:51	Leonel Eguren:	en el hover va el "que" y en el elemento el "como"
+01:56:17	Catriel Drago:	xD
+01:56:24	Matias Barbalase:	999 de ping
+01:56:30	Federico Bozzano:	mal jaja
+01:56:52	Jarod Calderon:	el hijo de kratos
+01:57:07	Leonel Eguren:	kjajajaj
+01:57:11	Federico Bozzano:	jaja
+01:57:13	Franco Marini:	kjskdjskkaj
+01:57:19	conrado veloz:	🤣
+01:57:29	Matias Barbalase:	mmm
+01:57:30	Gonzalo Rojas:	x3
+01:57:30	Andrea Barreiro:	ejez
+01:57:32	Federico Gomez Beret:	eje z
+01:57:32	Gonzalo Rojas:	x
+01:57:33	Federico Bozzano:	sobre el  z
+01:57:35	Jarod Calderon:	ambos ejes
+01:57:37	Rodrigo Nuñez:	Y X
+01:57:38	Jarod Calderon:	no?
+01:57:38	Gaston Jongewaard de Boer:	xy
+01:57:38	Leonel Eguren:	mesclando x e y
+01:57:40	Matias Barbalase:	eje y no?
+01:57:41	Erick Osuna Saavedra:	x,y
+01:57:41	Federico Bozzano:	JAJAJ mande fruta xD
+01:57:49	Andrés Botía:	x y y
+01:58:07	Leonel Eguren:	lo tiraste a otra dimensión federico
+01:58:08	Leonel Eguren:	jaja
+01:58:42	Matias Barbalase:	apa
+01:59:01	conrado veloz:	wow
+01:59:02	Matias Barbalase:	se revelo el semáforo
+01:59:13	Gaston Jongewaard de Boer:	negativos?
+01:59:13	Federico Bozzano:	es como que tira una recta desde su posición hasta la coordenada indicada y viaja por esa recta
+01:59:19	Gonzalo Rojas:	😳
+01:59:30	conrado veloz:	se fue por cigarro
+01:59:35	Luis Pitre:	scalee
+01:59:37	Federico Bozzano:	🤣
+01:59:40	MartÍn Alba:	¿La Z también se incluye en ese comando?
+02:00:08	[Tutor] Manuel Sanchez:	Si MArtin
+02:00:34	Federico Gomez Beret:	el doble
+02:00:34	Andrea Barreiro:	el doble crece
+02:00:35	Federico Gomez Beret:	aumenta
+02:00:36	Franco Escalante:	duplica
+02:00:36	Franco Marini:	duplicarse?
+02:00:37	Gabriel Frattesi:	se duplica
+02:00:40	Debora Robles:	el doble
+02:00:55	Joaquin Gourriet:	es buena esa
+02:00:58	Luis Pitre:	Ahora si, que bello, yo disque 120% .
+02:01:08	Leonel Eguren:	acepta números con coma ?
+02:01:14	Catriel Drago:	se puede poner 2 valores al transform?
+02:01:14	Jarod Calderon:	se pone mamado el círculo
+02:01:15	Federico Gomez Beret:	muy bueno para las galerías de IMG
+02:01:18	Facundo Lanaro:	genial para agrandar fotos en un portfolio
+02:01:19	Joaquin Gourriet:	.5
+02:01:29	Leonel Eguren:	eaa
+02:01:36	Joaquin Gourriet:	para botones esta bueno
+02:01:44	Leonel Eguren:	juega bien para un boton
+02:01:53	Luis Pitre:	El botón me quedo facherito.
+02:01:57	Freddy  Martinez Osteicoechea:	PROFE EN EL DESPLIQUE DEL MENU DE ARRIBA ES COMO ?
+02:01:58	Catriel Drago:	eso sirve para las cards
+02:01:59	Felipe Murga:	como el de coder
+02:02:00	Franco Escalante:	pregunta. porque al refrescar la pagina se notan que las pelotitas pasan de cuadrado a circulo? eso tiene solución??
+02:02:02	Federico Bozzano:	se pued eusar numero negativo?
+02:02:10	Joaquin Gourriet:	con tiempo mas rapido
+02:02:14	MartÍn Alba:	Ese comando con un hover que cambie el color a mas oscuro del botón queda de diez
+02:02:28	[Tutor] Matias Larsson:	Fede para achicar usas un numero menor a 1
+02:02:31	Freddy  Martinez Osteicoechea:	PROFE EN EL DESPLIEGUE DEL MENU DE ARRIBA ES COMO ?
+02:02:44	Franco Escalante:	pero tiene solución o nos va a pasar?
+02:02:49	[Tutor] Manuel Sanchez:	Freddy podes reformular la pregunta?
+02:02:52	Freddy  Martinez Osteicoechea:	STEPS EASY LINEAR
+02:02:54	Joaquin Gourriet:	habla de las cajitas
+02:02:59	Catriel Drago:	no se refiere a una dropbox?
+02:03:01	Joaquin Gourriet:	ese
+02:03:04	Freddy  Martinez Osteicoechea:	cuando refresca
+02:03:12	Luis Pitre:	Gabriel , ¿puedes explicar el cambio de color por favor?
+02:03:13	Joaquin Gourriet:	cada vez que usted carga la pagina aparecen
+02:03:17	Luis Pitre:	En la transition
+02:03:53	Erick Osuna Saavedra:	Se refiere a los botones
+02:04:07	Luis Pitre:	Gracias
+02:04:10	Erick Osuna Saavedra:	Que se despliegan los botones hacia abajo
+02:05:30	conrado veloz:	ui me copio la voz 🤣
+02:05:44	Jonathan Perrone:	Eso quiero hacer yo pero no me sale! Jajajaja
+02:05:47	[Tutor] Manuel Sanchez:	Fijate a que elemento le estas haciendo el hover Jarod
+02:05:53	Nicolas Marset:	ajajajsjjssa
+02:05:53	Jonathan Perrone:	Que se haga automáticamente la transición
+02:06:00	Gustavo Damian Castañares:	asd
+02:06:31	Catriel Drago:	ah yo se los hice al a en la lista :P
+02:06:40	Catriel Drago:	lo hice mal
+02:07:25	Jarod Calderon:	yo también Catriel, sí era eso jajaja
+02:07:54	MartÍn Alba:	X es el horizontal
+02:07:55	Gabriel Frattesi:	Rota sobre la horizontal
+02:08:00	Erick Osuna Saavedra:	Está fijo en equis
+02:08:09	Catriel Drago:	si
+02:08:19	Federico Gomez Beret:	como una barra de pollo al spiedo ja
+02:08:38	[Tutor] Manuel Sanchez:	Perfecta imagen mental para quien no ceno todavía jajja
+02:08:49	Rodrigo Nuñez:	jajajajajajaja see mal fede
+02:08:51	Debora Robles:	en espejo
+02:09:01	MartÍn Alba:	¿Queda una linea?
+02:09:06	Felipe Murga:	va a girar como en diagonal
+02:09:06	Tomas Lopez Rivas:	va a volver al mismo lugar?}
+02:09:09	Felipe Murga:	nose como seria
+02:09:09	Debora Robles:	va a quedar inclinado?
+02:09:10	Catriel Drago:	ni idea
+02:09:11	Franco Escalante:	como si cambia de lugar en diagonal?
+02:09:13	Maximiliano Vergara Dominguez:	360 quedaria muy bien no?
+02:09:21	Gabriel Frattesi:	gira desde el centro
+02:09:42	Catriel Drago:	con 360 volveria al mismo lugar?
+02:09:51	Emiliano Romero:	para que quede bien le daría 360º
+02:09:52	[Tutor] Manuel Sanchez:	claro Catriel
+02:10:15	Matias Barbalase:	mis ojos
+02:10:23	Joaquin Gourriet:	boliche
+02:10:23	Tomas Lopez Rivas:	efecto neon es eso no?
+02:10:32	Matias Barbalase:	pasa pag
+02:10:35	Fernando Gimenez:	Muajajaja
+02:10:38	[Tutor] Manuel Sanchez:	Si Tomas, se hace con text shadow
+02:10:39	Gonzalo Rojas:	uuyy
+02:10:40	Gonzalo Rojas:	FACHAA
+02:10:42	[Profe] Gabriel López:	https://html-css-js.com/css/generator/text-shadow/
+02:10:53	Matias Barbalase:	imagina las posibilidades
+02:10:54	conrado veloz:	profe
+02:11:28	conrado veloz:	esta es mas o menos mi idea de las funciones de mi pagina
+02:11:29	Erick Osuna Saavedra:	Conrado, dale un momento que explique
+02:11:41	conrado veloz:	si usted quiere le mando el enlace
+02:12:02	Rodrigo Nuñez:	ansiedad modo 120% conrado
+02:12:03	conrado veloz:	vale
+02:12:13	Jarod Calderon:	calma Atreus
+02:12:45	[Tutor] Manuel Sanchez:	paciencia padawan (?)
+02:12:53	Matias Barbalase:	😅
+02:14:52	Emiliano Romero:	🤣
+02:15:18	conrado veloz:	no soy atreus
+02:15:26	conrado veloz:	no soy ese manco
+02:15:26	Matias Barbalase:	uff a ver como se ve
+02:15:38	Gonzalo Rojas:	xd
+02:17:33	Matias Barbalase:	si y no
+02:17:38	conrado veloz:	no
+02:17:38	Debora Robles:	siiii
+02:17:39	Catriel Drago:	no
+02:17:43	Emiliano Romero:	vamo
+02:17:54	conrado veloz:	soy timido
+02:18:20	Matias Barbalase:	apaaaaa
+02:18:22	Joaquin Gourriet:	tremendo
+02:18:22	Felipe Murga:	juuu
+02:18:24	Jonathan Perrone:	Eso queriaaaaaaaa
+02:18:25	Luis Pitre:	El mio ni se mueev
+02:18:26	Joaquin Gourriet:	MESSI
+02:18:27	Catriel Drago:	impaktado
+02:18:27	Luciano González:	mudo
+02:18:27	Andrea Barreiro:	uuuaaaauuuuuuu
+02:18:28	Facundo Lanaro:	la pagina de homero
+02:18:30	Matias Barbalase:	que nivel maribel
+02:18:32	Gonzalo Rojas:	LA MAGIA REGRESO NUEVAMENTE!!1|111
+02:18:34	Amina Sleiman:	woooww
+02:18:36	Fernando Gimenez:	genial
+02:18:36	Diana Guarin:	wow
+02:18:38	Diana Guarin:	jajaja
+02:18:38	[Tutor] Manuel Sanchez:	Eso Seria una animación automática para el que había preguintado
+02:18:39	Debora Robles:	🥳
+02:18:41	[Tutor] Manuel Sanchez:	sin el hover
+02:18:44	Fernando Gimenez:	y cuando hago scroll?
+02:18:50	Luciano González:	eres un mago, harry
+02:18:57	Fernando Gimenez:	jaja
+02:18:57	Diana Guarin:	está muy interesante
+02:19:07	Freddy Martinez Osteicoechea:	se lo puedo aplicar a imagenes?
+02:19:18	Sofia Piemontesi:	una clase para rever 5 veces
+02:19:38	Sofia Piemontesi:	wiii
+02:19:38	Rodrigo Nuñez:	🤯
+02:19:44	Angel Silva:	5 es poco
+02:19:45	Fernando Gimenez:	mal
+02:19:45	Federico Bozzano:	totalmente sofi jaja, agarra mucha complejidad la cosa jaj
+02:20:03	Jonathan Perrone:	Manuel perdón
+02:23:35	Felipe Murga:	gold
+02:23:35	Federico Bozzano:	violet
+02:23:35	Gonzalo Rojas:	Cyan
+02:23:35	Luciano González:	verde
+02:23:36	Catriel Drago:	yellow
+02:23:37	Matias Barbalase:	roj
+02:23:38	Sofia Piemontesi:	te falto un radius
+02:23:39	Fernando Gimenez:	ttan
+02:23:41	Gaston Jongewaard de Boer:	ojo que al 25% dice border, no border-radios
+02:23:49	Gaston Jongewaard de Boer:	us
+02:23:50	Gaston Jongewaard de Boer:	xd
+02:23:55	Federico Gomez Beret:	dark algo
+02:23:56	Felipe Murga:	brown
+02:23:56	Luciano González:	azul
+02:24:11	Joaquin Gourriet:	esto va ser un flash
+02:24:16	Matias Barbalase:	cosas
+02:24:22	Leonel Eguren:	se pone psicodelico
+02:24:24	Franco Escalante:	una pelota cambiando de color
+02:24:24	MartÍn Alba:	Se van redondeando las puntas a medida que cambia el color
+02:24:25	Matias Barbalase:	APAAA
+02:24:28	Felipe Murga:	en cada segundo pasa algo nuevo
+02:24:28	Andrea Barreiro:	excelente
+02:24:29	Federico Bozzano:	es maghicoooooooooooo
+02:24:30	Gabriel Frattesi:	Muy buenoooooooo
+02:24:32	Federico Gomez Beret:	chetooo
+02:24:33	Debora Robles:	woooooo
+02:24:38	Santiago Amarilla:	chetoooo
+02:24:41	Felipe Murga:	muy fachero
+02:24:43	Valentin Capello Ramil:	zarpado
+02:24:46	Joaquin Gourriet:	hasta para un logo sirve
+02:24:56	Gonzalo Rojas:	Profe necesito ver como son sus pagina qwq me da curiosidad
+02:25:01	conrado veloz:	profe
+02:25:10	conrado veloz:	puedo hablr
+02:25:20	Gonzalo Rojas:	:<
+02:25:28	Matias Barbalase:	por ahora no
+02:25:55	Matias Barbalase:	q lindo j
+02:25:58	Catriel Drago:	:O
+02:26:12	Gonzalo Rojas:	nooo bldoo
+02:26:13	Felipe Murga:	uuh
+02:26:17	Sofia Piemontesi:	tremendooo
+02:26:18	Leonel Eguren:	uff muy fachero
+02:26:18	Felipe Murga:	ese esta mortal
+02:26:26	Oscar Manuel Solís Chávez:	Algo tipo matrix enseñenos Profe
+02:26:38	conrado veloz:	wow
+02:26:40	Gonzalo Rojas:	NECESITO UN 3D FLOOPA EN MI PAGINA
+02:26:42	Federico Bozzano:	que esta pasando en ese de star warts?
+02:26:44	Federico Bozzano:	es un scale a la inversa?
+02:27:01	[Tutor] Manuel Sanchez:	http://brightmedia.pl/?lang=en&site=introMiren esta pagina
+02:27:02	Santiago Amarilla:	el del sistema solar es mortal
+02:27:03	Edson Pareja:	eso ya es con java?
+02:27:11	Leonel Eguren:	nada de eso tiene una imagen pre cargada?
+02:27:36	[Tutor] Matias Larsson:	Hay hasta youtubers que se dedican a codear css y enseñarnos algunos trucos, recomiendo: https://www.youtube.com/kepowob
+02:27:38	conrado veloz:	con eso trabajamos para la nasa
+02:27:40	Franco Escalante:	y en circulo como hacemos?? jaja
+02:27:44	Joaquin Gourriet:	copy paste
+02:27:51	Catriel Drago:	me exploto la cabeza
+02:27:52	Federico Bozzano:	jajjaa
+02:27:53	Edson Pareja:	border radius
+02:27:53	Oscar Manuel Solís Chávez:	jajaja
+02:27:54	Franco Escalante:	no se entendio
+02:27:56	Edson Pareja:	jajaj
+02:27:59	Jonathan Bravo:	jajaa
+02:28:00	Franco Escalante:	en circulo el movivmiento
+02:28:05	Gonzalo Rojas:	NOOO
+02:28:09	Gonzalo Rojas:	QUIE GENIAL ESE
+02:28:13	Federico Bozzano:	no voy a volver a ver un sitio web de la misma manera nunca mas
+02:28:18	Lucas Ibarra:	hola profe, como se hace para que la animación empiece cuando llegamos a esa sección? o sea a medida que vamos scrolleando (como en la pag de ripio)
+02:28:25	Franco Escalante:	en circulo el movimiento decía no el circulo en si jajaja
+02:28:34	Felipe Murga:	ese lo hice yo 😎
+02:28:49	Catriel Drago:	se puede usar para sliders?
+02:28:54	[Tutor] Matias Larsson:	Lucas, eso probablemente reqquiera javascript
+02:28:57	Luciano González:	sirve muchísimo para storytelling
+02:29:18	Lucas Ibarra:	gracias matias
+02:29:26	Josue Belmonte:	messi
+02:29:29	Joaquin Gourriet:	compalta
+02:29:53	[Profe] Gabriel López:	https://animate.style/
+02:29:54	Gonzalo Rojas:	Animaciones por defecto
+02:30:19	Franco Escalante:	el prospecto
+02:30:20	Catriel Drago:	xD
+02:30:22	Gaston Jongewaard de Boer:	RTFM
+02:30:27	Gonzalo Rojas:	Ohno
+02:30:29	Gonzalo Rojas:	Derechos de autor
+02:30:33	Leonel Eguren:	aguante la automedicacion
+02:30:39	Leonel Eguren:	ah no
+02:30:47	Luis Pitre:	Estoy dándome cuenta que desarrollo web es un 40% de copy paste.-
+02:31:07	Oscar Manuel Solís Chávez:	como 80% jajaja
+02:31:51	[Tutor] Manuel Sanchez:	Como el fernet, 70 30
+02:31:58	conrado veloz:	se le reinicio el window
+02:32:16	Andrea Barreiro:	siasociar el css
+02:32:16	Joaquin Gourriet:	css
+02:32:18	Federico Gomez Beret:	al linkeo del HTML con el css
+02:32:21	Matias Barbalase:	el cs
+02:32:50	Federico Gomez Beret:	que tan recomendable es eso ??si esa pagina la sacan del servidor me afecta el proyecto.
+02:32:52	Gaston Jongewaard de Boer:	interesante. aunque no me convence.
+02:32:55	Federico Bozzano:	consulta profe: si esa pagina por cualquier motivo razón o circunstancia se cae... nuestras animaciones dejarían de funcionar?
+02:32:56	Luis Pitre:	Gabriel, cual podría ser la desventaja de usar librerías externas?
+02:32:56	Gaston Jongewaard de Boer:	claro, no podemos descargarlo? xd
+02:33:01	Federico Gomez Beret:	digo pensando en un potencial cliente. de golpe le puede afectar la pagina
+02:33:12	Emiliano Romero:	hay una que es codepen.io
+02:33:16	[Tutor] Matias Larsson:	Es muy normal usar cdn Fede
+02:33:22	[Tutor] Manuel Sanchez:	Fede, son paginas open source que no es probable que las saquen o fallen, por eso se suelen usar tanto
+02:33:31	Federico Gomez Beret:	ok gracias !!
+02:33:33	Federico Bozzano:	👍🏾
+02:33:49	Lucas Ibarra:	es genial esa pag
+02:33:55	[Tutor] Manuel Sanchez:	Luis, por ahi el peso mas que nada, pero mas allá de eso son un muy buen recurso que vale la pena aprovechar
+02:33:59	Matias Barbalase:	apaa
+02:34:02	Matias Barbalase:	q tremendo
+02:34:04	Federico Gomez Beret:	buenisimo
+02:34:06	Edson Pareja:	GOOD
+02:34:07	Federico Gomez Beret:	y bastante mas fácil jaja
+02:34:09	Luis Pitre:	Puedes repetir el ultimo paso Gabriel?
+02:34:11	Gonzalo Rojas:	Profe pero se le puede cambiar valores?
+02:34:12	Matias Barbalase:	lo voy a implementar jejeje
+02:34:15	Luis Pitre:	Que estaba en la web y no vi
+02:34:17	Federico Bozzano:	es muy power point xD pero con unos retoques xD
+02:34:30	Emiliano Romero:	https://codepen.io/
+02:34:49	Catriel Drago:	si ya tiene una class solamente le agregamos esas 2 class
+02:35:03	Gonzalo Rojas:	Me gusta pero no es muy especifico en lo que quiero D:
+02:35:12	Matias Barbalase:	tarde
+02:35:15	Felipe Murga:	yo lo usaría solo para el logo o el h1
+02:35:17	Edson Pareja:	en las pages no en el css
+02:35:17	Gaston Jongewaard de Boer:	se hacía un doom con css
+02:35:37	Federico Bozzano:	jajajaja
+02:35:41	Joaquin Gourriet:	jajaja
+02:35:49	conrado veloz:	yo me quedo
+02:36:44	Matias Barbalase:	el color fallo
+02:36:45	Andrea Barreiro:	no seria al a
+02:36:48	Gabriel Frattesi:	seria ale nlace
+02:36:51	Andrea Barreiro:	ul li a
+02:37:11	[Tutor] Manuel Sanchez:	Ya están pensando como programadores
+02:37:32	Emiliano Romero:	Gaby aprobado 😁
+02:37:36	Andrea Barreiro:	😊
+02:37:39	Catriel Drago:	como agregarle un background-color
+02:37:48	Jarod Calderon:	scale
+02:38:17	Joaquin Gourriet:	padding
+02:38:37	Joaquin Gourriet:	y border radius
+02:38:44	Felipe Murga:	upaaaa
+02:38:56	Catriel Drago:	la transition toma al margin tambien no ?
+02:38:57	Matias Barbalase:	fachero
+02:39:02	Felipe Murga:	a mi proyecto le gusto eso
+02:39:03	Federico Bozzano:	magia Harry again
+02:39:14	Fernando Gimenez:	jaja
+02:39:20	conrado veloz:	pon lo con 3s
+02:39:49	Gaston Jongewaard de Boer:	winv+v
+02:39:55	Gaston Jongewaard de Boer:	win+v *
+02:40:15	Gonzalo Rojas:	Amo
+02:40:19	Joaquin Gourriet:	un border radius profe xD
+02:40:19	Emiliano Romero:	queda genial
+02:40:20	Matias Barbalase:	sip
+02:41:04	Catriel Drago:	puede hacer que las tarjetas se agranden cuando pones el hover?
+02:42:03	Andrea Barreiro:	muy bueno
+02:42:03	Federico Bozzano:	MAGICOOO
+02:42:04	Gonzalo Rojas:	GENIO
+02:42:04	Catriel Drago:	ah era eso xD
+02:42:04	Gonzalo Rojas:	MASTER
+02:42:05	Oscar Manuel Solís Chávez:	ufffff
+02:42:06	Gonzalo Rojas:	DIOSS
+02:42:09	Federico Gomez Beret:	eso queda barbaro
+02:42:10	Facundo Lanaro:	buenisimo
+02:42:13	Fernando Gimenez:	Gabbi Potter
+02:42:14	Freddy  Martinez Osteicoechea:	DE 10 PAPAA
+02:42:18	Rodrigo Nuñez:	GabiMagic!!!!
+02:42:21	Federico Bozzano:	🤣
+02:42:21	Fernando Gimenez:	justo lo que necesitaba
+02:42:23	Luis Pitre:	que utilizaste?
+02:42:26	conrado veloz:	🤣
+02:42:28	Gonzalo Rojas:	HEMOSHO ESTA CLASE UWU
+02:42:28	Josue Belmonte:	Y que el boton comprar se ponga verde
+02:42:30	Andrés Botía:	brujo
+02:42:48	Federico Bozzano:	Tengo una duda:  Hover solo funciona para versión de escritorio no? porque en el celu no hay mouse :P
+02:43:14	Federico Gomez Beret:	siip
+02:43:14	Joaquin Gourriet:	sip
+02:43:15	Felipe Murga:	messirve ese after
+02:43:15	Matias Barbalase:	oki
+02:43:29	Felipe Murga:	esta clase no se valora?
+02:43:33	Gaston Jongewaard de Boer:	si le enchufas un mouse, aparece un cursor..
+02:43:39	Federico Gomez Beret:	no hay cursor
+02:43:39	Gaston Jongewaard de Boer:	cueck igual pero bueno xd
+02:43:41	Luis Pitre:	Porque no tiene cursor
+02:43:41	Catriel Drago:	por que no hay cursor
+02:43:42	Edson Pareja:	no hay cursor
+02:43:43	Felipe Murga:	no tiene mouse
+02:43:50	Piero Giuseppe Peralta Napoli:	😆
+02:43:51	Freddy  Martinez Osteicoechea:	tapea
+02:43:52	Felipe Murga:	con el táctil funciona
+02:43:53	Federico Bozzano:	AJA!  XD
+02:43:58	Gonzalo Rojas:	Ah pero si le pongo un cable otg y conecto un mouse profe???
+02:44:04	Felipe Murga:	pero debería de mantener apretado o no
+02:44:24	Federico Bozzano:	ahh en el responsive hay que tenerlo en cuenta
+02:44:26	Federico Bozzano:	:P
+02:44:33	Felipe Murga:	esta clase no se valora??
+02:44:41	Diana Guarin:	chao profe gracias
+02:44:44	Matias Barbalase:	nos vemos gabi
+02:44:47	Gonzalo Rojas:	Nos vemos profee
+02:44:47	Luis Pitre:	Gabriel, que propiedad le aplicaste a las imágenes?
+02:44:48	Freddy  Martinez Osteicoechea:	Bye
+02:44:52	Felipe Murga:	Okay perfectoo
+02:44:56	Felipe Murga:	Gracias gabi nos vemos!
+02:44:56	Francisco Maldonado:	Hasta mañana amigxs!
+02:45:00	Luis Pitre:	si
+02:45:00	Gonzalo Rojas:	Porfa mande lo que hizo hoy en css plissssss
+02:45:02	Santo Napuri:	buenas noches gabi
+02:45:06	Catriel Drago:	desaparecio conrad
+02:45:07	Felipe Murga:	Esta clase me encanto
+02:45:23	conrado veloz:	no estoy aquí catriel
+02:45:28	Catriel Drago:	que bueno
+02:45:29	Luis Pitre:	Gracias
+02:45:31	Valentin Capello Ramil:	el presente lo miro desde la pagina mejor no? porque de la app me aparece que estoy ausente en esta clase
+02:46:19	Freddy  Martinez Osteicoechea:	buena pregunta
+02:46:44	Tomas Lopez Rivas:	desde la app me parece mejor
+02:46:58	Tomas Lopez Rivas:	a mi me llega el presente a los 10' que arranco la clase
+02:47:10	Tomas Lopez Rivas:	y cuando termina me llega que ya puedo valorar
+02:47:41	Tomas Lopez Rivas:	bueno profe, me voy a retirar! nos vemos mañana. saludos
+02:48:08	Catriel Drago:	yo tambien estoy con esa duda nose si mi codigo es facil de leer
+02:48:36	federico russo:	yo creo que si no te corrigieron nada del código no habría que tocar nada
+02:48:51	federico russo:	porque se debe leer bien
+02:49:04	Jonathan Medina:	Puede empezar uno nuevo con la misma temática intentando quedar prolijo..
+02:49:39	Catriel Drago:	tengo meio
+02:50:26	conrado veloz:	https://somoskudasai.com/
+02:50:40	Catriel Drago:	equis de
+02:50:42	Luis Pitre:	Esta como rara esa  pagina
+02:50:42	Luis Pitre:	XD
+02:50:52	Catriel Drago:	diablos conradito
+02:51:08	Federico Bozzano:	esta mas alla
+02:51:23	Luciano Ippolito:	mando una pagina hentai, cerrame la 8
+02:51:27	conrado veloz:	😊
+02:51:28	federico russo:	pasa cbu profe
+02:51:31	Federico Bozzano:	JAJAJAJAJAJ
+02:51:32	federico russo:	hacemos una baquita
+02:51:37	Leonel Eguren:	para las dudas esta el after de mañana
+02:51:39	Federico Bozzano:	gracias profe por su compromiso ♥.♥
+02:51:43	Catriel Drago:	sigue grabando profe
+02:51:43	Leonel Eguren:	aguanten 1 dia
+02:51:46	Andrea Barreiro:	si, gracias!!!!!!!
+02:51:48	federico russo:	gracias profe
+02:51:53	Santiago Amarilla:	gracias gabiii por ello !
+02:52:05	Franco Escalante:	en las valoraciones siempre se agradece también esto profe
+02:52:32	Nataniel Kreimer:	Gracias Gabi!!! 🥇
+02:54:49	Luciano Ippolito:	cósmico
+02:55:21	Erick Osuna Saavedra:	A eso me refería con hacer todo de nuevo
+02:55:29	Federico Bozzano:	pas esa pag al chat del coder profe porfa porfa
+02:55:40	Erick Osuna Saavedra:	Porque es mucho más prolijo aplicar una grid al layout
+02:56:23	Luciano Ippolito:	yo hice una pagina en blanco, tengo el header y el footer y el main en blanco, arranco de cero desde ahi
+02:56:38	Facundo Luna:	que tengan todos buenas noches
+02:58:45	Franco Escalante:	buenas noches
+02:58:47	Fernando Gimenez:	gracias Gabi
+02:58:48	Federico Bozzano:	buenas noches a todosss
+02:58:49	Andrea Barreiro:	chauuuu
+02:58:53	Fernando Gimenez:	saludos
+02:58:54	Santiago Amarilla:	gracias gabi !! abrazoo

@@ -1,0 +1,1332 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/*------------------HEADER---------*/
+
+
+header {     
+    position: sticky;
+    top: 0%;
+    z-index: 1;     
+}
+
+
+header div {
+    /* background-color: #264653; */
+    background-color: #112127;      
+    width: 100%;
+    height: 8vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;           
+}
+
+
+header div h1 {
+    /* background-color: #264653; */
+    background-color: #112127;
+    color: #fefae0;
+    font-size: 50px;
+    font-style: bold;
+    font-weight: 700;  
+    font-family: 'Overpass', sans-serif;
+}
+
+header div a {
+    text-decoration: none;
+    padding: 10px;    
+}
+
+header nav {
+    width: 100%;        
+}
+
+header nav ul {    
+    display: grid;
+    grid-template-columns: repeat(5, 20%);
+    grid-template-rows: 1fr;        
+    background-color: #86A59C;
+    background-color: #112127;    
+    list-style: none; 
+    font-style: normal;
+    font-size: 30px;  
+    font-weight: 300;
+    font-family: 'Overpass', sans-serif;
+    border-top: #fefae0 solid 1px;
+    border-bottom: #fefae0 solid 1px;    
+    text-align: center;
+}
+
+header nav ul li {    
+    border-inline: solid white 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.6s ;    
+}
+
+
+header nav ul li:hover {
+    background-color: #1c3a43;    
+}
+
+
+
+
+header nav ul li a {    
+    text-decoration: none;
+    color: #FEFAE0;
+    width: 100%;
+    
+    /* padding-inline: 89px; */                     
+}
+
+
+/* --------------RESPONSIVE header---------------- */
+
+@media screen and (max-width: 1025px) {
+    .nav_grid {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);        
+        grid-template-rows:repeat(2,1fr);
+        display: flex;        
+        justify-content: space-around;
+        align-items: center;               
+    }  
+
+    .nav_grid ul {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    header nav ul {
+        width: 100%;
+        font-style: normal;
+        font-size: 20px;  
+        font-weight: 500;
+        font-family: 'Overpass', sans-serif;
+        border-top: #fefae0 solid 1px;
+        border-bottom: #fefae0 solid 1px;    
+        text-align: center;    
+    }
+}
+
+@media screen and (max-width: 605px) {
+    header nav ul {
+        font-style: normal;
+        font-size: 15px;  
+        font-weight: 300;
+        font-family: 'Overpass', sans-serif;
+        border-top: #fefae0 solid 1px;
+        border-bottom: #fefae0 solid 1px;    
+        text-align: center;    
+    }
+}
+
+@media screen and (max-width: 605px) {
+    header div h1{
+        font-size: 40px;
+    }
+}
+
+/*--------------------MAIN--------------*/
+
+.hero{
+    background: linear-gradient(rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0.169)), url(../img/backgroundhero2.jpg);
+    /* background-image: url(../img/backgroundhero2.jpg); */
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}    
+
+.hero div h2 {
+    color: #FEFAE0;
+    font-size: 35px;
+    font-style: bold;
+    font-weight: 600;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.hero div h3 {
+    color: #FEFAE0;
+    font-size: 25px;
+    font-style: bold;
+    font-weight: 600;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.flex_main_tittle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;        
+}
+
+
+.flex_main_search {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    color: #FEFAE0;
+    font-size: 15px;    
+    font-weight: 400;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    text-decoration: #FEFAE0;            
+}
+
+.flex_main_search label {
+    margin-left: 10px;
+}
+
+.flex_main_search select {
+    margin-left: 10px;
+}
+.flex_main_search input {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.main a {
+    text-decoration: none;    
+}
+
+
+.galeria_grid {
+    background-color: #162b32;       
+}
+
+
+.galeria_grid h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #012022;
+    border-top: #FEFAE0 solid 1px;
+    border-bottom: #FEFAE0 solid 1px;    
+    margin-bottom: 20px;
+    color: #FEFAE0;
+    font-size: 35px;
+    font-style: bold;
+    font-weight: 600;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+}
+
+.galeria_fotos_lospibes {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 2 1fr; */
+    
+}
+
+    /* grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 46px 489px 489px;
+    grid-template-areas: 
+    "h2 h2 h2"
+    "foto1 foto2 foto3"
+    "foto4 foto5 foto6";     */
+
+
+/* .foto1 {
+    grid-area: foto1;
+} */
+
+
+.fotos_galeria {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color: antiquewhite;    
+    /* margin-left: 40px; */
+    margin-bottom: 15px;
+    border: #031d25 3px solid;
+    height: auto;
+    width: auto;
+    box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+    -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+    -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+}
+
+.fotos_galeria h3 {
+    background-color:  #19343d;    
+    color: #cdc69f;
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 500;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.fotos_galeria img{
+    display: flex;
+    align-items: flex-end;    
+    padding: 10px 10px 10px 10px;  
+    height: 392px;
+    width: 340px;    
+    transition: 0.4s ease-out;    
+}
+
+.fotos_galeria img:hover{
+    transform: scale(1.057);
+    
+}
+
+
+.foto2 img {
+    object-fit: fill;
+}
+
+.foto4 img{
+    object-fit: cover;
+}
+
+.foto5 img{
+    object-fit: cover;
+}
+
+.foto6 img { 
+    object-fit: cover;
+}
+
+
+/* --------------RESPONSIVE galery---------------- */
+
+
+@media screen and (max-width: 1200px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-auto-rows: auto;
+        justify-items: center;        
+    }  
+
+    .fotos_galeria {
+        margin: 20px 10px 20px 10px;        
+    }
+}
+
+@media screen and (max-width: 1450px) {
+
+    .fixed_social ul {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-auto-rows: auto;
+        justify-items: center;
+    }
+
+    .fotos_galeria {
+        display: flex;
+        flex-flow: column ;
+        align-content: center;
+        background-color: antiquewhite;    
+        margin-left: 20px;
+        margin-bottom: 20px;
+        border: black 2px solid;
+        height: 349px;
+        width: 255px;
+    }
+    
+    .galeria_fotos_lospibes img{    
+        padding: 7px 7px 7px 7px;  
+        height: 299px;
+        width: 250px;
+        box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+        -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+        -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+    }
+}
+
+@media screen and (max-width: 605px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-auto-rows: auto;
+        justify-items: center;
+}
+
+    .fotos_galeria {
+        display: flex;
+        flex-flow: column wrap;
+        align-content: center;
+        background-color: antiquewhite;    
+        margin-left: 10px;
+        margin-bottom: 10px;
+        border: black 2px solid;
+        height: 279px;
+        width: 205px;    
+    }
+
+    .galeria_fotos_lospibes img{   
+        padding: 8px 8px 8px 8px;  
+        height: 249px;
+        width: 200px;
+        box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+        -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+        -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+    }
+
+    .galeria_fotos_lospibes h3 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 455px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-auto-rows: auto;
+        justify-items: center;
+}
+
+    .fotos_galeria {
+        display: flex;
+        flex-flow: column wrap;
+        align-content: center;
+        background-color: antiquewhite;    
+        margin-left: 10px;
+        margin-bottom: 10px;
+        border: black 2px solid;
+        height: 380px;
+        width: 305px;    
+    }
+
+    .galeria_fotos_lospibes img{    
+        padding: 8px 8px 8px 8px;  
+        height: 350px;
+        width: 300px;
+        box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+        -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+        -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+    }
+
+    .galeria_fotos_lospibes h3 {
+        font-size: 20px;
+    }
+}
+
+/*--------------FOOTER-----------------------------*/
+
+
+
+.footer_grid{    
+    background-position: cover; 
+    background-color: #112127;
+    width: 100%;
+    height: 150px;         
+}
+
+.footer_section {    
+    display: flex;
+    justify-content: space-between;    
+    border-top: #fefae0 1px solid;
+    height: 150px;
+    width: 100%
+}
+
+.footer_logo {
+    height: 153px;
+    width: auto;
+    display: flex;
+    align-items: flex-end;
+    transition: 1s;
+}
+
+.footer_logo:hover {
+    transform: scale(1.02);
+}
+
+.footer_logo2 {
+    height: 153px;
+    width: auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    transition: 1s;
+}
+
+.footer_logo2:hover {
+    transform: scale(1.02);
+}
+
+.footer_div {
+    height: 150px;    
+    padding: 0px 0px 0px 2px;    
+}
+
+.footer_div h3 {    
+    text-align: center;
+    margin-top: 10px; 
+    margin-bottom: 5px;
+    font-family: 'Overpass', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: #FEFAE0;
+}
+
+
+.footer_list li {    
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Overpass', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #FEFAE0;
+    transition: 0.6s ease;
+}
+
+.footer_list li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.copyright {    
+    width: 100%;    
+    display: flex;
+    justify-content: center;        
+    text-align: center;    
+    font-family: 'Overpass', sans-serif;
+    font-size: 15px;  
+    color: #FEFAE0;
+    background-color: black;
+}
+
+.fixed_social {
+    position: fixed;
+    right: 2%;
+    bottom: 40%;
+    display: block;    
+    border: #264653;
+}
+
+.fixed_social ul{
+    list-style: none;  
+}
+
+.fixed_social ul li {
+    margin-bottom: 5px;
+    padding: 5px;    
+}
+
+.fixed_social ul li img {
+    width: 50px;
+    height: 50px;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .footer_logo {
+        display: none;
+    }
+    .footer_logo2 {
+        display: none;
+    }
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    .footer_div h3 {   
+        text-align: center;
+        margin-top: 10px; 
+        margin-bottom: 5px;
+        font-family: 'Overpass', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        color: #FEFAE0;
+    }
+    .footer_div {
+        height: 150px;    
+        padding: 0px 0px 0px 0px;    
+    }
+
+    .footer_section {    
+        display: flex;
+        justify-content: space-around;    
+        border-top: #fefae0 1px solid;
+        height: 160px;
+    }
+}
+/* ------------ PAGINA DE LOGEARSE ------------- */
+
+body {
+    background-color: #112127 
+}
+
+.log_in {
+    width: 100%;
+    height: 69.7vh;
+    /* margin-left: 450px; */
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;    
+}
+
+.login_div {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: start;    
+}
+
+.log_in h2 {    
+    color: #fefae0;
+    font-size: 51px;    
+    font-weight: 300;  
+    font-family: 'Overpass', sans-serif;  
+    width: 100%;
+    
+}
+
+
+.login_div h3 {
+    font-family: 'Overpass', sans-serif;
+    color: #fefae0;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 5px;
+    margin-top: 25px;
+    
+}
+
+.login_div input {
+    width: 700px;
+    height: 30px;
+}
+
+
+.login_button input {
+    margin-top: 25px;
+    width: 150px;
+}
+
+.login_recover_data {
+    margin-top: 75px;
+    margin-bottom: px;
+    text-align: center;
+}
+
+
+.login_recover_data a {
+    font-family: 'Overpass', sans-serif;
+    color: #fefae0;
+    font-style: italic;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    transition: 0.6s;
+}
+
+.login_recover_data a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+    .login_div input {
+        width: 500px;
+        height: 30px;
+    }
+
+    .login_div {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;    
+    }
+
+    .login_button input {
+        margin-top: 25px;
+        width: 150px;
+    }
+}
+    
+@media screen and (max-width: 600px) {
+    .login_div input {
+        width: 300px;
+        height: 30px;
+    }
+    
+    .login_div {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;    
+    }
+
+    .login_button input {
+        margin-top: 25px;
+        width: 150px;
+    }
+}
+
+/* ------------ Pagina de Crear cuenta ----------- */
+
+.register {
+    background-image: url(../img/ranadefondorecortada.jpg);
+    background-position: left; 
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    text-align: start;     
+}
+
+.reg_in {
+    padding-left: 150px;
+}
+
+.reg_in h2 {
+    padding-top: 20px;    
+    text-decoration: 1px white underline;
+    text-decoration-skip-ink: auto;
+    color: #fefae0;
+    font-size: 51px;    
+    font-weight: 300;  
+    font-family: 'Overpass', sans-serif; 
+    text-align: center;   
+}
+
+
+.regin_div h3 {
+    font-family: 'Overpass', sans-serif;
+    color: #fefae0;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300;    
+    margin-top: 10px;
+}
+
+.regin_div p{
+    font-family: 'Overpass', sans-serif;
+    color: #fefae0;
+    font-style: italic;
+    font-size: 10px;
+    font-weight: 300;
+    margin-bottom: 5px;    
+}
+
+.regin_div input {
+    width: 500px;
+    height: 25px;
+    
+}
+
+
+.regin_button button {
+    height: 35px;
+    width: 155px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 900px) {
+    .reg_in {
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .reg_in {
+        text-align: center;
+        padding-left: 25px;
+    }
+
+    .regin_div input {
+        width: 250px;
+        height: 25px;        
+    }
+    
+    .regin_button button {
+        height: 35px;
+        width: 155px;        
+    }
+
+    .reg_in h2 {
+        font-size: 31px;
+    }
+}
+
+
+/* --------- pagina de recuperar contraseña ---------- */
+
+
+.recover_pass {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 71.8vh;
+    background-color: #112127 ;
+}
+
+.recover {
+    width: 530px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column wrap;
+}
+
+
+.recover_pass h2 {
+    
+    text-align: center;
+    margin-bottom: 30px;                
+    text-decoration: underline;
+    color: #fefae0;
+    font-size: 51px;    
+    font-weight: 150;  
+    font-family: 'Overpass', sans-serif;    
+}
+
+.recover h3 {
+    
+    font-family: 'Overpass', sans-serif;
+    color: #fefae0;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 2px;
+    margin-top: 10px;
+}
+
+.recover input {
+    width: 80%;
+    height: 25px;
+}
+
+.recover_button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.recover_button button {        
+    height: 35px;
+    width: 155px;
+    margin-top: 20px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .recover {
+        width: 80%;
+    
+}
+}
+/* ---------pagina de quienes somos ---------- */
+
+.bienvenidos div h2 {
+    background-color: #468199;
+    background-size: cover;
+    color: #FEFAE0;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: 500;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.bienvenidos div p {
+    background-color: #22424d;
+    color: #a3cabf;
+    font-size: 25px;
+    font-style: bold;
+    font-weight: 400;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.grupos_session {   
+    background-color: #22424d;    
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 80vh;
+}
+
+.grupos_session h3 {
+    color: #FEFAE0;    
+    font-size: 50px;
+    font-style: bold;
+    font-weight: 700;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.grupos_session div h4 {
+    display: block;
+    font-style: normal;
+    font-size: 40px;
+    font-weight: 700;
+    text-decoration: none;    
+    margin-bottom: 5px;
+    text-align: center;  
+}
+
+
+.grupos_session div {
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.grupos_session div img {
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;               
+}
+
+
+.card_text {
+    width: 400px;
+    height: 206px;    
+    font-style: italic;
+    font-size: 20px;    
+    font-weight: 400;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.card_toirtis {
+    margin-top: 25px;
+    display: flex;   
+    flex-direction: column;
+    align-items: center;
+    background-color: #FEFAE0;
+    box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    -webkit-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    -moz-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    width: 400px;
+    height: 650px;             
+}
+
+
+.card_silverfrog {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    background-color: #FEFAE0;
+    box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    -webkit-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    -moz-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    width: 400px;
+    height: 650px;
+    }
+
+.card_silverfrog img {
+    height: 387px;
+    width: 400px;
+}
+
+
+.card_irishsessionlp {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    background-color: #FEFAE0;
+    box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    -webkit-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    -moz-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
+    width: 400px;
+    height: 650px;      
+}
+
+
+.card_a {    
+    color: #FEFAE0;
+    font-style: bold;
+    font-size: 25px;
+    font-weight: 700;
+    text-decoration: none;
+    text-align: center;
+    background-color: #86A59C;      
+    padding: 2.5px 25px 2.5px 25px;
+    border: #86A59C 1px solid; 
+    border-radius: 5px ;
+    width: 157px;
+    height: 35px;  
+    margin-top: 15px;
+}
+
+.frog_friends {
+    width: 100%;
+    height: 30vh;
+}
+
+.frog_friends h2 {
+    background-color: #468199;
+    background-size: cover;
+    color: #FEFAE0;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: 500;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.frog_friends p {
+    color: #FEFAE0;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: 500;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+/* ---------pagina de contacto para eventos ---------- */
+
+.contact_art {
+    width: 100%;
+    height: 40vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.387), rgba(0, 0, 0, 0.244)), url(../img/fondoContacto2.jpg);    
+    background-position: top center;
+    object-fit: cover;    
+    background-repeat: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;           
+}
+
+
+.contact_art h2 {           
+    text-decoration: solid;
+    color: #fefae0;
+    font-size: 58px;
+    font-style: normal;    
+    font-weight: 600;  
+    font-family: 'Overpass', sans-serif; 
+}
+
+.contact_art h3 {            
+    text-decoration: solid;
+    color: #fefae0;
+    font-size: 18px;
+    font-style: normal;    
+    font-weight: 600;  
+    font-family: 'Overpass', sans-serif;    
+}
+
+.contact_flex {
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;    
+}
+
+.contact_form {    
+    margin-top: 10px;
+    width: 33.3%;
+    height: 60vh;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact_form h2 {
+text-decoration: solid;
+    color: #fbfbfbf5;
+    font-size: 38px;
+    font-style: normal;    
+    font-weight: 600;  
+    font-family: 'Overpass', sans-serif;
+}
+
+.contact_div  {        
+    width: 90%;
+}
+
+.contact_div h3 {    
+    font-family: 'Overpass', sans-serif;
+    color: #fefae0;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 300;    
+    margin-bottom: 2px;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.contact_div input {    
+    width: 100%;
+    height: 25px;
+    box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+-webkit-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+-moz-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+}
+
+.contact_div textarea {
+    width: 100%;
+    height: 100px;
+    box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
+-webkit-box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
+-moz-box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
+}
+
+.regin_button {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center ;
+}
+
+
+.contact_socials { 
+    margin-top: 10px;
+    width: 33.3%;
+    height: 46.7vh;       
+    border: 1px #436370;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;    
+}
+
+.contact_socials_img {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.contact_socials_img ul{  
+    display: flex;
+    justify-content: center;    
+    list-style: none;             
+}
+
+.contact_socials_img ul li a{
+    margin-bottom: 5px;
+    padding: 5px;        
+}
+
+.contact_socials_img ul li img {
+    width: 40px;
+    height: 40px;
+    background-color: #a3cabf;
+    border-radius: 100%;
+    padding: 5px;
+    margin-left: 18px;
+}
+
+
+.contact_social_extra {        
+    color: #fefae0;    
+    font-size: 13px;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+.contact_social_extra h2 {    
+    margin-top: 15px;
+    font-weight: bold;        
+}
+
+.contact_social_extra h3 {
+    color: #fefae0;       
+    font-weight: 200;    
+    font-family: 'Overpass', sans-serif;
+    margin-top: 5px;    
+}
+
+.contact_social_extra h4 {    
+    margin-top: 5px;
+    font-style: normal;
+    font-weight: 200;    
+    font-family: 'Overpass', sans-serif;
+    margin-top: 5px;     
+}
+
+
+
+.contact_frame_map {    
+    width: 33.3%;
+    height: 46.7vh;    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;             
+}
+
+.contact_frame_map h2 {    
+    color: #fefae0;    
+    font-size: 30px;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+
+.contact_frame_map iframe {
+    width: 80%;
+    height: 100%;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .contact_flex {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;    
+    }
+    
+    .contact_frame_map {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        height: 50%;
+    }
+
+    
+}
+
+@media screen and (max-width: 600px) {
+    .contact_form {
+        width: 80%;
+        height: 100%;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        text-align: center;            
+    }
+
+    .contact_div {
+        width: 80%;
+        height: 100%;
+    }
+}
+
+
+
+/* ------------  Pagina de foro -------------  */
+
+.forum {
+    width: 100%;
+    height: 63vh;
+}
+
+.forum h2 {
+    margin-top: 100px;    
+    text-decoration: underline;
+    color: #fefae0;
+    font-size: 51px;    
+    font-weight: 150;  
+    font-family: 'Overpass', sans-serif;  
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
+
+/* ------------  Pagina de LRPTUNEBOOK -------------  */
+
+
+
+.lrp_tunebook_art {
+    width: 100%;
+    height: 40vh;
+    background-image: url(../img/partis2.jpg);
+    background-position-y: 500px;
+}
+
+.lrp_tunebook_text {
+    color: #fefae0;
+    font-size: 51px;    
+    font-weight: 150;  
+    font-family: 'Overpass', sans-serif;  
+    width: 100%;
+    text-align: center;
+}
+
+.lrp_tunebook_text_a a {
+    color: #fefae0;
+    font-size: 51px;    
+    font-weight: 150;  
+    font-family: 'Overpass', sans-serif;  
+    width: 100%;
+    text-align: center;
+}
+
+
+
+/* ------------------------------------------------- */
+
+
+
+
+
+/* --------- 
+
+ANOTACIONES
+
+Position RELATIVE
+Sirve Para mover un elemento y que el espacio que ocupaba quede en blanco
+
+-------------Position Absolute
+Sirve PAra mover un elemento y eliminar el espacio que ocupaba
+
+
+-------------boder radius 100% 
+Convierte a los contenedores cuadrados en circulos
+
+------------- target="_blank"
+convierte a los hipervinculos y hace que se abran en otra pesataña
+
+---*/

@@ -1,0 +1,869 @@
+01:14:31	Martín Alba:	sep
+01:14:31	Angel Silva:	Si
+01:14:32	Fernando Gimenez:	si
+01:14:32	Franco Escalante:	si
+01:14:32	Gabriel Frattesi:	si
+01:14:32	Lucas Palacios:	sep
+01:14:33	Martin Lamacchia:	si
+01:14:33	Felipe Murga:	Holaaaaaa
+01:14:34	Santiago Aglietta:	si
+01:14:34	Bruno Guzman:	Buenaaass
+01:14:34	Matias Barbalase:	buenas
+01:14:34	Nataniel Kreimer:	si
+01:14:35	Tomas Lopez Rivas:	si
+01:14:36	Catriel Drago:	sep
+01:14:37	Felipe Murga:	sii
+01:14:39	Valentina Fiorillo:	Sii
+01:14:41	Federico Gomez Beret:	sii
+01:14:42	Matias Barbalase:	mal ajjja
+01:14:51	Felipe Murga:	hover lover
+01:14:52	Santiago Amarilla:	como siempre., con miedoo
+01:14:53	Gonzalo Rojas:	ME FUERON MAL EN LOS PARCIALESS
+01:14:55	Tomas Lopez Rivas:	renegando un poco bastante
+01:14:59	Matias Barbalase:	y esta costando
+01:15:05	Valentina Fiorillo:	Hay una cámara encendida
+01:15:06	Lucas Rodriguez Alvarez:	se complica el responsive
+01:15:07	Lucas Palacios:	toy re estresado con todo jasjasja
+01:15:11	Catriel Drago:	cuales tutores xD
+01:15:19	Tomas Lopez Rivas:	cuando te salta un error y no lo encontras unas ganas de prender fuego la pc JAJAJAJA
+01:15:23	[Tutor] Manuel Sanchez:	los correctores catriel
+01:15:25	[Tutor] Matias Larsson:	Buenas noches!!
+01:15:27	Felipe Murga:	Yo creo que le agarre la mano un poco
+01:15:56	juan bernacchi:	holaaaaaaaa
+01:15:57	Catriel Drago:	ya casi tengo toda la pagina responsive
+01:16:00	Valentina Fiorillo:	Juro que a medida que vas practicando, va saliendo cada vez más
+01:16:06	Gilberto Maidana:	Buenas noches
+01:16:08	Joaquin Gourriet:	es verdad a veces no vez el error y esta ahi
+01:16:12	Jonathan Medina:	Una partida de lol 😂 y se sigue
+01:16:12	[Tutor] Manuel Sanchez:	*se ducha 15 veces en el dia*
+01:16:14	Lucas Palacios:	me convencio con la birra
+01:16:15	Gaston Jongewaard de Boer:	xd
+01:16:26	Catriel Drago:	estas nervioso y te tomas un cafe
+01:16:27	Catriel Drago:	F
+01:16:31	Felipe Murga:	Jonathan eso puede salir muy mal
+01:16:33	Gonzalo Rojas:	ffff
+01:17:17	Franco Escalante:	soltar 🎈
+01:18:21	Matias Barbalase:	nop
+01:18:21	Gonzalo Rojas:	nel
+01:18:22	Lucas Palacios:	GitHub?
+01:18:22	Fernando Gimenez:	no
+01:18:23	Franco Escalante:	no
+01:18:24	Martin Lamacchia:	algo
+01:18:25	Valentina Fiorillo:	El gatito
+01:18:28	Gaston Jongewaard de Boer:	algo si
+01:18:30	Abrahan Ahumada:	naranja
+01:18:34	Catriel Drago:	lo dijo en la clase de refuerso
+01:19:13	Catriel Drago:	ya me dio miedito
+01:19:16	Nataniel Kreimer:	Qué es la consola?
+01:19:23	Federico Bozzano:	cmd?
+01:19:27	Federico Bozzano:	:o
+01:19:35	[Tutor] Matias Larsson:	A no distraerse hoy, y prestar atencion a todos los pasos!
+01:19:52	[Tutor] Manuel Sanchez:	Puede ser esa Fede, la consola del VSC o la misma consola de giy
+01:19:57	[Tutor] Manuel Sanchez:	atencion que ahora explica todo
+01:20:33	Federico Bozzano:	*-*
+01:20:49	Abrahan Ahumada:	me prendere uno para mirar tranka
+01:21:12	Nicolas Marset:	como creaba una copia??
+01:21:30	Valentina Fiorillo:	Copias y pegas la carpeta
+01:21:32	Luciano Diotallevi:	Copias la carpeta, con clickl derecho
+01:21:35	Tomas Lopez Rivas:	git es para subirlo a la web no ¿¿¿
+01:21:35	Valentina Fiorillo:	En el escritorio
+01:21:36	Luciano Diotallevi:	y le cambias el nombre
+01:21:36	Nicolas Marset:	gracioas
+01:21:59	[Tutor] Manuel Sanchez:	Si Tomas, ahora la explica bien
+01:22:09	[Tutor] Manuel Sanchez:	entre otras cosas*
+01:22:32	Federico Bozzano:	JAJA SIII
+01:22:34	Joaquin Gourriet:	Es la que va
+01:22:37	Luciano Diotallevi:	komolozupo
+01:22:40	Fernando Gimenez:	como lo zupo?
+01:22:45	Joaquin Gourriet:	es este o muero
+01:22:52	Nicolas Marset:	AJAJAJ
+01:23:12	Franco Escalante:	una pequeña nube local?
+01:26:21	Andrea Barreiro:	no
+01:26:22	Gonzalo Rojas:	nel
+01:26:22	Federico Gomez Beret:	nop
+01:26:24	Felipe Murga:	todo perfecto
+01:26:29	Catriel Drago:	todo bien
+01:26:54	[Profe] Gabriel López:	https://git-scm.com/
+01:26:57	conrado veloz:	yo tengo una cuenta
+01:27:32	[Tutor] Manuel Sanchez:	Muy importante descargar la version estable!
+01:27:33	conrado veloz:	que vercion
+01:27:36	[Tutor] Manuel Sanchez:	no la ultima
+01:27:42	[Tutor] Manuel Sanchez:	la LTS
+01:27:47	Miguel Garcia:	En Mac lo tenemos que instalar con Home Brew sino no se instala
+01:27:54	[Tutor] Manuel Sanchez:	si la compu les da 64 bit
+01:27:57	Joaquin Gourriet:	use vim??
+01:28:07	Miguel Garcia:	desde GIT me lleva aqui
+01:28:08	Miguel Garcia:	https://git-scm.com/download/mac
+01:28:16	Rodrigo Nuñez:	gracias miguel
+01:28:21	Lucas Rodriguez Alvarez:	de 32 o 64?
+01:28:31	Andrea Barreiro:	instalando
+01:28:41	Miguel Garcia:	con home  brew se tarda como 10min
+01:28:55	Federico Gomez Beret:	me anda lento como patada de astronauta internet en este momento
+01:29:02	Sofia Piemontesi:	cual es la lts manu?
+01:29:13	Federico Bozzano:	el que aparece por default
+01:29:17	Federico Bozzano:	no es el de la imagen profe
+01:29:22	Sofia Piemontesi:	Click here to download the latest (2.38.0) 64-bit version of Git for Windows. This is the most recent maintained build. It was released about 5 hours ago, on 2022-10-03.Other Git for Windows downloadsStandalone Installer32-bit Git for Windows Setup.64-bit Git for Windows Setup.Portable ("thumbdrive edition")32-bit Git for Windows Portable.64-bit Git for Windows Portable.
+01:29:24	Oscar Manuel Solís Chávez:	launch git bash?
+01:29:24	Catriel Drago:	en que parte me fijaba si mi pc es de 32 o 64
+01:29:25	Federico Bozzano:	podes ir para atras
+01:29:26	Franco Escalante:	listo
+01:29:49	Luciano Diotallevi:	Click derecho a Equipo y propiedades
+01:29:49	Franco Escalante:	en equipo
+01:29:54	Joaquin Gourriet:	no da 3 opciones
+01:30:03	Luciano Diotallevi:	dentro de la carpeta
+01:30:05	Oscar Manuel Solís Chávez:	Listo!
+01:30:10	Luciano Diotallevi:	Rdy!
+01:30:11	Joaquin Gourriet:	solo let git decide
+01:30:12	Martín Alba:	windows+R, escribi dxdiag y te va a tirar la info de tu pc. Pero seria raro tener una de 32 hoy en dia
+01:30:12	Lucas Rodriguez Alvarez:	tengo una netbook
+01:30:15	Lucas Rodriguez Alvarez:	no tengo pc
+01:30:15	Freddy  Martinez Osteicoechea:	para ver cuantos bits es su equipo abran cmd y coloquen dxdiag y aceptan permisos y ahi les sale
+01:30:16	Federico Bozzano:	Cuando te pide cual es el editor que usamos por defecto aparece VIM … hay que poner visual studio no?
+01:30:20	Lucas Rodriguez Alvarez:	cual descargo
+01:30:29	Gonzalo Rojas:	Que vendamos nuestra pc al diablo dice
+01:30:31	Gonzalo Rojas:	(?)
+01:30:35	[Tutor] Manuel Sanchez:	Si fede
+01:30:36	Federico Bozzano:	GRACIAS
+01:30:36	Josue Belmonte:	Me deja descargar solo el que dice Portable, esta bien?
+01:30:38	Leonel Eguren:	listo
+01:30:39	Federico Bozzano:	eso necesitaba
+01:30:43	Santiago Amarilla:	GABI
+01:30:47	Nicolas Ranua:	listorti
+01:30:54	Santiago Amarilla:	no aparecio el visual studio code como default y no me dejaba avanzar
+01:30:54	Leonel Eguren:	me abrió una consola
+01:30:54	Gonzalo Rojas:	yes
+01:30:55	Catriel Drago:	nop
+01:30:55	Federico Bozzano:	r
+01:30:58	Edson Pareja:	yes
+01:31:01	[Tutor] Manuel Sanchez:	Josue, porque no te deja descargar el otro
+01:31:04	Santiago Amarilla:	ok ok
+01:31:06	[Tutor] Manuel Sanchez:	?
+01:31:06	Felipe Murga:	espera que mi pc va a leña
+01:31:07	Nataniel Kreimer:	me cargo git gu - git cmd - git bash
+01:31:09	Santiago Amarilla:	ya esta listo
+01:31:15	Catriel Drago:	podria repetir una vez mas
+01:31:17	Oscar Manuel Solís Chávez:	Ya me abrió una ventana tipo consola
+01:31:19	Luciano Diotallevi:	Claro, no dice Visual, pero dice que GIT decide automaticamente
+01:31:22	Joaquin Gourriet:	next page profe
+01:31:22	Catriel Drago:	cual era la opcion que teniamos que verificar
+01:31:23	Nataniel Kreimer:	cual es el ppsta?
+01:31:25	[Tutor] Manuel Sanchez:	Esta bien oscar
+01:31:36	Sofia Piemontesi:	no encunetro la lts
+01:31:38	Santiago Aglietta:	cuando lo instalo no se abre naadaa
+01:31:45	[Tutor] Manuel Sanchez:	Como cual es el posta?
+01:31:45	Franco Escalante:	https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
+01:31:48	Ayelen Salvia:	que versión? había una última versión y una anterior?
+01:31:58	Franco Escalante:	ahí deje el link directo
+01:32:05	Franco Escalante:	https://github.com/git-for-windows/git/releases/download/v2.38.0.windows.1/Git-2.38.0-64-bit.exe
+01:32:06	Andrés Botía:	me quede en SSH executble
+01:32:06	Gabriel Frattesi:	En la penúltima no me aparecen las 3 opciones
+01:32:09	[Tutor] Manuel Sanchez:	Ahi fede paso el link
+01:32:12	Valentina Fiorillo:	file:///C:/Users/valen/AppData/Local/Programs/Git/ReleaseNotes.html
+01:32:17	Valentina Fiorillo:	Me llevó a ahí
+01:32:24	[Tutor] Matias Larsson:	Chicos, a no desesperar si no salen las cosas ahora, lo recomendable es que presten atencion y luego vean el video tranquilos, pausando y haciendolo paso a paso a su ritmo!
+01:32:42	Lucas Alejandro Peer:	profe se ve muy chico su escritorio
+01:32:50	Miguel Garcia:	No puedo instalar GIT en Mac
+01:32:52	Nataniel Kreimer:	Me cargo 3 diferentes GIT. GUI - BASH - CMD. Cual es el se usa?
+01:33:05	[Tutor] Manuel Sanchez:	bash
+01:33:06	Gabriel Frattesi:	Tengo Let GIT decide o Override the default Branch name for new repositories
+01:33:18	Federico Bozzano:	la invocación se ha completado (?
+01:33:19	Catriel Drago:	me sale una ventana diferente
+01:33:39	Miguel Garcia:	a mi me dio error la instalacion
+01:33:47	Catriel Drago:	choosing the ssh executable
+01:33:47	David Echeverri:	para mac sale un listado
+01:33:53	Martín Alba:	Salio una version nueva hace 5 horas creo, capaz instalaron esa y trae un par de cosas nuevas a la hora de instalar
+01:33:54	Luciano Diotallevi:	ahí hice screen capture de cómo instalé, ahi les paso el link del video
+01:33:55	Joaquin Gourriet:	Listo
+01:33:56	Luciano Diotallevi:	por las dudas
+01:33:57	Joaquin Gourriet:	salio satanas
+01:34:04	Miguel Garcia:	creo que home brew aun no es compatible con el M1
+01:34:11	Andrés Botía:	me salen opciones diferentes en la instaacion
+01:34:14	Lucas Rodriguez Alvarez:	después lo instalamos, ahora presetmos atención a la clase
+01:34:21	Andrés Botía:	que no aparecen en las diapositivas
+01:34:37	conrado veloz:	buenas profe estoy medio enfermo si no doy mi 100% lo siento
+01:34:40	Valentina Fiorillo:	Me aparece GIT CMD, Git Bash y GIT GUI
+01:34:47	Franco Escalante:	al que le dio error que pruebe 32 bits
+01:34:51	[Tutor] Manuel Sanchez:	Bash Vale
+01:35:07	Catriel Drago:	digamos que ya esta
+01:35:58	Felipe Murga:	ahí estaria
+01:36:14	Martin Lamacchia:	Se puede usar en VS tambien??
+01:36:42	Oscar Manuel Solís Chávez:	2.38.0
+01:36:55	Hernán Mosti:	Bien!
+01:37:00	Tomas Lopez Rivas:	2.36.1
+01:37:11	[Profe] Gabriel López:	git --version
+01:37:40	[Profe] Gabriel López:	git config --global user.name "Gabriel Lopez"
+01:37:47	Gonzalo Rojas:	Tiene que ser un nombre D:!?
+01:37:48	Franco Escalante:	con comillas?
+01:37:59	Rodrigo Nuñez:	gabi pregunta , la ñ se puede utilizar en la consola ?
+01:38:10	Felipe Murga:	me saltaron miles de codigos
+01:38:15	Valentina Fiorillo:	A mí no me aparece /Desktop
+01:38:32	Gonzalo Rojas:	*c desespera*
+01:38:35	Federico Bozzano:	vean bien donde van los espacios
+01:38:39	Valentina Fiorillo:	Jajajajajajajajja
+01:38:40	Leonel Eguren:	listo
+01:38:41	Hernán Mosti:	Ok
+01:38:48	Hernán Mosti:	Listo
+01:38:49	Joaquin Gourriet:	basta chiques
+01:38:58	Federico Bozzano:	go
+01:39:00	[Profe] Gabriel López:	git config --global user.name "Gabriel Lopez"
+01:39:32	Gaston Jongewaard de Boer:	🤔
+01:39:35	Luciano Diotallevi:	listo
+01:39:36	Gaston Jongewaard de Boer:	okey
+01:39:41	Joaquin Gourriet:	liston
+01:39:45	[Profe] Gabriel López:	git config --global user.email "gabaletru@gmail.com"
+01:39:46	Gonzalo Rojas:	profeee como es el código ascii para colocar el arrobaaaa
+01:39:55	Luciano Diotallevi:	alt+64
+01:39:56	Catriel Drago:	pongo git--version y me sale bash: git--version: command not found
+01:39:57	Catriel Drago:	f
+01:40:05	Gonzalo Rojas:	genioo lucianooooo
+01:40:10	Catriel Drago:	bueno despues me fijo
+01:40:14	Federico Bozzano:	usa el espacio después del git
+01:40:16	Leonel Eguren:	hecho
+01:40:22	Nicolas Ranua:	hay un espacio entre config y --
+01:40:37	Joaquin Gourriet:	si
+01:40:39	Luciano Diotallevi:	nice
+01:40:47	Joaquin Gourriet:	si funca
+01:40:50	Ayelen Salvia:	un segundo
+01:40:51	Federico Bozzano:	👍🏾
+01:40:51	Luciano Diotallevi:	por fin aparezco en algun lugar (?
+01:40:51	Matias Barbalase:	bueno me perdi jaja asi q a rever la clase
+01:40:52	Rodrigo Nuñez:	wiii sisiis
+01:40:53	Leonel Eguren:	funciona
+01:40:58	[Profe] Gabriel López:	git config --list
+01:41:02	Tomas Lopez Rivas:	user.name=Tomas Lopezuser.email=aguustinlopezrivas@gmail.comuser.mail=aguustinlopezrivas@gmail.comuser.gmail=aguustinlopezrivas@gmail.com
+01:41:09	Tomas Lopez Rivas:	me apareció asi
+01:41:15	Tomas Lopez Rivas:	esta bien?
+01:41:16	Joaquin Fernandez:	.
+01:41:26	Hernán Mosti:	como se borra
+01:42:17	[Tutor] Manuel Sanchez:	igual que en cualquier texto hernan
+01:42:38	Oscar Manuel Solís Chávez:	Profe. podría maximixar la pantalla de su gitbash por favor?
+01:42:38	Felipe Murga:	podrias repetir porfas
+01:42:42	Lucas Rodriguez Alvarez:	profe esa no es la copia, por las dudas
+01:42:43	Joaquin Gourriet:	profe el original o la copia??
+01:42:53	Ayelen Salvia:	poder repetir pasos anteriores
+01:42:56	Luciano Diotallevi:	la copia migo
+01:43:01	Federico Bozzano:	en mis tiempos antes de la interfaz grafica todos los archivos se abrían con rutas
+01:43:04	Joaquin Gourriet:	gracia amito
+01:43:07	Joaquin Gourriet:	amigito
+01:43:14	Luciano Diotallevi:	tkm joaco
+01:43:21	Joaquin Gourriet:	yo igual
+01:43:29	Rodrigo Nuñez:	sisi
+01:43:33	Rodrigo Nuñez:	por las dudas puse la copia
+01:43:40	Nataniel Kreimer:	como era en DOS??
+01:43:41	Ayelen Salvia:	me re perdi
+01:43:45	Felipe Murga:	profe podrias repetir porfa
+01:44:54	Gaston Jongewaard de Boer:	ohh esa no la sabía
+01:46:26	Franco Escalante:	si movemos la ruta (la carpeta de lugar) que pasa?
+01:48:25	[Profe] Gabriel López:	git init
+01:48:45	Luis Pitre:	git : El término 'git' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.En línea: 1 Carácter: 1+ git init+ ~~~    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException    + FullyQualifiedErrorId : CommandNotFoundException
+01:49:04	Santiago Amarilla:	me aparecio el mismoo error
+01:49:17	Luciano Diotallevi:	Después fijense reinstalando el GIT
+01:49:44	Santiago Amarilla:	ok ok
+01:49:57	Andrés Botía:	git : El término 'git' no se reconoce como nombre de un cmdlet, función, archivo de script o programa ejecutable. Compruebe si escribió correctamente el nombre o, si incluyó una ruta de acceso, compruebe que dicha ruta es correcta e inténtelo de nuevo.En línea: 1 Carácter: 2
+01:49:58	[Tutor] Manuel Sanchez:	o capaz que tienen que ponerlo en el path
+01:50:21	federico russo:	jajjaa si eso es malo imagínate el mio profe
+01:50:48	Leonel Eguren:	me lo tomo desde el git Bush pero no desde el visual
+01:51:42	[Tutor] Manuel Sanchez:	puede que si no les toma desde el VSC tengan que agregarlo al path de windows
+01:51:46	[Tutor] Manuel Sanchez:	pero eso es otra historia
+01:51:47	Felipe Murga:	tengo miedo de romper mi proyecto
+01:51:47	Federico Gomez Beret:	en el visual fíjense de cerrar git y visual y probar d nuevo abriendo que ah{i me funcionó
+01:52:01	[Tutor] Manuel Sanchez:	Feli, no estas trabajando con una copia?
+01:52:08	Luis Pitre:	Asi lo hice, cerre y abri el vsc y funciono.
+01:52:16	Federico Bozzano:	yo tuve que limpiar la parte de terminales je pq me quedo abierta al terminal de otro proyecto
+01:52:18	Felipe Murga:	creo que si manu
+01:52:23	Edson Pareja:	puede ser que tenes que reiniciar la pc para que aplique los cambios
+01:52:30	Catriel Drago:	ver que estaba guardado
+01:52:31	Federico Bozzano:	dit status: lo que esta subido a la nube
+01:52:32	[Tutor] Manuel Sanchez:	Entonces no va a pasar nada
+01:52:33	Rodrigo Nuñez:	mostraba lo que no se guardo
+01:52:33	Oscar Manuel Solís Chávez:	git status y ahora todo en verde
+01:52:35	Franco Marini:	estado de los archivos
+01:52:36	Tomas Lopez Rivas:	te muestra donde esrtas parado
+01:52:36	Martín Alba:	chequea que esta guardado o no
+01:52:37	Gonzalo Rojas:	ver el estado de git en los archivos
+01:52:43	Franco Escalante:	para ver el estado de archivos
+01:52:43	Nicolas Ranua:	ya muestra todo en verde
+01:53:04	Luciano Diotallevi:	nice
+01:53:08	Federico Bozzano:	git statusvama
+01:53:14	Joaquin Gourriet:	Si modificamos algo se guarda de manera automática?
+01:53:14	[Profe] Gabriel López:	clear
+01:53:19	Federico Bozzano:	clear
+01:53:23	Federico Bozzano:	sory jaja
+01:53:27	[Tutor] Manuel Sanchez:	No joaquin
+01:53:32	Joaquin Gourriet:	ok
+01:53:34	[Tutor] Manuel Sanchez:	hay que guardarlo manualmente
+01:54:15	Franco Escalante:	versión 1.0
+01:54:41	conrado veloz:	🤧
+01:54:49	Matias Barbalase:	maso
+01:54:49	Gonzalo Rojas:	si
+01:54:49	Federico Gomez Beret:	maso
+01:54:50	Oscar Manuel Solís Chávez:	bien
+01:54:50	Felipe Murga:	no me gusta git
+01:54:51	Martin Lamacchia:	si
+01:54:53	Matias Barbalase:	a reveer
+01:54:55	Luciano Diotallevi:	perfecto
+01:55:00	Josue Belmonte:	Feito
+01:55:01	Rodrigo Nuñez:	uhy no me salio
+01:55:01	Federico Bozzano:	bien por ahora
+01:55:03	Federico Gomez Beret:	se me desconecto internet al principio y me perdi un toque
+01:55:04	Fernando Gimenez:	no
+01:55:08	Luciano Diotallevi:	mas facil que renegar con estar vivo (?
+01:55:22	Rodrigo Nuñez:	git commit m ?
+01:55:22	Nataniel Kreimer:	Untracked files:  (use "git add <file>..." to include in what will be committed)        ccs/        img/        index.html        indexarea.html        indexgrid.html        memoria - Alumno Kreimer Nataniel - Comision 44355.txt        pages/        pre-entrega1-kreimer        pre-entrega1-kreimer.zip.zip        prototipo - Alumno Kreimer Nataniel - Comision 44355.png        ttt.htmlnothing added to commit but untracked files present (use "git add" to track)
+01:55:23	Fernando Gimenez:	git comit is not a git command
+01:55:35	[Profe] Gabriel López:	git commit -m “creación del index”
+01:55:40	Federico Bozzano:	clave hacer la clase a tu tiempo reviéndola y juntar dudas par la prox clase
+01:55:50	Catriel Drago:	bien
+01:55:53	Luciano Diotallevi:	Fede tkm
+01:55:55	Rodrigo Nuñez:	bien
+01:56:07	Gonzalo Rojas:	git init
+01:56:09	Federico Bozzano:	yo tambien
+01:56:09	Franco Escalante:	init
+01:56:14	Federico Bozzano:	♥
+01:56:20	Gonzalo Rojas:	>w>!
+01:56:29	Federico Gomez Beret:	git status
+01:56:32	Catriel Drago:	status
+01:57:12	Joaquin Gourriet:	git add
+01:57:17	Andrea Barreiro:	no
+01:57:17	Franco Escalante:	no
+01:57:17	Martin Lamacchia:	no
+01:57:18	Martín Alba:	No
+01:57:18	Federico Bozzano:	no
+01:57:19	Felipe Murga:	no
+01:57:20	Andrea Barreiro:	status
+01:57:20	Ayelen Salvia:	no
+01:57:20	Edson Pareja:	no
+01:57:24	Felipe Murga:	git status ?
+01:57:26	Andrea Barreiro:	para ver
+01:57:30	Edson Pareja:	git status
+01:57:36	Tomas Lopez Rivas:	git add para agregar es ?¡
+01:57:43	Martín Alba:	.
+01:57:44	Catriel Drago:	git add .
+01:57:51	Luciano Diotallevi:	el puhto
+01:57:52	Luciano Diotallevi:	punto
+01:58:02	Luis Pitre:	Recomiendas siempre usar add . ? o colocar el archivo modificado?
+01:58:04	Andrea Barreiro:	ok
+01:58:04	Luciano Diotallevi:	<3
+01:58:10	Catriel Drago:	git commit-m
+01:58:11	Martín Alba:	commit
+01:58:24	[Tutor] Manuel Sanchez:	Depende lo que quieras hacer luis, por lo general se usa el .
+01:58:33	Luis Pitre:	gracias manuel
+01:58:37	[Tutor] Matias Larsson:	Luis, siempre usaras punto a menos que no quieras trackear algun archivo en particular
+01:58:47	Catriel Drago:	si
+01:58:52	Luciano Diotallevi:	perfecto
+01:58:52	Joaquin Gourriet:	git comit es una especie de comentario para el resto?
+01:58:53	conrado veloz:	si
+01:58:54	Valentina Fiorillo:	Sii
+01:58:57	Federico Bozzano:	si por ahora si
+01:59:06	[Tutor] Manuel Sanchez:	Y para vos Tambien Joaquin
+01:59:25	Joaquin Gourriet:	bien
+01:59:27	Federico Bozzano:	es como el "guardar como"
+01:59:29	[Tutor] Manuel Sanchez:	para saber que es lo que hiciste en cada etapa
+01:59:39	Valentina Fiorillo:	Con el . se guarda todo?
+01:59:41	Joaquin Gourriet:	Gracias Manu
+01:59:47	[Tutor] Manuel Sanchez:	Si vale
+01:59:56	Valentina Fiorillo:	Gracias!
+02:01:34	Andrea Barreiro:	ok, le pone el nombre a lo modificado
+02:01:35	Franco Escalante:	puntos de restauracion
+02:01:40	Catriel Drago:	very gud
+02:01:40	Felipe Murga:	no entiendo el ejemplo
+02:01:42	Federico Bozzano:	del mono al homo sapien XD
+02:01:51	Lucas Rodriguez Alvarez:	linea de tiempo
+02:01:58	Felipe Murga:	ahaahh ya entendi
+02:02:01	Joaquin Gourriet:	podes volver atrás con el commit?
+02:02:21	Oscar Manuel Solís Chávez:	y en cualquier momento nos podemos regresar a cualquier checkpoint?
+02:02:36	Jarod Calderon:	Another git process seems to be running in this repository, e.g.an editor opened by 'git commit'. Please make sure all processesare terminated then try again. If it still fails, a git processmay have crashed in this repository earlier:remove the file manually to continue.PS C:\Users\jarod\OneDrive\Escritorio\coderhouse git>
+02:02:38	Franco Escalante:	cuantas vidas tenemos (?
+02:02:41	Jarod Calderon:	me sale eso
+02:02:42	Jarod Calderon:	:L
+02:02:53	Andrea Barreiro:	si
+02:03:03	Felipe Murga:	osea si estamos en el checkpoint 3 no podemos volver al 1?
+02:03:21	Felipe Murga:	ah listo
+02:03:27	Joaquin Gourriet:	ah bien
+02:03:30	Josue Belmonte:	Pero para qué volveria para atras por ejemplo?
+02:03:32	[Tutor] Matias Larsson:	add es la etapa en la que le decimos a git que archivos vamos a querer incorporar en nuestro proximo commit. Un commit es una 'marca' en la linea de vida de nuestro proyecto. Luego podremos movernos entre los commits que hayamos hecho a lo largo de la vida del proyecto, como volver a versiones anteriores en caso de meter la pata….. por eso es que le agregamos al commit un comentario para poder saber a futuro en que etapa estaba el proyecto..
+02:03:52	Jarod Calderon:	Another git process seems to be running in this repository, e.g.an editor opened by 'git commit'. Please make sure all processesare terminated then try again. If it still fails, a git processmay have crashed in this repository earlier:remove the file manually to continue.PS C:\Users\jarod\OneDrive\Escritorio\coderhouse git> me sale esto :l
+02:04:09	Oscar Manuel Solís Chávez:	Si volvemos se borra, como  la película "Back to the future" que se borraba la foto de McFly jajajaja
+02:04:31	Federico Bozzano:	profundo el ejemplo pero muy esclarecedor
+02:04:42	[Tutor] Manuel Sanchez:	Jarod, pareciera que estas queriendo hacer otro git init sobre un repositorio ya existente
+02:05:05	Jarod Calderon:	me sale al colocar git add .
+02:05:09	Ayelen Salvia:	gaby
+02:05:10	Catriel Drago:	si
+02:05:12	Gonzalo Rojas:	LA LISTA DE AUSENTES
+02:05:13	Tomas Lopez Rivas:	profe tiene mal la hora
+02:05:14	Gonzalo Rojas:	PASEN
+02:05:24	[Tutor] Matias Larsson:	Van mis ausentes:
+02:05:24	[Tutor] Matias Larsson:	Joaquín LaraLaureano GonzalezMarcos Tomas IrañetaMariano ArdohainNorman ArguetaPiero Giuseppe Peralta NapoliSofía CornalóValentina RomeroWilson Sanabria
+02:05:24	Felipe Murga:	para no llegar tarde jaja
+02:05:27	Piero Giuseppe Peralta Napoli:	Buenas noches, mis disculpas por la tardanza
+02:05:28	Ayelen Salvia:	podrpodrrias poner lo que pusiste en la cosoloa de git
+02:05:31	Jonathan Medina:	Se puede usar básicamente para ir jugando con el proyecto y si cometemos unos errores volver antes de cometerlos?
+02:05:31	Luciano Diotallevi:	el profe chitea (?
+02:05:41	Ayelen Salvia:	para poner nuestro nombre y mail
+02:05:49	Ayelen Salvia:	para chequear que se guardo
+02:06:01	[Tutor] Matias Larsson:	Ok Piero, ya te agrego a los presentes
+02:06:08	[Profe] Gabriel López:	2. git –version 3. git config --global user.name “Juan Perez” 4. git config --global user.email “juanperez@gmail.com”git config --list
+02:06:08	Santiago Amarilla:	mati estoy presente?
+02:06:33	Felipe Murga:	no puedo cerrar el git jajaja
+02:06:51	Joaquin Gourriet:	están los tutoriales en la plataforma para instalar bien el GIT??
+02:07:09	Santiago Amarilla:	los comandos de git ya en el visuual studio se puede ver nuevamente?
+02:07:24	[Tutor] Manuel Sanchez:	Andrea GonzalezCeleste ArrietaFernando Sinche LlantoyFranco Traetta Bersia
+02:07:27	[Tutor] Manuel Sanchez:	MIS AUSENTES
+02:07:40	[Tutor] Manuel Sanchez:	como santi?
+02:08:05	Felipe Murga:	No hay musiquita hoy
+02:08:09	Santiago Amarilla:	del tema de los comandos que introdujo en el visual studio
+02:08:16	Santiago Amarilla:	ya que pude instalar bien el git ahora
+02:08:24	Santiago Amarilla:	o cuando vuelva gabi
+02:08:41	[Profe] Gabriel López:	git –version
+02:08:49	[Profe] Gabriel López:	git config --global user.name “Juan Perez”
+02:08:59	[Profe] Gabriel López:	git config --global user.email “juanperez@gmail.com”
+02:09:09	Nataniel Kreimer:	Se le puede pedir a la consola un listado de todos los -m creados?
+02:09:30	[Profe] Gabriel López:	git config --list (para chequear que todos los datos esten bien guardados)
+02:09:50	[Profe] Gabriel López:	Lo veremos Nata
+02:09:50	Andrea Barreiro:	ahora no hago commit, porque no modifique nada....
+02:09:58	Nataniel Kreimer:	danke
+02:10:00	[Tutor] Matias Larsson:	Aca les dejo una cheat sheet de comandos de git, aunque no creo que vayan a necesitar mas de los que vimos en clases…. Va : https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
+02:10:35	Luciano Diotallevi:	https://clipchamp.com/watch/WRXlLU0oSpS
+02:10:38	Luciano Diotallevi:	asi lo instalan
+02:10:44	Nicolas Ranua:	con esto le decimos chau a "proyecto final1 - 2 - 3 - prueba - etc
+02:10:47	Nicolas Ranua:	noo??
+02:10:53	[Tutor] Manuel Sanchez:	Exacto Nico
+02:11:00	[Tutor] Manuel Sanchez:	Van a tener una sola carpeta local
+02:11:10	Nicolas Ranua:	es el paraíso 🥰
+02:11:10	Santiago Amarilla:	genial gabi hasta ahi lo hice y ya en visual logre hacer un git init
+02:12:02	[Profe] Gabriel López:	Genialoso
+02:12:09	[Profe] Gabriel López:	Ahora hacemos el proceso de nuevo después de ahi
+02:12:20	Santiago Amarilla:	genial estare atento asi sigo rapido
+02:12:44	Santiago Amarilla:	sino a la repeticion 😇
+02:13:35	Jarod Calderon:	cómo cierro el proceso de git? para iniciarlo nuevamente sin errores?
+02:13:52	[Tutor] Manuel Sanchez:	ctrl C
+02:14:11	[Tutor] Manuel Sanchez:	si no funciona, cerra y volve a abrir el git
+02:14:15	Matias Barbalase:	luchando jeje
+02:14:29	Joaquin Gourriet:	volo el breack
+02:14:30	Federico Bozzano:	aun no hicimos casi nada igual XD
+02:14:31	Catriel Drago:	profe
+02:14:34	Nicolas Marset:	me desoertaste profe
+02:14:40	Catriel Drago:	es git--version o git--versions
+02:14:48	Catriel Drago:	no me funca :C
+02:14:54	[Profe] Gabriel López:	git --version
+02:14:58	[Tutor] Manuel Sanchez:	va con espacios catriel
+02:15:03	[Tutor] Manuel Sanchez:	asi como escribio gabi
+02:15:05	Nicolas Marset:	me dormi 10 en el recreo jajaja
+02:15:08	Catriel Drago:	ah
+02:15:16	Catriel Drago:	si me funcionaba
+02:15:19	Gaston Jongewaard de Boer:	opino lo siguiente, porque consejos dan los viejos nomas xdhice una clase de python en coder y enseñaron git y GitHub tmbhubo muchos problemas para prestarle atención al profe y se desvirtuó 1hora de más, la posta es ver a Gabi y dsp rever la clase
+02:15:20	Catriel Drago:	xD
+02:15:30	conrado veloz:	buena esa nico
+02:16:04	Catriel Drago:	adios productos
+02:16:05	Nicolas Marset:	mi ídolo conra
+02:16:12	Federico Gomez Beret:	git status
+02:16:15	Gabriel Frattesi:	status
+02:16:24	Gabriel Frattesi:	add
+02:16:24	Federico Gomez Beret:	git add index.html
+02:16:25	Martin Lamacchia:	add
+02:16:27	Catriel Drago:	git add .
+02:16:31	Felipe Murga:	git add .
+02:16:40	Gabriel Frattesi:	commit
+02:16:41	Federico Gomez Beret:	git commit -- m "NOMBRE"
+02:17:43	Josue Belmonte:	Y si son varios los cambios?
+02:18:00	Joaquin Gourriet:	"cambie todo"
+02:18:13	Luciano Diotallevi:	"rompi todo pero lo guardo igual"
+02:18:17	[Tutor] Manuel Sanchez:	La idea es que no sean muchos cambios en un solo commit Josue
+02:18:19	Joaquin Gourriet:	jaja
+02:18:34	[Tutor] Manuel Sanchez:	la idea es que cada commit sea un cambio especifico
+02:18:36	Franco Escalante:	ya extrañaba la manito levantada
+02:18:50	Federico Bozzano:	oh
+02:18:52	Josue Belmonte:	Aparecio él
+02:18:57	Matias Barbalase:	🤯
+02:19:00	Federico Bozzano:	the only one
+02:19:00	Felipe Murga:	silencio que habla la leyenda
+02:19:03	Joaquin Gourriet:	todos
+02:19:04	Martín Alba:	Ya me parecía raro que no apareciera, pensé que andaba con fiebre
+02:19:04	Oscar Manuel Solís Chávez:	jajajaja
+02:19:07	Lucas Rodriguez Alvarez:	he we are go again
+02:19:09	Martín Alba:	ah, la pegé
+02:19:10	Federico Gomez Beret:	dibuuuuje conrado
+02:19:13	Nicolas Marset:	JJAJAJA
+02:19:14	Jarod Calderon:	mentira, los semidioses no se enferman
+02:19:22	Federico Bozzano:	🤣
+02:19:34	Lucas Palacios:	😂😂
+02:19:38	Joaquin Gourriet:	quiero plata
+02:20:23	conrado veloz:	🤣
+02:21:37	Felipe Murga:	Para que sirve todo esto?
+02:21:53	conrado veloz:	quiero ver ese dibujo fede
+02:21:55	Joaquin Gourriet:	donde dice el nombre?
+02:22:01	Felipe Murga:	Ah oka
+02:22:27	Catriel Drago:	se eliminaba
+02:22:28	Federico Gomez Beret:	se borra el anterior
+02:22:28	Luis Pitre:	Se borraban los otros cambios
+02:22:29	Andrea Barreiro:	se pierde
+02:22:29	Martín Alba:	Se perdia el ultimo
+02:22:30	Joaquin Gourriet:	lo pisa
+02:22:39	Franco Escalante:	para lo que sirve es para no crear carpetitas por todos lados en la pc
+02:22:45	Joaquin Gourriet:	el huracan
+02:22:50	Santiago Amarilla:	el git se comio mi tarea
+02:22:55	Gaston Jongewaard de Boer:	con la sig clase va a haber menos excusas
+02:22:55	Gaston Jongewaard de Boer:	xd
+02:23:01	Fernando Gimenez:	recuerda marty, nunca te encuentres con tu yo del pasado
+02:23:01	conrado veloz:	el huracan se fue
+02:23:05	[Tutor] Manuel Sanchez:	para los que quieren investigar, existe un comando que se llama git stash para que eso no pase
+02:23:10	[Tutor] Manuel Sanchez:	tarea extra
+02:23:28	[Tutor] Manuel Sanchez:	guarda los cambios hechos sin necesidad de hacer commit en local
+02:23:54	Matias Barbalase:	no me volvió jajaja algo hice mal
+02:23:54	Joaquin Gourriet:	bien
+02:24:55	conrado veloz:	tutor
+02:25:49	Franco Escalante:	para poder trabajar un mismo proyecto en conjunto
+02:26:03	Luis Pitre:	Gabriel, después del git log veo todo, me aparecen dos puntos : y no me deja escribir nada.
+02:26:04	conrado veloz:	hay alguna plataforma o web que constante mente te mande tarea de problemas de html y css para practicar esas cositas
+02:26:23	Joaquin Gourriet:	bien
+02:26:26	Catriel Drago:	bien
+02:26:27	conrado veloz:	esa pregunta es para el tutor
+02:26:31	Luis Pitre:	LISTO
+02:26:37	[Tutor] Manuel Sanchez:	Conrado, no conzco ninguna
+02:27:02	conrado veloz:	😕
+02:27:05	Gabriel Frattesi:	el multiverso
+02:27:39	Leonel Eguren:	eso es modo de trabajo Agile?
+02:27:39	Franco Marini:	te atraparan los legends of tomorrow
+02:27:49	Joaquin Gourriet:	luego se puede aplicar cualquiera de los sub proyectos?
+02:27:58	Franco Escalante:	como cuando trabajamos una planilla en la nube
+02:28:11	conrado veloz:	como buen empleado que soy
+02:28:13	Catriel Drago:	si
+02:28:13	Andrea Barreiro:	si
+02:28:13	Felipe Murga:	maso
+02:28:15	Leonel Eguren:	si pefecto
+02:28:15	[Tutor] Manuel Sanchez:	Si Joaco, se pueden unir las ramas, mas adelante lo vemos
+02:28:16	Matias Barbalase:	maso
+02:28:26	Luis Pitre:	¿Como seleccionas el commit que deseas trabajar?
+02:28:26	Lucas Rodriguez Alvarez:	luego entonces lo podemos unir a todos?
+02:28:32	Federico Bozzano:	🤣
+02:28:44	Jonathan Medina:	Aumento para Conrado
+02:28:50	Jonathan Medina:	de sueldo
+02:28:58	[Tutor] Manuel Sanchez:	No seleccionas el commit si no la rama Luis
+02:29:05	[Tutor] Manuel Sanchez:	Si lucas
+02:30:13	Martín Alba:	Profe, click derecho en el circulito y bring to front
+02:31:14	Catriel Drago:	suena lindo y complicado a la vez
+02:31:29	conrado veloz:	que bueno me subieron el sueldo 🤣
+02:31:39	conrado veloz:	gracias jona
+02:31:40	Matias Barbalase:	👁️
+02:31:48	Matias Barbalase:	muchas
+02:31:48	Catriel Drago:	sisi
+02:31:49	Fernando Gimenez:	si
+02:31:58	Luciano Diotallevi:	todavia no se prender la pc(?
+02:32:22	conrado veloz:	yo te ayudo luciano
+02:32:34	Joaquin Gourriet:	Conrado estas despedido, lo siento
+02:32:44	Lucas Rodriguez Alvarez:	cuidado con el jabón lucho
+02:32:52	conrado veloz:	comoooo🤣
+02:33:09	Catriel Drago:	el -l es para ver las ramas?
+02:33:12	Jonathan Medina:	😂😂😂
+02:33:28	[Tutor] Manuel Sanchez:	para ver el listado de ramas catriel
+02:34:03	Santiago Amarilla:	consulta: cuando se crea una rama entonces ningun colaborador deberia trabajar con el master . entiendo bien ?
+02:34:40	conrado veloz:	los que puedan ir al discord de coder hablar cuando termine la clase vengan si pueden
+02:34:42	Catriel Drago:	si
+02:34:43	conrado veloz:	si
+02:34:43	Felipe Murga:	no
+02:34:44	[Tutor] Matias Larsson:	Exacto Santi
+02:34:44	Oscar Manuel Solís Chávez:	si bien
+02:34:47	Nicolas Ranua:	perfecto
+02:34:47	Lucas Rodriguez Alvarez:	entonces, cada vez que tiras un código, automáticamente cambia el vscode?
+02:34:51	Santiago Amarilla:	excelente
+02:34:55	Leonel Eguren:	se entiende
+02:35:15	[Tutor] Manuel Sanchez:	Si Santiago, nadie deberia trabajar en el master/main porque seria la version principal
+02:35:23	Santiago Amarilla:	perfecto
+02:35:29	Santiago Amarilla:	entendido!
+02:36:06	Lucas Rodriguez Alvarez:	entonces, cada vez que tiras un código, automáticamente cambia el vscode?
+02:36:15	Joaquin Gourriet:	git add
+02:36:16	Andrea Barreiro:	add
+02:36:16	Federico Bozzano:	add
+02:36:18	Matias Barbalase:	git add
+02:36:18	Luis Pitre:	git add .
+02:36:19	Matias Barbalase:	.
+02:36:19	Felipe Murga:	add
+02:36:21	Gabriel Frattesi:	status
+02:36:22	[Tutor] Manuel Sanchez:	Si lucas
+02:36:54	Felipe Murga:	esa rama prueba  que etiqueta seria
+02:37:49	Leonel Eguren:	hay alguna pgina para ver a que hacen referencia las letras seultas?
+02:37:55	Leonel Eguren:	-m - a -l etc
+02:38:03	Luis Pitre:	Comandos de terminal, se usan en linux
+02:38:29	Catriel Drago:	si
+02:38:29	Santiago Amarilla:	se entiende
+02:38:29	Oscar Manuel Solís Chávez:	ok
+02:38:30	Joaquin Gourriet:	bien
+02:38:35	[Tutor] Manuel Sanchez:	la m es de message, y la l de list Leonel
+02:38:45	[Tutor] Matias Larsson:	Aca paso un cheat sheet Leonel para referencia https://training.github.com/downloads/es_ES/github-git-cheat-sheet/
+02:38:46	[Tutor] Manuel Sanchez:	La a no lo descubri todavia
+02:38:57	Oscar Manuel Solís Chávez:	no va estar
+02:38:58	Federico Gomez Beret:	negro
+02:38:58	Martín Alba:	negro
+02:38:59	Edson Pareja:	negro
+02:38:59	Catriel Drago:	va a ser negro
+02:38:59	Gabriel Frattesi:	negro
+02:39:00	Andrea Barreiro:	negro
+02:39:09	Leonel Eguren:	gracias matias!
+02:39:26	Luciano Diotallevi:	súper cómodo
+02:39:43	Santiago Amarilla:	perfecto
+02:39:57	Federico Gomez Beret:	ahí no se borra la rama por volver al master, no?
+02:40:00	Nicolas Ranua:	hay que estar super atento de donde estas ubicado, no? sino te la podes mandar
+02:40:03	Luciano Diotallevi:	un borador super dinamico, hermoso
+02:40:15	Federico Gomez Beret:	genial gracias
+02:40:54	Joaquin Gourriet:	eso
+02:41:00	Gabriel Frattesi:	y si la queres descartar se puede borrar?
+02:41:14	Gabriel Frattesi:	Ah ok ok
+02:41:35	Franco Escalante:	se juntan o se declara la prueba como master?
+02:41:45	Matias Barbalase:	checkout
+02:42:18	[Tutor] Manuel Sanchez:	Se juntan Franco, se ven los cambios que tenes en la otra rama y se unen a la rama master
+02:42:27	[Tutor] Manuel Sanchez:	pero la otra rama no se elimina
+02:42:32	Franco Escalante:	gracias Manuel
+02:43:31	Joaquin Gourriet:	Manuel, hay alguna lista de comandos con la definición de cada uno?
+02:43:33	Federico Gomez Beret:	sii
+02:43:35	Catriel Drago:	si
+02:43:37	Oscar Manuel Solís Chávez:	si
+02:43:37	Jonathan Enrique:	Entonces, siempre hay que posicionarse en la rama que queremos traer el cambio?
+02:43:37	Gabriel Frattesi:	bien
+02:43:37	Andrea Barreiro:	si
+02:43:40	Sofia Piemontesi:	de nuevo porfii
+02:43:42	Martin Lamacchia:	Consulta cuando trabajan 2 en ramas diferentes  uno en el header y otro en el footer y la guardan en la master una no pisa a la otra?
+02:43:42	Felipe Murga:	maso
+02:43:42	Sofia Piemontesi:	el merge
+02:43:45	Joaquin Gourriet:	okok
+02:43:48	[Tutor] Manuel Sanchez:	Si jonatahn
+02:43:49	Luis Pitre:	Gabriel, el merge seria el mismo comando para unir subramas entre ellas? Ejemplo, aparte de la principal sacas dos subramas, las unes con merge?
+02:43:58	Joaquin Gourriet:	genial
+02:44:12	Jonathan Enrique:	Gracias!
+02:44:17	[Tutor] Manuel Sanchez:	Si Martin, ahi es cuando empiezan las peleas jajajaja
+02:44:33	Franco Marini:	osea si hubiese mas ramas, poder unirlas entre ellas
+02:44:45	Martin Lamacchia:	ha OK gracias Manu
+02:44:55	Jonathan Medina:	git --versiongit config --global user.name "Jonathan Medina"git config --global user.email "jony49248@gmail.com"git config --listcdgit initgit statusgit add .cleargit commit -m “creación del index”git checkoutgit branch -lgir merge
+02:45:08	[Tutor] Manuel Sanchez:	en ese caso, uno de los dos tendria que unir su rama, despues el otro tiene que hacer un pull para traerse los cambios que hizp el otro, y recien ahi el otro puede unir la rama
+02:45:45	Franco Marini:	un complejo de multiversos xd
+02:45:52	Sofia Piemontesi:	te tendrías que parar siempre en la rama  madre?
+02:45:56	Sofia Piemontesi:	de esa rama
+02:46:09	Martín Alba:	Despues ya no sabes que mergear sino. Se te arma un arbol genealogico
+02:46:16	[Tutor] Manuel Sanchez:	Si sofi
+02:46:28	Sofia Piemontesi:	gracias manu
+02:46:28	Nicolas Ranua:	hay algún entorno grafico que muestre las ramas y demás? como vos estas haciendo en whimsical
+02:46:45	[Tutor] Manuel Sanchez:	Hay una extension en VSC Nico
+02:46:47	[Tutor] Manuel Sanchez:	git graph
+02:47:06	Santiago Amarilla:	espero se haya entendido mi pregunta
+02:47:20	[Tutor] Manuel Sanchez:	Martin, para eso esta el project manager, que va a estar al tanto de todo lo que hace cada uno y los comflictos que pueda generar
+02:47:24	Fernando Gimenez:	después de revisar
+02:47:39	Santiago Amarilla:	se entiende
+02:47:46	[Tutor] Matias Larsson:	Si Nico, aunque si quieren ser programadores es recomendable que domines laa consola, y una vez que estes comodo luego innoves con alguna interfaz
+02:48:09	Nicolas Ranua:	genial martin
+02:48:14	Santiago Amarilla:	listo
+02:48:14	Felipe Murga:	No me gusta para nada git
+02:48:14	Santiago Amarilla:	sii
+02:48:18	Nicolas Ranua:	gracias por la data
+02:48:19	Martin Lamacchia:	si
+02:48:20	Santiago Amarilla:	si entendi
+02:48:21	Fernando Gimenez:	ssisi
+02:48:23	conrado veloz:	si
+02:48:47	Matias Barbalase:	la vida es una
+02:48:48	Catriel Drago:	F
+02:48:49	Felipe Murga:	eeeee
+02:48:57	Santiago Amarilla:	me autodespido
+02:49:00	conrado veloz:	como a mi me despidio aqui alguien
+02:49:00	Angel Silva:	El que tenga miedo a morir que no nazca
+02:49:05	conrado veloz:	🤣
+02:49:06	Felipe Murga:	otra razón para odiar git
+02:49:21	Joaquin Gourriet:	mi duda es GIT
+02:49:22	Santiago Amarilla:	perdon deje la mano
+02:49:24	Fernando Gimenez:	jaja
+02:49:25	Gabriel Frattesi:	Como se trabajaría esto de forma colaborativa? admite varios usuarios?
+02:49:25	Santiago Amarilla:	ya
+02:49:26	Catriel Drago:	profe tengo miedo
+02:49:27	Santiago Amarilla:	listo
+02:49:47	conrado veloz:	🤧
+02:49:53	[Tutor] Manuel Sanchez:	Gabi, cuando veamos GitHub vamos a ver que admite todos los usuarios que quieras
+02:50:00	Federico Gomez Beret:	git status
+02:50:01	Matias Barbalase:	status
+02:50:01	Felipe Murga:	git status
+02:50:02	Martin Lamacchia:	status
+02:50:06	[Profe] Gabriel López:	git status
+02:50:07	Gabriel Frattesi:	Ahh bien, gracias!
+02:50:15	Federico Gomez Beret:	git add .
+02:50:19	Gabriel Frattesi:	add .
+02:50:19	Andrea Barreiro:	git add.
+02:50:19	Oscar Manuel Solís Chávez:	git add .
+02:50:20	Catriel Drago:	git add .
+02:50:20	Felipe Murga:	git add -m ""
+02:50:22	Ayelen Salvia:	git add .
+02:50:24	Federico Gomez Beret:	git add .
+02:50:27	conrado veloz:	profe el tutor le dijo algo
+02:50:29	Felipe Murga:	ah me adelante
+02:50:42	Gabriel Frattesi:	No Conrado, me respondió a mí
+02:51:06	conrado veloz:	a sorry estoy desorientado
+02:51:08	[Tutor] Manuel Sanchez:	Esto de tener alumnos con el nombre de profe es confuso  😅
+02:51:28	Gabriel Frattesi:	🤣
+02:51:37	conrado veloz:	y de paso estoy en fermo y estoy desorientado
+02:51:44	conrado veloz:	🤣
+02:51:52	Jonathan Medina:	Y con un despido
+02:52:25	Catriel Drago:	status
+02:52:34	Catriel Drago:	git commit - m
+02:52:35	Oscar Manuel Solís Chávez:	git commit -m "color negro"
+02:52:36	Andrea Barreiro:	commit
+02:52:41	Federico Gomez Beret:	git status de nuevo para ver si se guard{o
+02:52:46	Joaquin Gourriet:	black color
+02:52:47	conrado veloz:	profe donde aprendio ingle para estudiar donde usted estudio
+02:53:08	Santiago Amarilla:	entendido
+02:53:19	Catriel Drago:	git branch
+02:53:19	Martín Alba:	branch
+02:53:19	Andrea Barreiro:	branch
+02:53:20	Federico Bozzano:	branch
+02:53:21	Luis Pitre:	git branch NOMBRE
+02:53:21	Jonathan Enrique:	git branch
+02:53:21	Felipe Murga:	brang
+02:53:25	Felipe Murga:	branch
+02:53:39	Felipe Murga:	pepe
+02:53:52	Franco Escalante:	git list
+02:53:55	conrado veloz:	el pepe
+02:53:57	Andrea Barreiro:	git brancl -l
+02:54:03	Andrés Botía:	cando se hace merge la rama desaparece?
+02:54:06	Gabriel Frattesi:	-l
+02:54:10	Hernán Mosti:	L
+02:54:18	[Tutor] Manuel Sanchez:	No andres
+02:54:34	Catriel Drago:	ok
+02:54:35	Santiago Amarilla:	se puede borrar?
+02:54:36	Santiago Amarilla:	prueba?
+02:54:36	Andrés Botía:	ok gracias
+02:54:47	Andrea Barreiro:	checkout
+02:54:49	Santiago Amarilla:	checkout
+02:54:50	Catriel Drago:	git checkout
+02:54:51	Federico Gomez Beret:	git checkout
+02:54:51	Gabriel Frattesi:	checkout
+02:55:25	Luciano Diotallevi:	qué copado
+02:55:50	Catriel Drago:	al footer dale color negro
+02:57:36	Catriel Drago:	attachment
+02:59:19	Matias Barbalase:	un hambre
+02:59:39	conrado veloz:	no dejes de comer
+02:59:41	Felipe Murga:	dijiste que la clase de hoy era chill...
+02:59:49	conrado veloz:	o te vas a desmayar
+03:00:18	Felipe Murga:	merge
+03:00:19	Luis Pitre:	git branch master
+03:00:22	Andrea Barreiro:	git checj out master
+03:00:26	Santiago Amarilla:	checkout
+03:00:27	Gabriel Frattesi:	checkout
+03:00:30	Santiago Amarilla:	primero
+03:00:30	Catriel Drago:	git checkout
+03:00:46	Felipe Murga:	ah listo
+03:01:04	Santiago Amarilla:	pueden existir ramas anidadas? (si fuese un proyecto super gigante? )
+03:01:18	Santiago Amarilla:	y los merge se harian en etapas?
+03:01:48	Santiago Amarilla:	solo curiosidad 😅
+03:02:35	conrado veloz:	😵‍💫
+03:02:45	conrado veloz:	de chill
+03:02:52	[Tutor] Manuel Sanchez:	Si santi, no es algo tan raro
+03:02:56	[Tutor] Matias Larsson:	Si Santi, las grandes companias tienen test branches, es decir que primero se despliegan en la rama de prueba, y si todo va bien luego pasa a la rama de produccion (la visible por el usuaario)
+03:03:05	[Tutor] Manuel Sanchez:	no todas las ramas salen de la main
+03:03:43	Santiago Amarilla:	entendido
+03:04:02	[Tutor] Manuel Sanchez:	por lo general se trabaja con 3 ramas principales, la main/master, la de testing que es la que dice mati y la de hot fixes, que es por si aparece algun bug inesparado en la rama principal
+03:04:09	Martin Lamacchia:	Gabi si te autorizan a hacer los cambios y despues no lo quieren y hay que volver todo para atras... hay algun comando?
+03:04:11	[Tutor] Manuel Sanchez:	y de ahi se despliegan todas las otras ramas
+03:04:18	Matias Barbalase:	muchas gabi muchas
+03:04:19	Luis Pitre:	No, estamos bien.
+03:04:20	Federico Gomez Beret:	cuando suben la grabación jajaja
+03:04:22	Fernando Gimenez:	todo ok
+03:04:25	Matias Barbalase:	donde esta lo chill
+03:04:26	Gabriel Frattesi:	Y en este caso por ejemplo, si primero haces el merge con prueba y dsp con color, se borra lo que uniste con prueba?
+03:04:26	Santiago Amarilla:	excelente la data
+03:04:31	Fernando Gimenez:	jaja
+03:04:33	[Tutor] Manuel Sanchez:	Si Martin, con git revert creo que se podria
+03:04:38	Federico Bozzano:	no todo clarito gabi., a experimentar aora
+03:04:47	Catriel Drago:	debemos intentar aplicarlo unicamente en la carpeta copia?
+03:04:53	Felipe Murga:	soy git hater
+03:04:53	Nicolas Ranua:	Todo esto donde se guarda? las ramas, versiones y demas
+03:05:01	Jarod Calderon:	y cómo borro un commit?
+03:05:02	Martin Lamacchia:	Muchas gracias Manu
+03:05:06	Gabriel Frattesi:	Ah bien, como que se une solo lo que cambias
+03:05:10	[Tutor] Manuel Sanchez:	Por ahora si catriel, hasta que se sientan seguros con la otra
+03:05:23	Felipe Murga:	consulta: Porque nos hicieron hacer una copia? que pasa si sin querer lo hacemos en el proyecto normal?
+03:05:30	Nicolas Ranua:	perfecto! gracias gabi
+03:05:57	Luis Pitre:	Gabriel solo tengo una consulta ya que no anote el comande, luego de git log , para seleccionar el commit en el cual quiero trabajar como lo hago?
+03:06:00	[Tutor] Matias Larsson:	En las  versiones nuevas de git la rama master se llama main chicos... Asi que probablemente en sus git les figure como main la rama principal
+03:06:01	Felipe Murga:	Perfecto gracias
+03:06:08	Leonel Eguren:	es como dibujar sobre el dni
+03:06:17	Jonathan Medina:	git --versiongit config --global user.name "Jonathan Medina"git config --global user.email ""git config --listcdgit initgit statusgit add .cleargit commit -m ""git checkout ""git branchgit branch -lgir merge git branch -D
+03:06:20	[Tutor] Manuel Sanchez:	Felipe, no pasa nada, pero como estamos haciendo pruebas, es mejor siempre hacerlo en una copia
+03:06:35	Felipe Murga:	Oka gracias manu
+03:06:44	Franco Escalante:	profe yo preguntaba sobre las rutas que trabaja, si muevo la carpeta el programa ya sabe donde ir a buscarla siempre??
+03:06:54	Felipe Murga:	Ultima duda, cuando es el próximo after?
+03:07:03	Luis Pitre:	Listo Gabriel, gracias.
+03:07:12	[Tutor] Manuel Sanchez:	No franco, si moves las cosas tenes que cambiar la direccion en la que estas trabajdno
+03:07:17	Sofia Piemontesi:	gabi una consulta, para q ponemos el mail?
+03:07:18	Matias Barbalase:	hay algún cheat para git gabi?
+03:07:27	Matias Barbalase:	😍
+03:07:30	[Profe] Gabriel López:	https://docs.google.com/document/d/18TgOaz9-3gEFlcJhgpQm7N0cYseTV48OPnmLtRHF3Ao/edit#
+03:07:33	Hernán Mosti:	Gracias Gaby
+03:07:38	[Tutor] Manuel Sanchez:	Tambien Mati paso otro cheat sheet
+03:07:39	Franco Escalante:	gracias Manuel
+03:07:40	Jonathan Enrique:	Con history pueden ver los comandos que fueron colocando
+03:08:02	Hernán Mosti:	Nop
+03:08:20	Joaquin Gourriet:	digna de ver 300 veces
+03:08:32	Sofia Piemontesi:	para q ponemos el mail gabi? hay forma de vincularlo para que el backup quede ahí también?
+03:08:40	Matias Barbalase:	la sem que viene?
+03:08:59	Matias Barbalase:	dijiste la semana que viene gabi jaja
+03:09:03	Joaquin Gourriet:	pregunta general: los feriados hay clases?
+03:09:10	Matias Barbalase:	no pasa nada <3
+03:09:12	[Tutor] Manuel Sanchez:	depende el fera=iado
+03:09:16	conrado veloz:	no troquen al profe
+03:09:19	Felipe Murga:	Hermosa clase, Nos vemos el miércoles!
+03:09:20	Sofia Piemontesi:	ah perfecto
+03:09:22	Leonel Eguren:	el 17 hay?
+03:09:24	Sofia Piemontesi:	gracias gabi
+03:09:26	Joaquin Gourriet:	lunes 10 de octubre
+03:09:26	conrado veloz:	profe cuando es su cumple
+03:09:27	Luis Pitre:	Hasta el miércoles, buenas noches
+03:09:44	Leonel Eguren:	el lunes 10 hay clase?
+03:09:44	Federico Bozzano:	buenas noches a todosss
+03:09:50	Gaston Jongewaard de Boer:	ta luegoo
+03:09:57	Sofia Piemontesi:	buenisimo gracias
+03:09:57	Jarod Calderon:	profe, antes de cerrar y un poco más fuera de contexto, una vez aprobado el full stack incluyendo back end, se puede buscar trabajo ya desde ese punto?
+03:10:08	Santiago Amarilla:	gracias gabi
+03:10:14	Matias Barbalase:	gabi el 10 hay clase no? por q haya feriado
+03:10:15	conrado veloz:	yo 100 dolares de chill 🤣
+03:10:16	Emanuel Riccardi:	graciassss
+03:11:05	Sofia Piemontesi:	gabi que recomendas para buscar trabajo?
+03:11:08	DIANA GUARIN:	chao profe gracias
+03:11:11	Sofia Piemontesi:	LinkedIn?
+03:11:13	Felipe Murga:	chauu
+03:11:14	Angel Silva:	Esto + Python sirve?
+03:11:16	Bruno Guzman:	graciaas
+03:11:17	Fernando Gimenez:	chau profe
+03:11:21	conrado veloz:	chao
+03:11:22	Jarod Calderon:	back end si es tan bien pagado como dicen?
+03:11:24	Catriel Drago:	entonces con el pack de full stack se puede conseguir un trabajo copado
+03:11:28	Joaquin Gourriet:	Conrad tira la ultima
+03:11:29	conrado veloz:	profe cuidese
+03:11:38	conrado veloz:	antes diga me su cumple
+03:11:41	Sofia Piemontesi:	genial
+03:11:44	Catriel Drago:	si hay suerte
+03:11:44	conrado veloz:	🤣
+03:11:48	conrado veloz:	👍
+03:12:00	Gabriel Frattesi:	Buenas noches!
+03:12:04	Catriel Drago:	genial
+03:12:10	Jarod Calderon:	genial, gracias por los datos profe, que descanse!
+03:12:16	Gonzalo Rojas:	no me dejaa
+03:12:17	conrado veloz:	asta manana
+03:12:24	Catriel Drago:	hasta mañana
+03:12:25	Facundo Gil:	Hasta el Miércoles!!
+03:12:27	Catriel Drago:	verdad
+03:12:37	conrado veloz:	hasta el miercoles
+03:12:39	Matias Barbalase:	hay after esta semana gabi?
+03:12:40	conrado veloz:	🤣
+03:12:41	Catriel Drago:	pasan volando los dias
+03:13:48	Gonzalo Rojas:	Buenas nochesss
+03:13:49	Martín Alba:	Cya!
+03:13:52	Santiago Amarilla:	consulta gabi
+03:13:53	Andrea Barreiro:	buenas noches!!!!
+03:13:53	Angel Silva:	Buenas noches!
+03:13:57	Luciano Diotallevi:	gracias profe
+03:13:58	Matias Barbalase:	gabiii
+03:13:59	Luciano Diotallevi:	good nite
+03:14:00	Matias Barbalase:	preguntaaa
+03:14:02	Catriel Drago:	chiao
+03:14:04	Gabriel Duamante:	Gracias Gabi! Santa paciencia la tuya!
+03:14:10	Gabriel Villafañe:	nos re vimis!!!
+03:14:13	Angel Silva:	Me recomendaron después de este curso el de Python
+03:14:15	Sofia Piemontesi:	gracias gabi
+03:14:17	Angel Silva:	Estará bien?
+03:14:49	Federico Gomez Beret:	depende lo q quieras hacer angelde lo que es la carrera full stack de desarrollo web el paso que sigue es javascript
+03:15:10	Federico Gomez Beret:	chaoo
+03:15:13	Gaston Jongewaard de Boer:	hasta el miércolesss
