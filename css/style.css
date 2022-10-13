@@ -62,6 +62,8 @@ header nav ul {
     border-top: #fefae0 solid 1px;
     border-bottom: #fefae0 solid 1px;    
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 header nav ul li {    
@@ -74,10 +76,12 @@ header nav ul li {
 
 
 header nav ul li:hover {
-    background-color: #1c3a43;    
+    background-color: #1c3a43;        
 }
 
-
+header nav ul li a:hover {
+    color: white;        
+}
 
 
 header nav ul li a {    
@@ -158,7 +162,7 @@ header nav ul li a {
     font-weight: 600;
     font-family: 'Overpass', sans-serif;
     text-align: center;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 
 .hero div h3 {
@@ -180,7 +184,9 @@ header nav ul li a {
 
 .flex_main_search {
     display: flex;
+    flex-direction: column-reverse;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     margin-top: 10px;
     color: #FEFAE0;
@@ -192,7 +198,7 @@ header nav ul li a {
 }
 
 .flex_main_search label {
-    margin-left: 10px;
+    margin-left: 10px;    
 }
 
 .flex_main_search select {
@@ -201,6 +207,7 @@ header nav ul li a {
 .flex_main_search input {
     margin-left: 5px;
     margin-right: 5px;
+    margin-bottom: 10px;
 }
 .main a {
     text-decoration: none;    
@@ -312,8 +319,7 @@ header nav ul li a {
 }
 
 
-/* --------------RESPONSIVE galery---------------- */
-
+/* --------------RESPONSIVE hero and galery---------------- */
 
 @media screen and (max-width: 1200px) {
     .galeria_fotos_lospibes {
@@ -625,6 +631,18 @@ body {
     
 }
 
+.pilars {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.pilars img {    
+    height: 72vh;
+}
+
 .login_div input {
     width: 700px;
     height: 30px;
@@ -856,7 +874,7 @@ body {
 }
 /* ---------pagina de quienes somos ---------- */
 
-.bienvenidos div h2 {
+.bienvenidos h2 {
     background-color: #468199;
     background-size: cover;
     color: #FEFAE0;
@@ -867,7 +885,7 @@ body {
     text-align: center;
 }
 
-.bienvenidos div p {
+.bienvenidos p {
     background-color: #22424d;
     color: #a3cabf;
     font-size: 25px;
@@ -881,8 +899,7 @@ body {
     background-color: #22424d;    
     display: flex;
     justify-content: space-around;
-    width: 100%;
-    height: 80vh;
+    width: 100%;    
 }
 
 .grupos_session h3 {
@@ -906,20 +923,19 @@ body {
 
 
 .grupos_session div {
-    border-radius: 15px;
-    margin-bottom: 25px;
+    border-radius: 15px;    
+    margin-top: 10px;
 }
 
-.grupos_session div img {
+/* .grupos_session div img {
     width: 400px;
     height: 400px;
     border-radius: 15px;               
-}
+} */
 
 
 .card_text {
-    width: 400px;
-    height: 206px;    
+    position: relative;            
     font-style: italic;
     font-size: 20px;    
     font-weight: 400;
@@ -941,8 +957,8 @@ body {
 }
 
 
-.card_silverfrog {
-    margin-top: 25px;
+.card_silverfrog { 
+    position: relative;   
     display: flex;
     flex-direction: column;
     align-items: center;    
@@ -950,31 +966,17 @@ body {
     box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
     -webkit-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
     -moz-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
-    width: 400px;
-    height: 650px;
+    /* width: 400px;
+    height: 650px; */
     }
 
-.card_silverfrog img {
+/* .card_silverfrog img {
     height: 387px;
-    width: 400px;
-}
+    width: 400px; */
 
 
-.card_irishsessionlp {
-    margin-top: 25px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;    
-    background-color: #FEFAE0;
-    box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
-    -webkit-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
-    -moz-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
-    width: 400px;
-    height: 650px;      
-}
 
-
-.card_a {    
+/* .card_a {    
     color: #FEFAE0;
     font-style: bold;
     font-size: 25px;
@@ -988,6 +990,32 @@ body {
     width: 157px;
     height: 35px;  
     margin-top: 15px;
+} */
+
+
+
+.frog_flute{
+    position: absolute;
+    top: -13%;
+    left: -4.5%;        
+}
+
+.frog_flute img{
+    width: 150px;
+    height: 150px;
+}
+
+.frog_inverse {
+    position: absolute;
+    left: 88%;
+    top:-13%;
+    transform: rotatey(180deg);    
+}
+
+.carousel-item.active img{
+    /* position: relative; */
+    width: 100%;
+    height: 500px;
 }
 
 .frog_friends {
@@ -1016,12 +1044,27 @@ body {
     margin-top: 15px;
 }
 
+/* --------- REsponsive quienes somos ---------- */
+
+
+@media screen and (max-width: 1047px) {
+    .carousel {
+        display: none;       
+    
+}
+}
+
+
+
+
+
+
 
 /* ---------pagina de contacto para eventos ---------- */
 
 .contact_art {
     width: 100%;
-    height: 40vh;
+    height: 35vh;
     background: linear-gradient(rgba(0, 0, 0, 0.387), rgba(0, 0, 0, 0.244)), url(../img/fondoContacto2.jpg);    
     background-position: top center;
     object-fit: cover;    
@@ -1062,13 +1105,12 @@ body {
     text-align: start;    
 }
 
-.contact_form {    
-    margin-top: 10px;
+.contact_form {     
     width: 33.3%;
-    height: 60vh;
+    height: 55vh;
     display: flex;
     flex-flow: column wrap;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
 }
 
@@ -1092,7 +1134,7 @@ text-decoration: solid;
     font-size: 20px;
     font-weight: 300;    
     margin-bottom: 2px;
-    margin-top: 10px;
+    margin-top: 5px;
     text-align: justify;
 }
 
@@ -1119,15 +1161,14 @@ text-decoration: solid;
 }
 
 
-.contact_socials { 
-    margin-top: 10px;
+.contact_socials {
     width: 33.3%;
     height: 46.7vh;       
     border: 1px #436370;
     display: flex;
     flex-flow: column wrap;
     align-items: center;
-    justify-content: center;    
+    justify-content: flex-start;    
 }
 
 .contact_socials_img {
@@ -1190,10 +1231,10 @@ text-decoration: solid;
 
 .contact_frame_map {    
     width: 33.3%;
-    height: 46.7vh;    
+    height: 55vh;    
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: flex-start;
     align-items: center;             
 }
 
@@ -1206,8 +1247,8 @@ text-decoration: solid;
 
 
 .contact_frame_map iframe {
-    width: 80%;
-    height: 100%;
+    width: 75%;
+    height: 75%;
 }
 
 
