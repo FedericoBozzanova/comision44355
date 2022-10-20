@@ -1,0 +1,69 @@
+@import url(../base/_variables.scss);
+// --------- headerrr ------- 
+
+header {     
+    position: sticky;
+    top: 0%;
+    z-index: 1;
+    div {
+        background-color: $color-principal;      
+        width: 100%;
+        height: 8vh;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        h1{
+            background-color: $color-principal;;
+        color: #fefae0;
+        font-size: 40px;
+        font-style: bold;
+        font-weight: 700;  
+        font-family: 'Overpass', sans-serif;
+        }
+        a {
+            text-decoration: none;
+            padding: 10px; 
+        }
+    }
+    nav {
+        width: 100%;
+        ul {    
+            display: grid;
+            grid-template-columns: repeat(5, 20%);
+            grid-template-rows: 1fr;        
+            background-color: #86A59C;
+            background-color: $color-principal;    
+            list-style: none; 
+            font-style: normal;
+            font-size: 30px;  
+            font-weight: 300;
+            font-family: 'Overpass', sans-serif;
+            border-top: $color-letras solid 1px;
+            border-bottom: $color-letras solid 1px;    
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            li {    
+                border-inline: solid $color-letras 1px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                transition: 0.6s ;
+                &:hover {
+                    background-color: $color-hover;
+                }
+                a {    
+                    text-decoration: none;
+                    color: $color-letras;
+                    width: 100%; 
+                    &:hover {
+                        color: $color-letras;        
+                    }
+                }       
+            }
+        }
+    }
+}
+
+

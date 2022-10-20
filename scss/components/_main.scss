@@ -1,0 +1,157 @@
+/*INDEX HERO SECTION AND MAIN*/
+@import url(../base/_variables.scss);
+
+.main {
+    a {
+        text-decoration: none;    
+    }
+}
+
+.hero{
+    background: linear-gradient(rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0.169)), url(../img/backgroundhero2.jpg);
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    div {
+        h2 {           
+            color: $color-letras;
+            font-size: 35px;
+            font-style: bold;
+            font-weight: 600;
+            font-family: 'Overpass', sans-serif;
+            text-align: center;
+            margin-top: 30px;
+            }
+        h3 {
+            color: $color-letras;
+            font-size: 25px;
+            font-style: bold;
+            font-weight: 600;
+            font-family: 'Overpass', sans-serif;
+            text-align: center;
+        }
+    }
+}
+
+.flex_main_tittle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;        
+}
+
+.flex_main_search {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    color: $color-letras;
+    font-size: 15px;    
+    font-weight: 400;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    text-decoration: $color-letras;
+    label {
+        margin-left: 10px;    
+    }
+    select {
+        margin-left: 10px;
+    }
+    input {
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }            
+}
+
+.galeria_grid {
+    background-color: #162b32;
+    h2 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: $bg-color;
+        border-top: $color-letras solid 1px;
+        border-bottom: $color-letras solid 1px;    
+        margin-bottom: 20px;
+        color: $color-letras;
+        font-size: 35px;
+        font-style: bold;
+        font-weight: 600;
+        font-family: 'Overpass', sans-serif;
+        text-align: center;
+        width: 100%;
+        height: 60px;
+    }       
+}
+
+.galeria_fotos_lospibes {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.fotos_galeria {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color: $color-letras;    
+    margin-bottom: 15px;
+    border: #031d25 3px solid;
+    height: auto;
+    width: auto;
+    box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+    -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+    -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+    h3 {
+    background-color:  #19343d;    
+    color: #cdc69f;
+    font-size: 30px;
+    font-style: bold;
+    font-weight: 500;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    }
+    img{
+        display: flex;
+        align-items: flex-end;    
+        padding: 10px 10px 10px 10px;  
+        height: 392px;
+        width: 340px;    
+        transition: 0.4s ease-out;
+        &:hover{
+            transform: scale(1.057);            
+        }    
+    }
+}
+
+.foto2 {
+    img {
+    object-fit: fill;
+    }
+}
+
+.foto4 {
+    img{
+    object-fit: cover;
+    }
+}
+
+.foto5 {
+    img{
+    object-fit: cover;
+    }
+}
+
+.foto6 {
+    img { 
+    object-fit: cover;
+    }
+}

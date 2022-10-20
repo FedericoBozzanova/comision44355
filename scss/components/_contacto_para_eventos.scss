@@ -1,0 +1,174 @@
+/*Pagina de contacto para eventos*/
+
+.contact_art {
+    width: 100%;
+    height: 35vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.387), rgba(0, 0, 0, 0.244)), url(../img/fondoContacto2.jpg);    
+    background-position: top center;
+    object-fit: cover;    
+    background-repeat: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    h2{           
+        text-decoration: solid;
+        color: #fefae0;
+        font-size: 58px;
+        font-style: normal;    
+        font-weight: 600;  
+        font-family: 'Overpass', sans-serif; 
+    }
+    h3{            
+        text-decoration: solid;
+        color: #fefae0;
+        font-size: 18px;
+        font-style: normal;    
+        font-weight: 600;  
+        font-family: 'Overpass', sans-serif;    
+    }           
+}
+
+.contact_flex {
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;    
+}
+
+.contact_form {     
+    width: 33.3%;
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    align-items: center;
+    h2 {
+        text-decoration: solid;
+            color: #fbfbfbf5;
+            font-size: 38px;
+            font-style: normal;    
+            font-weight: 600;  
+            font-family: 'Overpass', sans-serif;
+        }
+}
+
+.contact_div  {        
+    width: 90%;
+    h3 {    
+        font-family: 'Overpass', sans-serif;
+        color: #fefae0;
+        font-style: normal;
+        font-size: 20px;
+        font-weight: 300;    
+        margin-bottom: 2px;
+        margin-top: 5px;
+        text-align: justify;
+    }
+    input {    
+        width: 100%;
+        height: 25px;
+        box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+        -webkit-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+        -moz-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+    }
+    textarea {
+        width: 100%;
+        height: 100px;
+        box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
+    -webkit-box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
+    -moz-box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
+    }
+}
+
+.send_button {
+    button {
+    height: 25px;
+    width: 155px;
+    margin-top: 10px;    
+    }
+}
+
+.contact_socials {
+    width: 33.3%;
+    height: 46.7vh;       
+    border: 1px #436370;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: flex-start;    
+}
+
+.contact_socials_img {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    ul{  
+        display: flex;
+        justify-content: center;    
+        list-style: none;             
+    }
+    li {
+        a{
+            margin-bottom: 5px;
+            padding: 5px;
+        }
+        img {
+            width: 40px;
+            height: 40px;
+            background-color: #a3cabf;
+            border-radius: 100%;
+            padding: 5px;
+            margin-left: 18px;
+        }
+    }
+}
+
+.contact_social_extra {        
+    color: #fefae0;    
+    font-size: 13px;  
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    h2 {    
+        margin-top: 15px;
+        font-weight: bold;        
+    }
+    h3 {
+        color: #fefae0;       
+        font-weight: 200;    
+        font-family: 'Overpass', sans-serif;
+        margin-top: 5px;    
+    }
+    h4 {    
+        margin-top: 5px;
+        font-style: normal;
+        font-weight: 200;    
+        font-family: 'Overpass', sans-serif;
+        margin-top: 5px;     
+    }
+}
+
+.contact_frame_map {    
+    width: 33.3%;
+    height: 55vh;    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    h2 {    
+        color: #fefae0;    
+        font-size: 30px;  
+        font-family: 'Overpass', sans-serif;
+        text-align: center;
+    }
+    iframe {
+        width: 75%;
+        height: 75%;
+    }             
+}

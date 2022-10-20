@@ -79,10 +79,6 @@ header nav ul li:hover {
     background-color: #1c3a43;        
 }
 
-header nav ul li a:hover {
-    color: white;        
-}
-
 
 header nav ul li a {    
     text-decoration: none;
@@ -91,6 +87,13 @@ header nav ul li a {
     
     /* padding-inline: 89px; */                     
 }
+
+header nav ul li a:hover {
+    color: white;        
+}
+
+
+
 
 
 /* --------------RESPONSIVE header---------------- */
@@ -146,7 +149,6 @@ header nav ul li a {
 
 .hero{
     background: linear-gradient(rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0.169)), url(../img/backgroundhero2.jpg);
-    /* background-image: url(../img/backgroundhero2.jpg); */
     width: 100%;
     height: 90vh;
     background-position: center;
@@ -782,8 +784,7 @@ body {
 
 .regin_div input {
     width: 500px;
-    height: 25px;
-    
+    height: 25px;    
 }
 
 
@@ -843,8 +844,7 @@ body {
 }
 
 
-.recover_pass h2 {
-    
+.recover_pass h2 {    
     text-align: center;
     margin-bottom: 30px;                
     text-decoration: underline;
@@ -854,8 +854,7 @@ body {
     font-family: 'Overpass', sans-serif;    
 }
 
-.recover h3 {
-    
+.recover h3 {    
     font-family: 'Overpass', sans-serif;
     color: #fefae0;
     font-style: italic;
@@ -1177,8 +1176,8 @@ text-decoration: solid;
     width: 100%;
     height: 25px;
     box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
--webkit-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
--moz-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+    -webkit-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
+    -moz-box-shadow: 0px 3px 7px 0px rgba(247,243,219,0.9);
 }
 
 .contact_div textarea {
@@ -1189,10 +1188,13 @@ text-decoration: solid;
 -moz-box-shadow: 0px 3px 7px 1px rgba(247,243,219,0.9);
 }
 
-.regin_button {
+.send_button button{
+    height: 25px;
+    width: 155px;
     margin-top: 10px;
     display: flex;
     justify-content: center ;
+    align-items: center;
 }
 
 
