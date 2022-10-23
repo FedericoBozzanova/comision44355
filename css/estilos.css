@@ -3,6 +3,7 @@
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
 * {
   margin: 0;
   padding: 0;
@@ -659,10 +660,10 @@ body {
     text-align: center;
     margin-top: 15px; }
 
-.forum {
+.show_container {
   width: 100%;
   height: 63vh; }
-  .forum h2 {
+  .show_container h2 {
     margin-top: 100px;
     text-decoration: underline;
     color: #fefae0;
@@ -742,3 +743,136 @@ body {
 
 h1 {
   color: blanchedalmond; }
+
+/* --------------RESPONSIVE header---------------- */
+@media screen and (max-width: 1025px) {
+  .nav_grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    display: flex;
+    justify-content: space-around;
+    align-items: center; }
+    .nav_grid ul {
+      width: 100%; } }
+
+@media screen and (max-width: 900px) {
+  header nav ul {
+    width: 100%;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Overpass', sans-serif;
+    border-top: #fefae0 solid 1px;
+    border-bottom: #fefae0 solid 1px;
+    text-align: center; } }
+
+@media screen and (max-width: 605px) {
+  header nav ul {
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Overpass', sans-serif;
+    border-top: #fefae0 solid 1px;
+    border-bottom: #fefae0 solid 1px;
+    text-align: center; } }
+
+@media screen and (max-width: 605px) {
+  header div h1 {
+    font-size: 40px; } }
+
+/* --------------RESPONSIVE hero and MAIN---------------- */
+@media screen and (max-width: 1200px) {
+  .galeria_fotos_lospibes {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    justify-items: center; }
+  .fotos_galeria {
+    margin: 20px 10px 20px 10px; } }
+
+@media screen and (max-width: 1450px) {
+  .fixed_social ul {
+    display: none; } }
+
+@media screen and (max-width: 768px) {
+  .galeria_fotos_lospibes {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    justify-items: center; }
+    .galeria_fotos_lospibes img {
+      padding: 7px 7px 7px 7px;
+      height: 299px;
+      width: 250px;
+      box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset;
+      -webkit-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset;
+      -moz-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset; }
+  .fotos_galeria {
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: black 2px solid;
+    height: 349px;
+    width: 255px; } }
+
+@media screen and (max-width: 605px) {
+  .galeria_fotos_lospibes {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: auto;
+    justify-items: center; }
+    .galeria_fotos_lospibes img {
+      padding: 8px 8px 8px 8px;
+      height: 249px;
+      width: 200px;
+      box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset;
+      -webkit-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset;
+      -moz-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset; }
+    .galeria_fotos_lospibes h3 {
+      font-size: 20px; }
+  .fotos_galeria {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: black 2px solid;
+    height: 279px;
+    width: 205px; } }
+
+@media screen and (max-width: 455px) {
+  .galeria_fotos_lospibes {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+    justify-items: center; }
+    .galeria_fotos_lospibes img {
+      padding: 8px 8px 8px 8px;
+      height: 350px;
+      width: 300px;
+      box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset;
+      -webkit-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset;
+      -moz-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset; }
+  .fotos_galeria {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color: antiquewhite;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: black 2px solid;
+    height: 380px;
+    width: 305px; }
+  .galeria_fotos_lospibes
+.galeria_fotos_lospibes h3 {
+    font-size: 20px; } }

@@ -1,0 +1,367 @@
+// MEDIA QUERYs
+
+/* --------------RESPONSIVE header---------------- */
+
+@media screen and (max-width: 1025px) {
+    .nav_grid {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3,1fr);        
+        grid-template-rows: repeat(2,1fr);
+        display: flex;        
+        justify-content: space-around;
+        align-items: center;
+        ul {
+            width: 100%;
+        }
+    }
+}
+
+@media screen and (max-width: 900px) {
+    header{
+        nav {
+            ul {
+                width: 100%;
+                font-style: normal;
+                font-size: 20px;  
+                font-weight: 500;
+                font-family: 'Overpass', sans-serif;
+                border-top: #fefae0 solid 1px;
+                border-bottom: #fefae0 solid 1px;    
+                text-align: center;
+            }    
+        }
+    }
+}
+
+
+@media screen and (max-width: 605px) {
+    header {
+        nav {
+            ul {
+                font-style: normal;
+                font-size: 15px;  
+                font-weight: 300;
+                font-family: 'Overpass', sans-serif;
+                border-top: #fefae0 solid 1px;
+                border-bottom: #fefae0 solid 1px;    
+                text-align: center;    
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 605px) {
+    header {
+            div {
+                h1 {
+                    font-size: 40px;
+                }
+            }
+    }
+}
+
+
+/* --------------RESPONSIVE hero and MAIN---------------- */
+
+@media screen and (max-width: 1200px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-auto-rows: auto;
+        justify-items: center;        
+    }  
+
+    .fotos_galeria {
+        margin: 20px 10px 20px 10px;        
+    }
+}
+
+@media screen and (max-width: 1450px) {
+    .fixed_social{
+        ul {
+            display: none;
+        }
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-auto-rows: auto;
+        justify-items: center;
+        img{    
+            padding: 7px 7px 7px 7px;  
+            height: 299px;
+            width: 250px;
+            box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+            -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+            -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+        }
+    }
+    .fotos_galeria {
+        display: flex;
+        flex-flow: column ;
+        align-content: center;
+        background-color: antiquewhite;    
+        margin-left: 20px;
+        margin-bottom: 20px;
+        border: black 2px solid;
+        height: 349px;
+        width: 255px;
+    }    
+}
+
+@media screen and (max-width: 605px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-auto-rows: auto;
+        justify-items: center;
+        img{   
+            padding: 8px 8px 8px 8px;  
+            height: 249px;
+            width: 200px;
+            box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+            -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+            -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+        }
+        h3 {
+            font-size: 20px;
+        }
+    }
+
+    .fotos_galeria {
+        display: flex;
+        flex-flow: column wrap;
+        align-content: center;
+        background-color: antiquewhite;    
+        margin-left: 10px;
+        margin-bottom: 10px;
+        border: black 2px solid;
+        height: 279px;
+        width: 205px;    
+    }
+}
+
+@media screen and (max-width: 455px) {
+    .galeria_fotos_lospibes {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-auto-rows: auto;
+        justify-items: center;
+        img{    
+            padding: 8px 8px 8px 8px;  
+            height: 350px;
+            width: 300px;
+            box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+            -webkit-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;
+            -moz-box-shadow: -1px 0px 21px 7px rgba(0,0,0,0.58) inset;    
+        }
+    }
+
+    .fotos_galeria {
+        display: flex;
+        flex-flow: column wrap;
+        align-content: center;
+        background-color: antiquewhite;    
+        margin-left: 10px;
+        margin-bottom: 10px;
+        border: black 2px solid;
+        height: 380px;
+        width: 305px;    
+    }
+
+    .galeria_fotos_lospibes {
+        h3 {
+            font-size: 20px;
+        }
+    }
+}
+
+
+/*---------------- Responsive FOOTER -------------------- */
+
+@media screen and (max-width: 1024px) {
+    .footer_logo {
+        display: none;
+    }
+    .footer_logo2 {
+        display: none;
+    }    
+}
+
+@media screen and (max-width: 600px) {
+    .footer_div {   
+        text-align: center;
+        margin-top: 5px; 
+        margin-bottom: 5px;
+        font-family: 'Overpass', sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        color: #FEFAE0;
+        h3 {
+            font-size: 20px;        
+        }        
+    }
+    
+    .footer_section {    
+        display: flex;
+        justify-content: space-around;    
+        border-top: #fefae0 1px solid;
+        height: 160px;
+    }
+}
+
+
+/* ------------ REsponsive PAGINA DE LOGEARSE ------------- */
+
+@media screen and (max-width: 768px) {
+    .login_div {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        input {
+            width: 500px;
+            height: 30px;
+        }    
+    }
+
+    .login_button{
+        input {
+            margin-top: 25px;
+            width: 150px;
+        }
+    }
+}
+    
+@media screen and (max-width: 600px) {
+    .login_div{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center; 
+        input {
+            width: 300px;
+            height: 30px;
+        }
+    }
+    .login_button input {
+        margin-top: 25px;
+        width: 150px;
+    }
+}
+
+/* ------------ Responsive de Crear cuenta ----------- */
+
+@media screen and (max-width: 900px) {
+    .reg_in {
+        padding-left: 50px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .reg_in {
+        h2 {
+            font-size: 31px;
+        }
+        text-align: center;
+        padding-left: 25px;
+    }
+
+    .regin_div{
+        input {
+        width: 250px;
+        height: 25px;        
+        }
+    }    
+    
+    .regin_button {
+        button {
+        height: 35px;
+        width: 155px;        
+        }
+    }    
+}
+
+/* --------- REsponsive de recuperar contraseña ---------- */
+
+@media screen and (max-width: 600px) {
+    .recover {
+        width: 80%;    
+    }
+}
+
+/* --------- REsponsive quienes somos ---------- */
+
+
+@media screen and (max-width: 1047px) {
+    .carousel {
+        display: none;    
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .frog_flute {
+        img{
+        display: none;      
+        }
+    }
+    .frog_friends{
+        p{
+        font-size: 30px;
+        }
+        h2 {
+            font-size: 30px;
+        }
+    }
+}
+
+/* --------- REsponsive contacto para eventos ---------- */
+
+@media screen and (max-width: 1024px) {
+    .contact_flex {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;    
+    }    
+    .contact_frame_map {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        height: 50%;
+    }    
+}
+
+@media screen and (max-width: 600px) {
+    .contact_form {
+        width: 80%;
+        height: 100%;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        text-align: center;            
+    }
+    .contact_div {
+        width: 80%;
+        height: 100%;
+    }
+}
+
+/* ------------  Responsive de galeria para shows -------------  */
