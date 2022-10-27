@@ -1,3 +1,11 @@
-h1 {
-    color: blanchedalmond;
+.donation {
+    display: flex;
+    justify-content: center;
+    p { 
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 500;
+        color: blanchedalmond;
+        margin: 100px 0 100px 0;
+    }
 }

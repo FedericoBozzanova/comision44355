@@ -4,6 +4,8 @@
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
 * {
   margin: 0;
   padding: 0;
@@ -44,13 +46,13 @@ header {
       font-size: 30px;
       font-weight: 300;
       font-family: 'Overpass', sans-serif;
-      border-top: #FEFAE0 solid 1px;
-      border-bottom: #FEFAE0 solid 1px;
+      border-top: #faf5d4 solid 1px;
+      border-bottom: #faf5d4 solid 1px;
       text-align: center;
       margin: 0;
       padding: 0; }
       header nav ul li {
-        border-inline: solid #FEFAE0 1px;
+        border-inline: solid #faf5d4 1px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -59,10 +61,10 @@ header {
           background-color: #1c3a43; }
         header nav ul li a {
           text-decoration: none;
-          color: #FEFAE0;
+          color: #faf5d4;
           width: 100%; }
           header nav ul li a:hover {
-            color: #FEFAE0; }
+            color: #faf5d4; }
 
 /*INDEX HERO SECTION AND MAIN*/
 .main a {
@@ -77,7 +79,7 @@ header {
   background-size: cover;
   background-attachment: fixed; }
   .hero div h2 {
-    color: #FEFAE0;
+    color: #faf5d4;
     font-size: 35px;
     font-style: bold;
     font-weight: 600;
@@ -85,7 +87,7 @@ header {
     text-align: center;
     margin-top: 30px; }
   .hero div h3 {
-    color: #FEFAE0;
+    color: #faf5d4;
     font-size: 25px;
     font-style: bold;
     font-weight: 600;
@@ -105,17 +107,30 @@ header {
   align-items: center;
   flex-wrap: wrap;
   margin-top: 10px;
-  color: #FEFAE0;
+  color: #faf5d4;
   font-size: 15px;
   font-weight: 400;
   font-family: 'Overpass', sans-serif;
   text-align: center;
-  text-decoration: #FEFAE0; }
+  text-decoration: #faf5d4; }
   .flex_main_search label {
+    font-size: 20px;
     margin-left: 10px; }
   .flex_main_search select {
     margin-left: 10px; }
   .flex_main_search input {
+    height: 25px;
+    width: 350px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px; }
+  .flex_main_search button {
+    font-weight: 400;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    text-decoration: #faf5d4;
+    height: 27px;
+    width: 65px;
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 10px; }
@@ -127,10 +142,10 @@ header {
     align-items: center;
     justify-content: center;
     background-color: #012022;
-    border-top: #FEFAE0 solid 1px;
-    border-bottom: #FEFAE0 solid 1px;
+    border-top: #faf5d4 solid 1px;
+    border-bottom: #faf5d4 solid 1px;
     margin-bottom: 20px;
-    color: #FEFAE0;
+    color: #faf5d4;
     font-size: 35px;
     font-style: bold;
     font-weight: 600;
@@ -150,7 +165,7 @@ header {
   display: flex;
   flex-flow: column wrap;
   align-content: center;
-  background-color: #FEFAE0;
+  background-color: #faf5d4;
   margin-bottom: 15px;
   border: #031d25 3px solid;
   height: auto;
@@ -197,12 +212,12 @@ header {
 .footer_section {
   display: flex;
   justify-content: space-around;
-  border-top: #FEFAE0 1px solid;
+  border-top: #faf5d4 1px solid;
   height: auto;
   width: 100%; }
 
 .footer_logo {
-  height: 153px;
+  height: 154px;
   width: auto;
   display: flex;
   align-items: flex-end;
@@ -238,7 +253,7 @@ header {
     font-family: 'Overpass', sans-serif;
     font-size: 25px;
     font-weight: 500;
-    color: #FEFAE0; }
+    color: #faf5d4; }
 
 .footer_list {
   padding-left: 0px; }
@@ -255,19 +270,17 @@ header {
       text-decoration: underline;
       cursor: pointer; }
     .footer_list li a {
-      color: #FEFAE0;
+      color: #faf5d4;
       text-decoration: none; }
 
 .copyright {
   width: 100%;
-  display: flex;
-  justify-content: center;
   background-color: black; }
   .copyright a {
     text-align: center;
     font-family: 'Overpass', sans-serif;
     font-size: 15px;
-    color: #FEFAE0; }
+    color: #faf5d4; }
 
 .fixed_social {
   position: fixed;
@@ -287,17 +300,17 @@ header {
 /*Pagina de contacto para eventos*/
 .contact_art {
   width: 100%;
-  height: 35vh;
+  height: 40vh;
   background: linear-gradient(rgba(0, 0, 0, 0.387), rgba(0, 0, 0, 0.244)), url(../img/fondoContacto2.jpg);
-  background-position: top center;
-  object-fit: cover;
+  background-position-y: 90px;
+  background-attachment: fixed;
   background-repeat: none;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  align-content: center;
-  text-align: center; }
-  .contact_art h2 {
+  text-align: center;
+  object-fit: cover; }
+  .contact_art p {
     text-decoration: solid;
     color: #fefae0;
     font-size: 58px;
@@ -313,8 +326,9 @@ header {
     font-family: 'Overpass', sans-serif; }
 
 .contact_flex {
+  margin-top: 15px;
   width: 100%;
-  height: 60vh;
+  height: 50vh;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
@@ -322,8 +336,9 @@ header {
   text-align: start; }
 
 .contact_form {
+  margin-top: 15px;
   width: 33.3%;
-  height: 100%;
+  height: 55vh;
   display: flex;
   flex-flow: column wrap;
   justify-content: flex-start;
@@ -363,7 +378,16 @@ header {
 .send_button button {
   height: 25px;
   width: 155px;
-  margin-top: 10px; }
+  margin-top: 10px;
+  height: 25px;
+  width: 155px;
+  background-color: #112127;
+  border: 1.5px solid #FEFAE0;
+  color: #faf5d4;
+  font-size: 15px;
+  transition: 0.6s; }
+  .send_button button:hover {
+    background-color: #1c3a43; }
 
 .contact_socials {
   width: 33.3%;
@@ -416,6 +440,7 @@ header {
     margin-top: 5px; }
 
 .contact_frame_map {
+  margin-top: 15px;
   width: 33.3%;
   height: 55vh;
   display: flex;
@@ -481,16 +506,17 @@ header {
 
 /*Pagina de logearse*/
 body {
-  background-color: #112127; }
+  background-color: #112127;
+  background-image: url(../img/); }
 
 .log_in {
   width: 100%;
   height: 69.7vh;
-  /* margin-left: 450px; */
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
-  align-items: center; }
+  align-items: center;
+  align-content: space-around; }
   .log_in h2 {
     color: #fefae0;
     font-size: 51px;
@@ -536,6 +562,9 @@ body {
     .login_recover_data a:hover {
       text-decoration: underline; }
 
+.pilars img {
+  height: 73vh; }
+
 /*Pagina de quienes somos*/
 .bienvenidos h2 {
   background-color: #468199;
@@ -574,8 +603,7 @@ body {
     font-family: 'Overpass', sans-serif;
     text-align: center; }
   .grupos_session div {
-    border-radius: 15px;
-    margin-top: 10px; }
+    border-radius: 15px; }
     .grupos_session div h4 {
       display: block;
       font-style: normal;
@@ -594,7 +622,6 @@ body {
   text-align: center; }
 
 .card_toirtis {
-  margin-top: 25px;
   display: flex;
   flex-flow: column wrap;
   align-items: center;
@@ -608,19 +635,20 @@ body {
 .card_silverfrog {
   position: relative;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  flex-direction: column;
+  margin-top: 55px;
   background-color: #FEFAE0;
   box-shadow: 1px 0px 22px 8px rgba(2, 3, 3, 0.75);
   -webkit-box-shadow: 1px 0px 22px 8px rgba(2, 3, 3, 0.75);
   -moz-box-shadow: 1px 0px 22px 8px rgba(2, 3, 3, 0.75);
-  margin-bottom: 10px;
-  justify-content: center; }
+  margin-bottom: 10px; }
 
 .frog_flute {
   position: absolute;
   top: -13%;
-  left: -4.5%; }
+  left: -5.5%; }
   .frog_flute img {
     width: 150px;
     height: 150px; }
@@ -631,10 +659,12 @@ body {
   top: -13%;
   transform: rotatey(180deg); }
 
-.carousel-item.active img {
-  /* position: relative; */
-  width: 100%;
-  height: 500px; }
+.carousel-item.active {
+  margin-top: 25px; }
+  .carousel-item.active img {
+    /* position: relative; */
+    width: 100%;
+    height: 500px; }
 
 .frog_friends {
   width: 100%;
@@ -672,6 +702,68 @@ body {
     font-family: 'Overpass', sans-serif;
     width: 100%;
     text-align: center; }
+
+.music_articles_grid {
+  display: grid;
+  grid-template-columns: 80%;
+  grid-row: auto;
+  justify-content: center; }
+  .music_articles_grid h1 {
+    font-family: 'Overpass', sans-serif;
+    color: #faf5d4;
+    text-align: center;
+    margin: 25px 0px 10px 0px; }
+  .music_articles_grid h2 {
+    font-family: 'Overpass', sans-serif;
+    color: #faf5d4;
+    text-align: center;
+    margin: 25px 0px 50px 0px; }
+  .music_articles_grid p {
+    font-family: 'Overpass', sans-serif;
+    font-size: large;
+    color: #faf5d4;
+    padding: 0px 75px 0px 75px; }
+  .music_articles_grid figure {
+    width: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center; }
+    .music_articles_grid figure img {
+      width: 1000px;
+      height: 500px; }
+    .music_articles_grid figure figcaption {
+      margin: 5px;
+      font-family: 'Overpass', sans-serif;
+      font-style: italic;
+      font-size: large;
+      color: #faf5d4; }
+
+.music_gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; }
+
+.music_instruments {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  margin: 5px 15px 5px 15px; }
+  .music_instruments img {
+    box-shadow: 2px 1px 30px 3px rgba(0, 69, 42, 0.59);
+    -webkit-box-shadow: 2px 1px 30px 3px rgba(0, 69, 42, 0.59);
+    -moz-box-shadow: 2px 1px 30px 3px rgba(0, 69, 42, 0.59);
+    height: 250px;
+    width: 250px; }
+  .music_instruments a {
+    position: absolute;
+    bottom: 0%;
+    right: 40%;
+    visibility: hidden;
+    transition: 0.6s; }
+    .music_instruments a:hover {
+      visibility: visible;
+      transform: translateY(10px);
+      background-color: black; }
 
 /*Pagina de TUNEBOOK*/
 .lrp_tunebook_art {
@@ -741,8 +833,15 @@ body {
     width: 155px;
     margin-top: 20px; }
 
-h1 {
-  color: blanchedalmond; }
+.donation {
+  display: flex;
+  justify-content: center; }
+  .donation p {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    color: blanchedalmond;
+    margin: 100px 0 100px 0; }
 
 /* --------------RESPONSIVE header---------------- */
 @media screen and (max-width: 1025px) {
@@ -873,6 +972,150 @@ h1 {
     border: black 2px solid;
     height: 380px;
     width: 305px; }
-  .galeria_fotos_lospibes
-.galeria_fotos_lospibes h3 {
+  .galeria_fotos_lospibes h3 {
     font-size: 20px; } }
+
+/*---------------- Responsive FOOTER -------------------- */
+@media screen and (max-width: 1024px) {
+  .footer_logo {
+    display: none; }
+  .footer_logo2 {
+    display: none; } }
+
+@media screen and (max-width: 600px) {
+  .footer_div {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Overpass', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #FEFAE0; }
+    .footer_div h3 {
+      font-size: 20px; }
+  .footer_section {
+    display: flex;
+    justify-content: space-around;
+    border-top: #fefae0 1px solid;
+    height: 160px; } }
+
+/* ------------ REsponsive PAGINA DE LOGEARSE ------------- */
+@media screen and (max-width: 1100px) {
+  .login_div {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center; }
+    .login_div input {
+      width: 500px;
+      height: 30px; }
+  .login_button input {
+    margin-top: 25px;
+    width: 150px; } }
+
+@media screen and (max-width: 897px) {
+  .login_div {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center; }
+    .login_div input {
+      width: 300px;
+      height: 30px; }
+  .login_button input {
+    margin-top: 25px;
+    width: 150px; } }
+
+@media screen and (max-width: 675px) {
+  .pilars {
+    display: none; }
+  .login_div {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center; }
+    .login_div input {
+      width: 400px;
+      height: 30px; } }
+
+@media screen and (max-width: 600px) {
+  .login_div {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center; }
+    .login_div input {
+      width: 200px;
+      height: 30px; }
+  .login_button input {
+    margin-top: 25px;
+    width: 150px; } }
+
+/* ------------ Responsive de Crear cuenta ----------- */
+@media screen and (max-width: 900px) {
+  .reg_in {
+    padding-left: 50px; } }
+
+@media screen and (max-width: 600px) {
+  .reg_in {
+    text-align: center;
+    padding-left: 25px; }
+    .reg_in h2 {
+      font-size: 31px; }
+  .regin_div input {
+    width: 250px;
+    height: 25px; }
+  .regin_button button {
+    height: 35px;
+    width: 155px; } }
+
+/* --------- REsponsive de recuperar contraseña ---------- */
+@media screen and (max-width: 600px) {
+  .recover {
+    width: 80%; } }
+
+/* --------- REsponsive quienes somos ---------- */
+@media screen and (max-width: 1047px) {
+  .carousel {
+    display: none; } }
+
+@media screen and (max-width: 850px) {
+  .frog_flute img {
+    display: none; }
+  .frog_friends p {
+    font-size: 30px; }
+  .frog_friends h2 {
+    font-size: 30px; } }
+
+/* --------- REsponsive contacto para eventos ---------- */
+@media screen and (max-width: 1024px) {
+  .contact_flex {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center; }
+  .contact_frame_map {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 50%; } }
+
+@media screen and (max-width: 600px) {
+  .contact_form {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center; }
+  .contact_div {
+    width: 80%;
+    height: 100%; } }
+
+/* ------------  Responsive de galeria para shows -------------  */

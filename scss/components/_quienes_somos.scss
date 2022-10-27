@@ -22,7 +22,7 @@
     }
 }
 
-.container {
+.container {    
     padding: 0px;
     display: flex;
     justify-content: center;
@@ -43,7 +43,7 @@
     }
     div {
         border-radius: 15px;    
-        margin-top: 10px;
+        // margin-top: 30px;
         h4 {
             display: block;
             font-style: normal;
@@ -65,8 +65,7 @@
     text-align: center;
 }
 
-.card_toirtis {
-    margin-top: 25px;
+.card_toirtis {    
     display: flex;   
     flex-flow: column wrap;
     align-items: center;
@@ -81,20 +80,22 @@
 .card_silverfrog { 
     position: relative;   
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
-    align-items: center;    
+    margin-top: 55px;        
     background-color: #FEFAE0;
     box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
     -webkit-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
     -moz-box-shadow: 1px 0px 22px 8px rgba(2,3,3,0.75);
     margin-bottom: 10px;
-    justify-content: center;
+    
 }
 
 .frog_flute{
     position: absolute;
     top: -13%;
-    left: -4.5%; 
+    left: -5.5%; 
     img{
         width: 150px;
         height: 150px;
@@ -109,6 +110,7 @@
 }
 
 .carousel-item.active{
+    margin-top: 25px;
     img{
     /* position: relative; */
     width: 100%;

@@ -1,6 +1,75 @@
 
 
 $color-principal: #112127;
-$color-letras: #FEFAE0;
+$color-letras: #faf5d4;
 $bg-color: #012022;
 $color-hover: #1c3a43;
+
+
+
+
+//mapas   Lo llamo con map-get  -- 
+//ATENTI A LA SINTAXIS
+
+$boton: (
+    alto25: 25px,
+    ancho155: 155px,
+    margintop10: 10px,
+    bgcolormain: #112127,
+    bordeboton: 1.5px solid #FEFAE0,
+    letra: #FEFAE0 5px
+);
+
+
+
+// EXTENDS  
+
+// Para utilizar propiedades en conjunto.
+// %=placeholder -- lo llamamos con @extend %flex;
+
+
+%flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+// MIXINSS
+
+//es como el extend pero puedo declarar valores vacios
+// es como las tempalte areas
+
+@mixin flex {
+    display: $flex;
+    justify-content: $justify;
+    align-items: $align;    
+}
+
+// se lo llama de la siguiente manera
+//.name_class{
+//    @include flex(flex, center, center)
+//}   HERMOSAS
+
+
+//! CONDICIONALES
+// SE USAN MAS EN LENG DE PROG
+// es como una compuerta if
+// se aplican reglas para establecer si un cambio se realiza o no
+
+// OPERADORES:  
+// == SON IGUALES
+// != DIFERENTE
+// < MAYOR QUE
+// > MENOR QUE
+// <= Mayor o igual que
+// >= Menor o igual que
+
+//SINTAXIS
+
+// @if (condicional) {
+
+// }else {
+
+// }
+

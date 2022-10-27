@@ -1,0 +1,75 @@
+@import url(../base/_variables.scss);
+
+.music_articles_grid {
+    display: grid;
+    grid-template-columns: 80%;
+    grid-row: auto;
+    justify-content: center;
+    h1 {
+        font-family: 'Overpass', sans-serif;
+        color: $color-letras;
+        text-align: center;
+        margin: 25px 0px 10px 0px
+    }
+    h2 {
+        font-family: 'Overpass', sans-serif;
+        color: $color-letras;
+        text-align: center;
+        margin: 25px 0px 50px 0px;
+    }
+    p {
+        font-family: 'Overpass', sans-serif;
+        font-size: large;
+        color: $color-letras;
+        padding: 0px 75px 0px 75px ;
+    }
+    figure {
+        width: 100%;
+        display: flex;
+        flex-flow: column wrap;
+        align-items: center;
+        img{
+            width: 1000px;
+            height: 500px;
+        }
+        figcaption {
+            margin: 5px;
+            font-family: 'Overpass', sans-serif;
+            font-style: italic;
+            font-size: large;
+            color: $color-letras;
+        }
+    }    
+}
+
+.music_gallery {
+    display: flex;        
+    flex-wrap: wrap;
+    justify-content: space-evenly;  
+}   
+
+.music_instruments {    
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin: 5px 15px 5px 15px;               
+    img {        
+        box-shadow: 2px 1px 30px 3px rgba(0,69,42,0.59);
+        -webkit-box-shadow: 2px 1px 30px 3px rgba(0,69,42,0.59);
+        -moz-box-shadow: 2px 1px 30px 3px rgba(0,69,42,0.59);
+        height: 250px;
+        width: 250px;        
+    }
+    a {        
+        position: absolute;
+        bottom: 0%;
+        right: 40%;        
+        visibility: hidden;
+        transition: 0.6s;
+        &:hover { 
+                visibility: visible;
+                transform: translateY(10px) ;
+                background-color: black;
+        }       
+    }
+}

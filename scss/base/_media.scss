@@ -224,7 +224,7 @@
 
 /* ------------ REsponsive PAGINA DE LOGEARSE ------------- */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1100px) {
     .login_div {
         display: flex;
         flex-flow: column wrap;
@@ -243,7 +243,43 @@
         }
     }
 }
-    
+
+@media screen and (max-width: 897px) {
+    .login_div {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        input {
+            width: 300px;
+            height: 30px;
+        }    
+    }
+
+    .login_button{
+        input {
+            margin-top: 25px;
+            width: 150px;
+        }
+    }
+}
+
+@media screen and (max-width: 675px) {
+    .pilars {
+        display: none;
+    }
+    .login_div {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        input {
+            width: 400px;
+            height: 30px;
+        }    
+    }
+}
+
 @media screen and (max-width: 600px) {
     .login_div{
         display: flex;
@@ -251,7 +287,7 @@
         justify-content: center;
         align-items: center; 
         input {
-            width: 300px;
+            width: 200px;
             height: 30px;
         }
     }
