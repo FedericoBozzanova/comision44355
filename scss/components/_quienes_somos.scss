@@ -1,4 +1,5 @@
 /*Pagina de quienes somos*/
+@import url(../base/_variables.scss);
 
 .bienvenidos{
     h2 {
@@ -24,13 +25,11 @@
 
 .container {    
     padding: 0px;
-    display: flex;
-    justify-content: center;
+    @include flex_na (flex, center);
 }
 
 .grupos_session {        
-    display: flex;
-    justify-content: center;
+    @include flex_na (flex, center);
     width: 100%; 
     border-radius: 100%;
     h3 {
@@ -79,9 +78,7 @@
 
 .card_silverfrog { 
     position: relative;   
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    @include flex (flex, center, center);
     flex-direction: column;
     margin-top: 55px;        
     background-color: #FEFAE0;
@@ -111,8 +108,7 @@
 
 .carousel-item.active{
     margin-top: 25px;
-    img{
-    /* position: relative; */
+    img{    
     width: 100%;
     height: 500px;
     }
@@ -121,9 +117,8 @@
 .frog_friends {
     width: 100%;
     height: auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    @include flex_na (flex, center);
+    flex-wrap: wrap;    
     h2 {
         background-color: #468199;
         background-size: cover;
@@ -143,4 +138,72 @@
         text-align: center;
         margin-top: 15px;
     }    
+}
+
+.frogfriends_h3 {
+    width: 100%;
+    @include flex_na (flex, center);
+    span {
+        margin: 50px 0 50px 0;
+        background-color: $bg-color;
+        background-size: cover;
+        color: #FEFAE0;
+        font-size: 40px;
+        font-style: bold;
+        font-weight: 500;  
+        font-family: 'Overpass', sans-serif;
+        text-align: center;
+    }
+}
+
+.frogfriends {
+    @include flex (flex, space-around, center);
+    flex-wrap: wrap;    
+    .frogfriends_div {        
+        position: relative;
+        transition: 0.6s;
+            &:hover{                                
+                scale: (1.2);                
+            }
+        img{            
+            height: 200px;
+            width: 200px;        
+            object-fit: cover;
+            margin-bottom: 50px;            
+        }
+        a{                         
+            text-decoration: none;
+            color: $color-letras;      
+            position: absolute;
+            bottom: 20%;
+            right: 80px;
+            width: 100%;
+            height: 25px;                
+            color: $color-letras;        
+            background-color: rgba(8, 8, 8, 0.801);        
+            text-align: center;
+            font-weight: 500;
+            font-size: medium;              
+            transition: 0.6s; 
+            left: 0%;
+            &:hover{
+                background-color: $bg-color;                
+            }        
+        }            
+    }        
+}
+
+.caminantes {    
+    a{  
+        width: 90%;                
+        color: $color-letras;        
+        background-color: rgba(8, 8, 8, 0.801);        
+        text-align: center;
+        font-size: smaller;              
+        transition: 0.6s; 
+        left: 0%;
+        &:hover{
+            background-color: $bg-color;
+        }        
+    }
 }

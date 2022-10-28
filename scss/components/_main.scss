@@ -37,17 +37,14 @@
 }
 
 .flex_main_tittle {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    @include flex_na(flex, center);
+    flex-direction: column;    
     flex-wrap: wrap;        
 }
 
 .flex_main_search {
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: center;
-    align-items: center;
+    @include flex(flex, center, center);
+    flex-direction: column-reverse;    
     flex-wrap: wrap;
     margin-top: 10px;
     color: $color-letras;
@@ -86,9 +83,7 @@
 .galeria_grid {
     background-color: #162b32;
     h2 {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        @include flex(flex, center, center);
         background-color: $bg-color;
         border-top: $color-letras solid 1px;
         border-bottom: $color-letras solid 1px;    
@@ -107,9 +102,8 @@
 .galeria_fotos_lospibes {
     width: 90%;
     margin: 0 auto;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
+    @include flex_na (flex, space-around);
+    flex-flow: row wrap;    
 }
 
 .fotos_galeria {

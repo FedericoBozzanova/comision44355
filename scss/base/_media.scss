@@ -8,9 +8,7 @@
         display: grid;
         grid-template-columns: repeat(3,1fr);        
         grid-template-rows: repeat(2,1fr);
-        display: flex;        
-        justify-content: space-around;
-        align-items: center;
+        @include flex (flex, space-around, center);        
         ul {
             width: 100%;
         }
@@ -37,6 +35,11 @@
 
 @media screen and (max-width: 605px) {
     header {
+        div {
+            h1 {
+                font-size: 25px;
+            }
+        }
         nav {
             ul {
                 font-style: normal;
@@ -48,17 +51,6 @@
                 text-align: center;    
             }
         }
-    }
-}
-
-
-@media screen and (max-width: 605px) {
-    header {
-            div {
-                h1 {
-                    font-size: 40px;
-                }
-            }
     }
 }
 
@@ -135,9 +127,13 @@
         }
         h3 {
             font-size: 20px;
+        }        
+    }
+    .flex_main_search {
+        input {
+            width: 300px;
         }
     }
-
     .fotos_galeria {
         display: flex;
         flex-flow: column wrap;
@@ -214,8 +210,7 @@
     }
     
     .footer_section {    
-        display: flex;
-        justify-content: space-around;    
+        @include flex_na (flex, space-around);            
         border-top: #fefae0 1px solid;
         height: 160px;
     }
@@ -226,10 +221,8 @@
 
 @media screen and (max-width: 1100px) {
     .login_div {
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: center;
-        align-items: center;
+        @include flex (flex, center, center);
+        flex-flow: column wrap;        
         input {
             width: 500px;
             height: 30px;
@@ -246,7 +239,7 @@
 
 @media screen and (max-width: 897px) {
     .login_div {
-        display: flex;
+        @include flex (flex, center, center);
         flex-flow: column wrap;
         justify-content: center;
         align-items: center;
@@ -269,10 +262,8 @@
         display: none;
     }
     .login_div {
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: center;
-        align-items: center;
+        @include flex (flex, center, center);
+        flex-flow: column wrap;        
         input {
             width: 400px;
             height: 30px;
@@ -282,10 +273,8 @@
 
 @media screen and (max-width: 600px) {
     .login_div{
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: center;
-        align-items: center; 
+        @include flex (flex, center, center);
+        flex-flow: column wrap;         
         input {
             width: 200px;
             height: 30px;
@@ -368,17 +357,13 @@
     .contact_flex {
         width: 100%;
         height: 100%;
-        display: flex;
-        flex-flow: row wrap;
-        justify-content: space-around;
-        align-items: center;
+        @include flex (flex, space-around, center);
+        flex-flow: row wrap;        
         text-align: center;    
     }    
     .contact_frame_map {
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: space-around;
-        align-items: center;
+        @include flex (flex, space-around, center);
+        flex-flow: column wrap;        
         width: 100%;
         height: 50%;
     }    
@@ -388,10 +373,8 @@
     .contact_form {
         width: 80%;
         height: 100%;
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: center;
-        align-items: center;
+        @include flex (flex, center, center);
+        flex-flow: column wrap;        
         text-align: center;            
     }
     .contact_div {
@@ -401,3 +384,42 @@
 }
 
 /* ------------  Responsive de galeria para shows -------------  */
+
+
+/* ------------ Responsive de Musica Irlandesa ----------- */
+
+@media screen and (max-width: 1050px) {
+    .video_gallery {
+        iframe {
+            width: 400px;
+            height: 200px;
+        }
+    }
+    .card {
+        padding: 0;
+        }
+}
+
+
+
+@media screen and (max-width: 667px) {
+    .music_articles_grid {
+        figure {
+            figcaption {
+                display: none;
+            }
+            img {
+                height: 90%;
+            }
+        }
+    }
+    .car-img-top {
+        height: 80%;
+    }
+    .video_gallery {
+        iframe {
+            width: 300px;
+            height: 150px;
+        }
+    }
+}

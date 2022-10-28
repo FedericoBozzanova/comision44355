@@ -6,10 +6,16 @@
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box; }
+
+body {
+  background-color: #112127; }
 
 header {
   position: sticky;
@@ -96,15 +102,15 @@ header {
 
 .flex_main_tittle {
   display: flex;
-  flex-direction: column;
   justify-content: center;
+  flex-direction: column;
   flex-wrap: wrap; }
 
 .flex_main_search {
   display: flex;
-  flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
+  flex-direction: column-reverse;
   flex-wrap: wrap;
   margin-top: 10px;
   color: #faf5d4;
@@ -139,8 +145,8 @@ header {
   background-color: #162b32; }
   .galeria_grid h2 {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     background-color: #012022;
     border-top: #faf5d4 solid 1px;
     border-bottom: #faf5d4 solid 1px;
@@ -158,8 +164,8 @@ header {
   width: 90%;
   margin: 0 auto;
   display: flex;
-  flex-flow: row wrap;
-  justify-content: space-around; }
+  justify-content: space-around;
+  flex-flow: row wrap; }
 
 .fotos_galeria {
   display: flex;
@@ -330,9 +336,9 @@ header {
   width: 100%;
   height: 50vh;
   display: flex;
-  flex-flow: row wrap;
   justify-content: space-around;
   align-items: center;
+  flex-flow: row wrap;
   text-align: start; }
 
 .contact_form {
@@ -340,9 +346,9 @@ header {
   width: 33.3%;
   height: 55vh;
   display: flex;
-  flex-flow: column wrap;
   justify-content: flex-start;
-  align-items: center; }
+  align-items: center;
+  flex-flow: column wrap; }
   .contact_form h2 {
     text-decoration: solid;
     color: #fbfbfbf5;
@@ -394,16 +400,16 @@ header {
   height: 46.7vh;
   border: 1px #436370;
   display: flex;
-  flex-flow: column wrap;
+  justify-content: flex-start;
   align-items: center;
-  justify-content: flex-start; }
+  flex-flow: column wrap; }
 
 .contact_socials_img {
   width: 100%;
   height: 20%;
   display: flex;
-  align-items: flex-end;
-  justify-content: center; }
+  justify-content: center;
+  align-items: flex-end; }
   .contact_socials_img ul {
     display: flex;
     justify-content: center;
@@ -444,9 +450,9 @@ header {
   width: 33.3%;
   height: 55vh;
   display: flex;
-  flex-direction: column;
   justify-content: flex-start;
-  align-items: center; }
+  align-items: center;
+  flex-direction: column; }
   .contact_frame_map h2 {
     color: #fefae0;
     font-size: 30px;
@@ -463,9 +469,9 @@ header {
   width: 100%;
   height: 70vh;
   display: flex;
-  flex-flow: column wrap;
   justify-content: space-around;
-  align-content: center;
+  align-items: center;
+  flex-flow: column wrap;
   text-align: start; }
 
 .reg_in {
@@ -505,17 +511,13 @@ header {
   margin-bottom: 10px; }
 
 /*Pagina de logearse*/
-body {
-  background-color: #112127;
-  background-image: url(../img/); }
-
 .log_in {
   width: 100%;
   height: 69.7vh;
   display: flex;
-  flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex-flow: column wrap;
   align-content: space-around; }
   .log_in h2 {
     color: #fefae0;
@@ -526,9 +528,9 @@ body {
 
 .login_div {
   display: flex;
-  flex-flow: column wrap;
   justify-content: center;
-  align-items: start; }
+  align-items: center;
+  flex-flow: column wrap; }
   .login_div h3 {
     font-family: 'Overpass', sans-serif;
     color: #fefae0;
@@ -662,7 +664,6 @@ body {
 .carousel-item.active {
   margin-top: 25px; }
   .carousel-item.active img {
-    /* position: relative; */
     width: 100%;
     height: 500px; }
 
@@ -670,8 +671,8 @@ body {
   width: 100%;
   height: auto;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center; }
+  justify-content: center;
+  flex-wrap: wrap; }
   .frog_friends h2 {
     background-color: #468199;
     background-size: cover;
@@ -690,6 +691,65 @@ body {
     text-align: center;
     margin-top: 15px; }
 
+.frogfriends_h3 {
+  width: 100%;
+  display: flex;
+  justify-content: center; }
+  .frogfriends_h3 span {
+    margin: 50px 0 50px 0;
+    background-color: #012022;
+    background-size: cover;
+    color: #FEFAE0;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: 500;
+    font-family: 'Overpass', sans-serif;
+    text-align: center; }
+
+.frogfriends {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap; }
+  .frogfriends .frogfriends_div {
+    position: relative;
+    transition: 0.6s; }
+    .frogfriends .frogfriends_div:hover {
+      scale: 1.2; }
+    .frogfriends .frogfriends_div img {
+      height: 200px;
+      width: 200px;
+      object-fit: cover;
+      margin-bottom: 50px; }
+    .frogfriends .frogfriends_div a {
+      text-decoration: none;
+      color: #faf5d4;
+      position: absolute;
+      bottom: 20%;
+      right: 80px;
+      width: 100%;
+      height: 25px;
+      color: #faf5d4;
+      background-color: rgba(8, 8, 8, 0.801);
+      text-align: center;
+      font-weight: 500;
+      font-size: medium;
+      transition: 0.6s;
+      left: 0%; }
+      .frogfriends .frogfriends_div a:hover {
+        background-color: #012022; }
+
+.caminantes a {
+  width: 90%;
+  color: #faf5d4;
+  background-color: rgba(8, 8, 8, 0.801);
+  text-align: center;
+  font-size: smaller;
+  transition: 0.6s;
+  left: 0%; }
+  .caminantes a:hover {
+    background-color: #012022; }
+
 .show_container {
   width: 100%;
   height: 63vh; }
@@ -705,7 +765,7 @@ body {
 
 .music_articles_grid {
   display: grid;
-  grid-template-columns: 80%;
+  grid-template-columns: 70%;
   grid-row: auto;
   justify-content: center; }
   .music_articles_grid h1 {
@@ -717,20 +777,24 @@ body {
     font-family: 'Overpass', sans-serif;
     color: #faf5d4;
     text-align: center;
-    margin: 25px 0px 50px 0px; }
+    margin: 35px 0px 50px 0px; }
   .music_articles_grid p {
+    text-align: center;
+    text-align: justify;
+    text-indent: 15px;
     font-family: 'Overpass', sans-serif;
     font-size: large;
-    color: #faf5d4;
-    padding: 0px 75px 0px 75px; }
+    color: #faf5d4; }
   .music_articles_grid figure {
-    width: 100%;
+    height: 100%;
+    margin-bottom: 15px;
     display: flex;
-    flex-flow: column wrap;
-    align-items: center; }
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap; }
     .music_articles_grid figure img {
-      width: 1000px;
-      height: 500px; }
+      width: 90%;
+      height: 70%; }
     .music_articles_grid figure figcaption {
       margin: 5px;
       font-family: 'Overpass', sans-serif;
@@ -740,30 +804,39 @@ body {
 
 .music_gallery {
   display: flex;
+  justify-content: space-evenly;
   flex-wrap: wrap;
-  justify-content: space-evenly; }
+  width: 95%;
+  height: auto; }
 
-.music_instruments {
-  position: relative;
-  width: 250px;
-  height: 250px;
-  margin: 5px 15px 5px 15px; }
-  .music_instruments img {
-    box-shadow: 2px 1px 30px 3px rgba(0, 69, 42, 0.59);
-    -webkit-box-shadow: 2px 1px 30px 3px rgba(0, 69, 42, 0.59);
-    -moz-box-shadow: 2px 1px 30px 3px rgba(0, 69, 42, 0.59);
-    height: 250px;
-    width: 250px; }
-  .music_instruments a {
-    position: absolute;
-    bottom: 0%;
-    right: 40%;
-    visibility: hidden;
-    transition: 0.6s; }
-    .music_instruments a:hover {
-      visibility: visible;
-      transform: translateY(10px);
-      background-color: black; }
+.card {
+  margin-top: 15px;
+  border: solid 3px #112127;
+  padding: 0; }
+  .card h5 {
+    text-align: center; }
+
+.card-body {
+  width: 100%;
+  color: #faf5d4;
+  background-color: rgba(8, 8, 8, 0.801);
+  text-align: center;
+  font-size: medium;
+  transition: 0.6s; }
+
+.video_gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column wrap; }
+  .video_gallery em {
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+    font-family: 'Overpass', sans-serif;
+    font-style: italic;
+    font-size: large;
+    color: #faf5d4; }
 
 /*Pagina de TUNEBOOK*/
 .lrp_tunebook_art {
@@ -791,9 +864,9 @@ body {
 /*Pagina de recuperar contraseña*/
 .recover_pass {
   display: flex;
-  flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex-flow: column wrap;
   width: 100%;
   height: 71.8vh;
   background-color: #112127; }
@@ -809,8 +882,8 @@ body {
 .recover {
   width: 530px;
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   flex-flow: column wrap; }
   .recover h3 {
     font-family: 'Overpass', sans-serif;
@@ -827,21 +900,57 @@ body {
 .recover_button {
   width: 100%;
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  align-items: center; }
   .recover_button button {
     height: 35px;
     width: 155px;
     margin-top: 20px; }
 
-.donation {
+.donations {
+  width: 100%;
+  height: 68vh;
   display: flex;
-  justify-content: center; }
-  .donation p {
+  justify-content: center;
+  align-items: center; }
+  .donations p {
     font-size: 40px;
     font-style: normal;
     font-weight: 500;
     color: blanchedalmond;
     margin: 100px 0 100px 0; }
+
+.botondonacion {
+  margin-top: 10px; }
+
+.frogking {
+  position: absolute;
+  bottom: 50%;
+  left: 40%;
+  width: 100%;
+  height: 80%; }
+
+.carddonation {
+  position: relative; }
+
+.tooltip {
+  position: relative;
+  border-bottom: 1px dotted black; }
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1; }
+
+.tooltip:hover .tooltiptext {
+  visibility: visible; }
 
 /* --------------RESPONSIVE header---------------- */
 @media screen and (max-width: 1025px) {
@@ -868,6 +977,8 @@ body {
     text-align: center; } }
 
 @media screen and (max-width: 605px) {
+  header div h1 {
+    font-size: 25px; }
   header nav ul {
     font-style: normal;
     font-size: 15px;
@@ -876,10 +987,6 @@ body {
     border-top: #fefae0 solid 1px;
     border-bottom: #fefae0 solid 1px;
     text-align: center; } }
-
-@media screen and (max-width: 605px) {
-  header div h1 {
-    font-size: 40px; } }
 
 /* --------------RESPONSIVE hero and MAIN---------------- */
 @media screen and (max-width: 1200px) {
@@ -937,6 +1044,8 @@ body {
       -moz-box-shadow: -1px 0px 21px 7px rgba(0, 0, 0, 0.58) inset; }
     .galeria_fotos_lospibes h3 {
       font-size: 20px; }
+  .flex_main_search input {
+    width: 300px; }
   .fotos_galeria {
     display: flex;
     flex-flow: column wrap;
@@ -1003,9 +1112,9 @@ body {
 @media screen and (max-width: 1100px) {
   .login_div {
     display: flex;
-    flex-flow: column wrap;
     justify-content: center;
-    align-items: center; }
+    align-items: center;
+    flex-flow: column wrap; }
     .login_div input {
       width: 500px;
       height: 30px; }
@@ -1016,6 +1125,8 @@ body {
 @media screen and (max-width: 897px) {
   .login_div {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-flow: column wrap;
     justify-content: center;
     align-items: center; }
@@ -1031,9 +1142,9 @@ body {
     display: none; }
   .login_div {
     display: flex;
-    flex-flow: column wrap;
     justify-content: center;
-    align-items: center; }
+    align-items: center;
+    flex-flow: column wrap; }
     .login_div input {
       width: 400px;
       height: 30px; } }
@@ -1041,9 +1152,9 @@ body {
 @media screen and (max-width: 600px) {
   .login_div {
     display: flex;
-    flex-flow: column wrap;
     justify-content: center;
-    align-items: center; }
+    align-items: center;
+    flex-flow: column wrap; }
     .login_div input {
       width: 200px;
       height: 30px; }
@@ -1093,15 +1204,15 @@ body {
     width: 100%;
     height: 100%;
     display: flex;
-    flex-flow: row wrap;
     justify-content: space-around;
     align-items: center;
+    flex-flow: row wrap;
     text-align: center; }
   .contact_frame_map {
     display: flex;
-    flex-flow: column wrap;
     justify-content: space-around;
     align-items: center;
+    flex-flow: column wrap;
     width: 100%;
     height: 50%; } }
 
@@ -1110,12 +1221,30 @@ body {
     width: 80%;
     height: 100%;
     display: flex;
-    flex-flow: column wrap;
     justify-content: center;
     align-items: center;
+    flex-flow: column wrap;
     text-align: center; }
   .contact_div {
     width: 80%;
     height: 100%; } }
 
 /* ------------  Responsive de galeria para shows -------------  */
+/* ------------ Responsive de Musica Irlandesa ----------- */
+@media screen and (max-width: 1050px) {
+  .video_gallery iframe {
+    width: 400px;
+    height: 200px; }
+  .card {
+    padding: 0; } }
+
+@media screen and (max-width: 667px) {
+  .music_articles_grid figure figcaption {
+    display: none; }
+  .music_articles_grid figure img {
+    height: 90%; }
+  .car-img-top {
+    height: 80%; }
+  .video_gallery iframe {
+    width: 300px;
+    height: 150px; } }

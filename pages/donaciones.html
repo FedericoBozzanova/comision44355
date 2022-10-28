@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">     
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">     
     <link rel="stylesheet" href="../css/estilos.css">
     <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
     <meta name="description" content=" La Rana Plateada. Comunidad de Musica Celta Autogestiva en La Plata. Sumate a compartir sessions y de los gatherings. Crea tu cuenta y arma tu propio Book con tunes que te gusten.">
@@ -16,6 +18,8 @@
     <title>Donaciones para La Rana Plateada</title>   
 </head>
 <body>   
+    <!---------------------    HEADER    --------------->
+
     <header class="header_grid">        
         <div>
             <a href="../index.html"><h1> La Rana Plateada </h1></a>    
@@ -31,18 +35,26 @@
         </nav>
     </header>
 
+<!---------------------    MAIN    --------------->
 
-<div class="donation">
-<p>TRANSFERENCIAS MERCADO PAGO fedeball.mp
-    <br> TRASNFERENCIAS BANCARIAS: CVU; 0000003100002829322190
-</p>
-</div>
+    <main class="donations">
+        <div class="card carddonation" style="width: 18rem;">
+            <img src="../img/mercadopago.png" class="card-img-top" alt="Imagen para donaciones">
+            <div class="card-body">
+                <h5 class="card-title">Mercado Libre</h5>
+                <span class="card-text"> ALIAS fedeball.mp
+                    <br> CVU: 0000003100002829322190
+                    Dona o el Rey Rana Morira :(
+                </span>
+                <a href="https://www.mercadopago.com.ar/home" target="_blank" class="btn btn-primary botondonacion">Donar</a>
+                <img src="../img/frogking.png" class="frogking" alt="Imagen de Rana Rey">                    
+                </div>                               
+        </div>
+    </main>
 
+    
 
-
-
-    <!---------------------    FOOTER    --------------->
-
+<!---------------------    FOOTER    --------------->
 
     <footer class="footer_grid">              
         <section class="footer_section">
@@ -52,7 +64,7 @@
             <div class="footer_div">
                 <h3>Contenido</h3>
                 <ul class="footer_list">                    
-                    <li><a href="https://theirishflow.com/">Blog</li></a>
+                    <li><a href="https://theirishflow.com/" target="_blank">Blog</li></a>
                     <li><a href="../pages/musica_irlandesa.html">Musica Irlandesa</li></a>
                     <li><a href="../pages/nuestra_musica.html">Nuestra Musica</li></a>   
                 </ul>
@@ -89,6 +101,11 @@
             </ul>
         </div>
     </footer>
-           
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+        integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js"
+        integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk"
+        crossorigin="anonymous"></script>       
 </body>
 </html>

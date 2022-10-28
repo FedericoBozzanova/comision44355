@@ -8,8 +8,7 @@
 }
 
 .footer_section {    
-    display: flex;
-    justify-content: space-around;    
+    @include flex_na (flex, space-around);
     border-top: $color-letras 1px solid;
     height: auto;
     width: 100%
@@ -18,31 +17,26 @@
 .footer_logo {
     height: 154px;
     width: auto;
-    display: flex;
-    align-items: flex-end;
+    @include flex_nj (flex, flex-end);
     transition: 1s;
     &:hover {
         transform: scale(1.02);
     }
     a{
-        display: flex;
-        align-items: flex-start;
+        @include flex_nj (flex, flex-start);        
     }
 }
 
 .footer_logo2 {    
     height: 154px;
     width: auto;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+    @include flex (flex, flex-end, flex-end);
     transition: 1s;
     &:hover {
         transform: scale(1.02);
     }
     a{
-        display: flex;
-        align-items: flex-start;
+        @include flex_nj (flex, flex-start);        
     }    
 }
 

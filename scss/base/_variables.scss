@@ -40,10 +40,21 @@ $boton: (
 //es como el extend pero puedo declarar valores vacios
 // es como las tempalte areas
 
-@mixin flex {
+@mixin flex ($flex, $justify, $align){
     display: $flex;
     justify-content: $justify;
     align-items: $align;    
+}
+
+
+@mixin flex_na ($flex, $justify){
+    display: $flex;
+    justify-content: $justify;        
+}
+
+@mixin flex_nj ($flex, $align){
+    display: $flex;
+    align-items: $align;        
 }
 
 // se lo llama de la siguiente manera
