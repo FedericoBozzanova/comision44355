@@ -383,9 +383,6 @@
     }
 }
 
-/* ------------  Responsive de galeria para shows -------------  */
-
-
 /* ------------ Responsive de Musica Irlandesa ----------- */
 
 @media screen and (max-width: 1050px) {
@@ -399,8 +396,6 @@
         padding: 0;
         }
 }
-
-
 
 @media screen and (max-width: 667px) {
     .music_articles_grid {
@@ -420,6 +415,73 @@
         iframe {
             width: 300px;
             height: 150px;
+        }
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .video_gallery {
+        iframe {
+            width: 200px;
+            height: 150px;
+        }
+    }
+}
+
+
+/* ------------  Responsive de galeria para shows -------------  */
+
+
+@media screen and (max-width: 1025px) {
+    .caja_gatheringv {
+        h2 {
+            width: 35%;
+            font-size: 25px;
+        }    
+        .show_container {
+            width: 90%;        
+            margin-bottom: 20px;           
+            margin: 5px;
+            display: grid;
+            gap: 15px;
+            grid-template-rows: 5fr 5fr 5fr;
+            grid-template-columns: 1.5fr 1.5fr;   
+        }
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .caja_gatheringv {
+        h2 {
+            font-size: 15px;
+        }
+        label {
+            width: 150px;
+        }    
+        .show_container {
+            width: 90%;        
+            margin-bottom: 20px;           
+            margin: 5px;
+            display: grid;
+            gap: 15px;
+            grid-template-rows: 5fr 5fr 5fr 5fr;
+            grid-template-columns: 1fr;   
+        }
+    }
+}   
+
+
+/* ------------  Responsive de lrp tunebook -------------  */
+
+@media screen and (max-width: 697px) {
+    .lrp_tunebook_text_a{
+        iframe {
+            width: 80%;
+            height: 80%;
+            margin: 25px 0px 50px 0px;               
+        }  
+        a {
+            font-size: 20px;
         }
     }
 }

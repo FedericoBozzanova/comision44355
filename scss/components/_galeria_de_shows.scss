@@ -1,17 +1,93 @@
-// ----- galeria de shows ------ // 
+// ----- galeria de shows ------ //
+@import url(../base/_variables.scss); 
 
-.show_container {
+.caja_gatheringv {
     width: 100%;
-    height: 63vh;
+    height: 100%;
+    display: flex;    
+    flex-direction: column;
+    align-items: center;
+    transition: 0.6s ease-in-out;        
+    #check {
+        display: none;
+        transition: 0.6s ease-in-out;
+        &:checked ~ .show_container {            
+            height: 100%;
+            width: 90%;
+        }
+    }
+    label {
+        border: solid $color-letras 2px;
+        text-align: center;
+        width: 15%;        
+        font-size: 20px;
+        margin: 0px 0px 10px 0px;
+        border-radius: 10px;        
+        color: $color-letras;
+        background-color: rgba(0, 0, 0, 0.289);
+        transition: 0.6s;
+        margin-top: 15px;
+        &:active {
+            background-color: $color-letras;
+        }
+        &:hover {            
+            background-color: $bg-color;
+        }
+    }
+    .show_container {
+        width: 90%;
+        height: 0;        
+        margin-bottom: 20px;           
+        margin: 5px;
+        display: grid;
+        gap: 15px;
+        grid-template-rows: 5fr 5fr;
+        grid-template-columns: 1.5fr 1.5fr 1.5fr 1.5fr;
+        margin-top: 10px;        
+        overflow: hidden;
+        transition: 0.6s ease-in-out;
+    }
     h2 {
-        margin-top: 100px;    
-        text-decoration: underline;
-        color: #fefae0;
-        font-size: 51px;    
-        font-weight: 150;  
-        font-family: 'Overpass', sans-serif;  
-        width: 100%;
+        margin: 20px 0 20px 0;
+        font-size: 50px;
+        font-family: 'Overpass', sans-serif;
+        color: $color-letras;
         text-align: center;
     }
+    h3 {
+        font-size: 35px;
+        font-family: 'Overpass', sans-serif;        
+        color: $color-letras;
+        text-align: center;
+    }    
 }
+
+.next_shows {
+    margin-top: 50px;    
+    font-size: 25px;
+    font-family: 'Overpass', sans-serif;
+    color: $color-letras;
+    text-align: center;    
+}
+
+
+.grid_item {    
+    transition: 0.6s;    
+    img {
+        object-fit: cover;
+        border-radius: 15px;        
+        width: 100%;
+        height: 400px;
+    }
+    iframe {        
+        width: 100%;
+        height: 400px;        
+    }
+    &:hover {
+        opacity: 0.9;
+        scale: 1.05;
+    }
+}
+
+
 

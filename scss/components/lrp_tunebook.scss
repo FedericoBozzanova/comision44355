@@ -2,29 +2,27 @@
 
 @import url(../base/_variables.scss);
 
-.lrp_tunebook_art {
-    width: 100%;
-    height: 40vh;
-    background-image: url(../img/partis2.jpg);
-    background-position-y: 500px;
-}
 
-.lrp_tunebook_text {
-    color: #fefae0;
-    font-size: 51px;    
-    font-weight: 150;  
-    font-family: 'Overpass', sans-serif;  
+.lrp_tunebook_text_a{
     width: 100%;
-    text-align: center;
-}
-
-.lrp_tunebook_text_a{ 
+    height: 100vh;
+    @include flex (flex, center, center);
+    flex-direction: column;
+    h2 {
+        width: 100%;
+    }
     a {
     color: #fefae0;
-    font-size: 51px;    
+    font-size: 35px;    
     font-weight: 150;  
     font-family: 'Overpass', sans-serif;  
     width: 100%;
     text-align: center;
+    margin-bottom: 20px;
+    }
+    iframe {
+        height: 80%;
+        margin: 25px 0px 50px 0px;               
     }
 }
+

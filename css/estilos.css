@@ -9,6 +9,7 @@
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
 @import url(../base/_variables.scss);
+@import url(../base/_variables.scss);
 * {
   margin: 0;
   padding: 0;
@@ -750,18 +751,78 @@ header {
   .caminantes a:hover {
     background-color: #012022; }
 
-.show_container {
+.caja_gatheringv {
   width: 100%;
-  height: 63vh; }
-  .show_container h2 {
-    margin-top: 100px;
-    text-decoration: underline;
-    color: #fefae0;
-    font-size: 51px;
-    font-weight: 150;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.6s ease-in-out; }
+  .caja_gatheringv #check {
+    display: none;
+    transition: 0.6s ease-in-out; }
+    .caja_gatheringv #check:checked ~ .show_container {
+      height: 100%;
+      width: 90%; }
+  .caja_gatheringv label {
+    border: solid #faf5d4 2px;
+    text-align: center;
+    width: 15%;
+    font-size: 20px;
+    margin: 0px 0px 10px 0px;
+    border-radius: 10px;
+    color: #faf5d4;
+    background-color: rgba(0, 0, 0, 0.289);
+    transition: 0.6s;
+    margin-top: 15px; }
+    .caja_gatheringv label:active {
+      background-color: #faf5d4; }
+    .caja_gatheringv label:hover {
+      background-color: #012022; }
+  .caja_gatheringv .show_container {
+    width: 90%;
+    height: 0;
+    margin-bottom: 20px;
+    margin: 5px;
+    display: grid;
+    gap: 15px;
+    grid-template-rows: 5fr 5fr;
+    grid-template-columns: 1.5fr 1.5fr 1.5fr 1.5fr;
+    margin-top: 10px;
+    overflow: hidden;
+    transition: 0.6s ease-in-out; }
+  .caja_gatheringv h2 {
+    margin: 20px 0 20px 0;
+    font-size: 50px;
     font-family: 'Overpass', sans-serif;
-    width: 100%;
+    color: #faf5d4;
     text-align: center; }
+  .caja_gatheringv h3 {
+    font-size: 35px;
+    font-family: 'Overpass', sans-serif;
+    color: #faf5d4;
+    text-align: center; }
+
+.next_shows {
+  margin-top: 50px;
+  font-size: 25px;
+  font-family: 'Overpass', sans-serif;
+  color: #faf5d4;
+  text-align: center; }
+
+.grid_item {
+  transition: 0.6s; }
+  .grid_item img {
+    object-fit: cover;
+    border-radius: 15px;
+    width: 100%;
+    height: 400px; }
+  .grid_item iframe {
+    width: 100%;
+    height: 400px; }
+  .grid_item:hover {
+    opacity: 0.9;
+    scale: 1.05; }
 
 .music_articles_grid {
   display: grid;
@@ -839,27 +900,26 @@ header {
     color: #faf5d4; }
 
 /*Pagina de TUNEBOOK*/
-.lrp_tunebook_art {
+.lrp_tunebook_text_a {
   width: 100%;
-  height: 40vh;
-  background-image: url(../img/partis2.jpg);
-  background-position-y: 500px; }
-
-.lrp_tunebook_text {
-  color: #fefae0;
-  font-size: 51px;
-  font-weight: 150;
-  font-family: 'Overpass', sans-serif;
-  width: 100%;
-  text-align: center; }
-
-.lrp_tunebook_text_a a {
-  color: #fefae0;
-  font-size: 51px;
-  font-weight: 150;
-  font-family: 'Overpass', sans-serif;
-  width: 100%;
-  text-align: center; }
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+  .lrp_tunebook_text_a h2 {
+    width: 100%; }
+  .lrp_tunebook_text_a a {
+    color: #fefae0;
+    font-size: 35px;
+    font-weight: 150;
+    font-family: 'Overpass', sans-serif;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px; }
+  .lrp_tunebook_text_a iframe {
+    height: 80%;
+    margin: 25px 0px 50px 0px; }
 
 /*Pagina de recuperar contraseña*/
 .recover_pass {
@@ -1229,7 +1289,6 @@ header {
     width: 80%;
     height: 100%; } }
 
-/* ------------  Responsive de galeria para shows -------------  */
 /* ------------ Responsive de Musica Irlandesa ----------- */
 @media screen and (max-width: 1050px) {
   .video_gallery iframe {
@@ -1248,3 +1307,45 @@ header {
   .video_gallery iframe {
     width: 300px;
     height: 150px; } }
+
+@media screen and (max-width: 500px) {
+  .video_gallery iframe {
+    width: 200px;
+    height: 150px; } }
+
+/* ------------  Responsive de galeria para shows -------------  */
+@media screen and (max-width: 1025px) {
+  .caja_gatheringv h2 {
+    width: 35%;
+    font-size: 25px; }
+  .caja_gatheringv .show_container {
+    width: 90%;
+    margin-bottom: 20px;
+    margin: 5px;
+    display: grid;
+    gap: 15px;
+    grid-template-rows: 5fr 5fr 5fr;
+    grid-template-columns: 1.5fr 1.5fr; } }
+
+@media screen and (max-width: 769px) {
+  .caja_gatheringv h2 {
+    font-size: 15px; }
+  .caja_gatheringv label {
+    width: 150px; }
+  .caja_gatheringv .show_container {
+    width: 90%;
+    margin-bottom: 20px;
+    margin: 5px;
+    display: grid;
+    gap: 15px;
+    grid-template-rows: 5fr 5fr 5fr 5fr;
+    grid-template-columns: 1fr; } }
+
+/* ------------  Responsive de lrp tunebook -------------  */
+@media screen and (max-width: 697px) {
+  .lrp_tunebook_text_a iframe {
+    width: 80%;
+    height: 80%;
+    margin: 25px 0px 50px 0px; }
+  .lrp_tunebook_text_a a {
+    font-size: 20px; } }
