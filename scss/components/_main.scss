@@ -26,6 +26,7 @@
             margin-top: 30px;
             }
         h3 {
+            margin-top: 10px;
             color: $color-letras;
             font-size: 25px;
             font-style: bold;
@@ -46,19 +47,21 @@
     @include flex(flex, center, center);
     flex-direction: column-reverse;    
     flex-wrap: wrap;
-    margin-top: 10px;
+    margin-top: 30px;
     color: $color-letras;
     font-size: 15px;    
     font-weight: 400;
     font-family: 'Overpass', sans-serif;
     text-align: center;
     text-decoration: $color-letras;
-    label {
+    label {        
         font-size: 20px;
-        margin-left: 10px;    
+        margin-left: 10px;            
     }
     select {
         margin-left: 10px;
+        background-color: $color-principal;
+        color: $color-letras;
     }
     input {
         height: 25px;
@@ -66,8 +69,10 @@
         margin-left: 5px;
         margin-right: 5px;
         margin-bottom: 10px;
+        border: 2px solid $bg-color;
     }
-    button {         
+    button {     
+        font-size: medium;    
         font-weight: 400;
         font-family: 'Overpass', sans-serif;
         text-align: center;
@@ -77,6 +82,13 @@
         margin-left: 5px;
         margin-right: 5px;
         margin-bottom: 10px;
+        background-color: $color-hover;
+        color: $color-letras;
+        border-radius: 5px;
+        border: solid 0.5px $color-letras;        
+        &:hover {            
+            background-color: $color-principal;
+        }
     }            
 }
 
@@ -102,8 +114,10 @@
 .galeria_fotos_lospibes {
     width: 90%;
     margin: 0 auto;
-    @include flex_na (flex, space-around);
-    flex-flow: row wrap;    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-auto-rows: auto;
+    justify-items: center;       
 }
 
 .fotos_galeria {

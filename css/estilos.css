@@ -94,6 +94,7 @@ header {
     text-align: center;
     margin-top: 30px; }
   .hero div h3 {
+    margin-top: 10px;
     color: #faf5d4;
     font-size: 25px;
     font-style: bold;
@@ -113,7 +114,7 @@ header {
   align-items: center;
   flex-direction: column-reverse;
   flex-wrap: wrap;
-  margin-top: 10px;
+  margin-top: 30px;
   color: #faf5d4;
   font-size: 15px;
   font-weight: 400;
@@ -124,14 +125,18 @@ header {
     font-size: 20px;
     margin-left: 10px; }
   .flex_main_search select {
-    margin-left: 10px; }
+    margin-left: 10px;
+    background-color: #112127;
+    color: #faf5d4; }
   .flex_main_search input {
     height: 25px;
     width: 350px;
     margin-left: 5px;
     margin-right: 5px;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    border: 2px solid #012022; }
   .flex_main_search button {
+    font-size: medium;
     font-weight: 400;
     font-family: 'Overpass', sans-serif;
     text-align: center;
@@ -140,7 +145,13 @@ header {
     width: 65px;
     margin-left: 5px;
     margin-right: 5px;
-    margin-bottom: 10px; }
+    margin-bottom: 10px;
+    background-color: #1c3a43;
+    color: #faf5d4;
+    border-radius: 5px;
+    border: solid 0.5px #faf5d4; }
+    .flex_main_search button:hover {
+      background-color: #112127; }
 
 .galeria_grid {
   background-color: #162b32; }
@@ -164,9 +175,10 @@ header {
 .galeria_fotos_lospibes {
   width: 90%;
   margin: 0 auto;
-  display: flex;
-  justify-content: space-around;
-  flex-flow: row wrap; }
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: auto;
+  justify-items: center; }
 
 .fotos_galeria {
   display: flex;
@@ -1166,7 +1178,9 @@ header {
     display: flex;
     justify-content: space-around;
     border-top: #fefae0 1px solid;
-    height: 160px; } }
+    height: 160px; }
+  .footer_list li {
+    margin-top: 0px; } }
 
 /* ------------ REsponsive PAGINA DE LOGEARSE ------------- */
 @media screen and (max-width: 1100px) {
